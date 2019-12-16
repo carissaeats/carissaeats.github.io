@@ -61,13 +61,13 @@ function hideFoods() {
 }
 
 function showFoods() {
-  var food = document.getElementById('places');
+  var food = document.getElementById('foods');
   food.style.display="block";
   document.getElementById("showfoods").innerHTML = "( - ) maybe later...";
 }
 
-function togglePlaces() {
-  var okay = document.getElementById('places');
+function toggleFoods() {
+  var okay = document.getElementById('foods');
   if (okay.style.display=="block") {
     hideFoods();
   }
