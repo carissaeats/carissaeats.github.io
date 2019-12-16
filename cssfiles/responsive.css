@@ -259,7 +259,7 @@
   /* For mobile phones: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
-    font-size:70%;
+    font-size:40%;
     width:88.5%;
   }
 
