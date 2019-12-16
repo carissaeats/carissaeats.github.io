@@ -78,8 +78,8 @@ function showFoods() {
 }
 
 function toggleFoods() {
-  var okay = document.getElementById('places');
-  if (okay.style.display=="block") {
+  var foodie = document.getElementById('places');
+  if (foodie.style.display=="block") {
     hideFoods();
   }
   else {
