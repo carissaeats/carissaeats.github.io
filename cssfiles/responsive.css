@@ -257,12 +257,18 @@
 
 @media only screen and (max-width:400px) {
   /* For mobile phones: */
-  .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
+  .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
     font-size:40%;
     width:88.5%;
   }
 
+  .overlay {
+    opacity:1;
+    font-size:30%;
+    width:88.5%;
+  }
+  
   .overlay2 {
     font-size:200%;
     opacity:1;
