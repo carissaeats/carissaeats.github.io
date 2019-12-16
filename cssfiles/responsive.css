@@ -27,6 +27,10 @@
   .singleimageoverlay {
     font-size:50%;
   }
+  
+  .singleimagecontainer {
+    max-width:99%;
+  }
 
   #fbappetizerdescription {
     font-size:60%;
@@ -65,7 +69,12 @@
 
   #fbappetizerdescription {
     font-size:60%;
-  } 
+  }
+  
+  .singleimagecontainer {
+    max-width:99%;
+  }
+  
 }
 
 
@@ -103,6 +112,9 @@
     font-size:40%;
   }
 
+  .singleimagecontainer {
+    max-width:99%;
+  }  
 }
 
 @media only screen and (max-width:700px) {
@@ -141,6 +153,9 @@
     opacity:1;
   }
 
+  .singleimagecontainer {
+    max-width:99%;
+  }  
 }
 
 @media only screen and (max-width:600px) {
@@ -180,6 +195,9 @@
     opacity:1;
   }
 
+  .singleimagecontainer {
+    max-width:99%;
+  }  
 }
 
 @media only screen and (max-width:500px) {
@@ -232,7 +250,9 @@
     height: auto;
   }
 
-
+  .singleimagecontainer {
+    max-width:99%;
+  }
 }
 
 @media only screen and (max-width:400px) {
@@ -288,5 +308,8 @@
   .dropdown-content {
     padding-right:7.5%;
   }
-
+  
+  .singleimagecontainer {
+    max-width:99%;
+  }
 }
