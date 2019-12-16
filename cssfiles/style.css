@@ -1,0 +1,227 @@
+body {
+  background-color: lightblue;
+  /* background: linear-gradient(to right, lightblue 0%, plum 100%);    */
+  text-align: center;
+  font-family: Courier New, monospace;
+  margin-left: 3%;
+  margin-right:3%;
+  margin-bottom:3%;
+  margin-top:1.5%;
+  color:white;
+  font-size:110%;
+  /* overflow:visible; */
+  /* float:left; */
+}
+
+.textcolorblack {
+  color:black;
+}
+
+h1 {
+  font-family: Courier New, monospace;
+  font-size:250%;
+  color:black;
+}
+
+h2 {
+  color:white;
+  font-size:200%;
+}
+
+h3 {
+  color:white;
+  font-family: 'Pacifico', cursive;
+  font-size:175%;  
+}
+
+h4 {
+  font-size:150%;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size:100%
+}
+
+#myBtn {
+  font-family: 'Montserrat', sans-serif;
+  font-size:200%
+}
+
+.topnav a{
+  padding-left: .5%;
+  padding-right: .5%;
+  text-decoration: none;
+  font-size:150%;
+  color: white;
+  text-align:center;
+  position: relative;
+  width: 20%;
+}
+
+a:hover{
+  color:mediumspringgreen;
+}
+
+.nounderline,.directory {
+  text-decoration: none;
+  color:mistyrose;
+  text-align:left;
+}
+
+footer {
+  background-color:#36454f;
+  color:white;
+  padding:2%;
+}
+
+#waterfront {
+  padding:1%;
+}
+
+.home {
+  padding-top:1%;
+  padding-bottom:3%;
+}
+
+.logo {
+  padding-bottom:1.5%;
+  /* float:left; */
+}
+
+.blogposts_aboutme {
+  padding-left:5%;
+  padding-right:5%;
+  color: black;
+}
+
+.fa {
+  padding: .7%;
+  font-size: 200%;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#eurodot {
+  color: yellow;
+}
+
+#asiadot {
+  color: red;
+}
+
+#usadot {
+  color: blue;
+}
+
+.showmorephotosbutton {
+  font-family: Courier New, monospace;
+  font-size:90%;
+  color:white;
+  padding:2%;
+  background: transparent;
+  border:solid;
+}
+
+.showmorephotosbutton:hover {
+  color:mediumspringgreen;
+  font-size:100%;
+}
+
+.buttonphotos {
+  width:30%;
+  margin: 0 auto;
+}
+
+#fbphoto1 {
+  margin: 0 auto;
+  width:80%;
+}
+
+#panorama {
+  width: 40%;
+}
+
+#fbappetizerdescriptionmobile {
+  display:none;
+}
+
+.addresses {
+  font-size:70%;
+}
+
+#suggestions {
+  color: white;
+}
+
+.dropdown {
+  overflow: hidden;
+  position: relative;
+  display:inline-block;
+}
+
+.dropdown .dropbtn {
+  font-size: 150%;    
+  border: none;
+  outline: none;
+  padding:0% 1% .1% .1%;
+  color: white;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+  text-align: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  width: 100%;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  padding:5%;
+  padding-right:15%;
+  right:0%;
+  text-align:center;
+  background-color: white;
+}
+
+.dropdown-content a {
+  color: black;
+  background-color:white;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  float: none;
+}
+
+.dropdown:hover .dropbtn {
+  color:mediumspringgreen;
+}
+
+.dropdown-content a:hover {
+  color:mediumspringgreen;
+  background-color:white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  position:absolute;
+  background-color:white;
+}
+
+.dropcontent {
+  padding:3%;
+  background-color:white;
+}
+

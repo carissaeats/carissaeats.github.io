@@ -1,0 +1,292 @@
+@media only screen and (max-width:1000px) {
+  /* For tablets: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    font-size:100%;
+  }
+
+  .overlay2 {
+    font-size:300%;
+  }
+
+  .topnav{
+    font-size:90%
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 60%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+
+  .singleimageoverlay {
+    font-size:80%;
+  }
+
+  #fbappetizerdescription {
+    font-size:60%;
+  } 
+}
+
+@media only screen and (max-width:900px) {
+  /* For tablets: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    font-size:100%;
+  }
+
+  .overlay2 {
+    font-size:300%;
+  }
+
+  .topnav{
+    font-size:80%
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 60%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+
+  .singleimageoverlay {
+    font-size:80%;
+  }
+
+  #fbappetizerdescription {
+    font-size:60%;
+  } 
+}
+
+
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    font-size:80%;
+  }
+
+  .overlay2 {
+    font-size:300%;
+  }
+
+  .topnav{
+    font-size:70%
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 60%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+
+  .singleimageoverlay {
+    font-size:70%;
+  }
+
+  #fbappetizerdescription{
+    font-size:40%;
+  }
+
+}
+
+@media only screen and (max-width:700px) {
+  /* For tablets: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    font-size:70%;
+  }
+
+  .overlay2 {
+    font-size:275%;
+  }
+
+  .topnav{
+    font-size:60%
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 60%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+  
+  .singleimageoverlay {
+    font-size:60%;
+    opacity:1;
+  }
+
+  #fbappetizerdescription{
+    font-size:40%;
+    opacity:1;
+  }
+
+}
+
+@media only screen and (max-width:600px) {
+  /* For tablets: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    opacity:1;
+    font-size:70%;
+  }
+
+  .overlay2 {
+    font-size:275%;
+    opacity:1;    
+  }
+
+  .topnav{
+    font-size:52%
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 80%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+
+  .singleimageoverlay {
+    font-size:40%;
+  }
+
+  #fbappetizerdescription {
+    font-size:30%;
+    opacity:1;
+  }
+
+}
+
+@media only screen and (max-width:500px) {
+  .overlay,.overlayasia, .overlayeurope, .overlayusa{
+    opacity:1;
+    font-size:50%;
+    width:88.5%;
+  }
+
+  .overlay2 {
+    font-size:250%;
+    opacity:1;
+  }
+
+  .topnav{
+    font-size:52%;
+  }
+
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 100%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+  
+  .singleimageoverlay{
+    font-size:40%;
+    opacity:1;
+  }
+
+  #fbappetizerdescription {
+    display:none;
+  }
+
+  #fbappetizerdescriptionmobile {
+    display: block;
+    font-size:50%;
+    color:grey;
+  }
+
+  .rotatedimage {
+    /* transform: rotate(180deg); */
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+
+}
+
+@media only screen and (max-width:400px) {
+  /* For mobile phones: */
+  .overlay, .overlayasia, .overlayeurope, .overlayusa{
+    opacity:1;
+    font-size:60%;
+    width:88.5%;
+  }
+
+  .overlay2 {
+    font-size:200%;
+    opacity:1;
+  }
+
+  .topnav{
+    font-size:45%;
+  }
+  
+  #panorama {
+    width: 100%;
+  }
+
+  .buttonphotos {
+    width: 100%;
+  }
+
+  #fbphoto1 {
+    width:100%;
+  }
+  
+  .singleimageoverlay{
+    font-size:40%;
+    opacity:1;
+  }
+
+  #fbappetizerdescription{
+    display:none;
+  }
+
+  #fbappetizerdescriptionmobile {
+    display: block;
+    font-size:50%;
+    color:grey;
+  }
+
+  .rotatedimage {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .dropdown-content {
+    padding-right:7.5%;
+  }
+
+}
