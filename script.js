@@ -1,14 +1,3 @@
-// function myFunction() {
-//   var x = document.getElementById("myTopnav");
-//   if (x.className === "topnav") {
-//     x.className += " responsive";
-//   } 
-  
-//   else {
-//     x.className = "topnav";
-//   }
-// }
-
 window.onload = function(){
   hide();
   hideFoods();
@@ -72,14 +61,14 @@ function hideFoods() {
 }
 
 function showFoods() {
-  var food = document.getElementById('foods');
+  var food = document.getElementById('places');
   food.style.display="block";
   document.getElementById("showfoods").innerHTML = "( - ) maybe later...";
 }
 
-function toggleFoods() {
-  var foodie = document.getElementById('places');
-  if (foodie.style.display=="block") {
+function togglePlaces() {
+  var okay = document.getElementById('places');
+  if (okay.style.display=="block") {
     hideFoods();
   }
   else {
