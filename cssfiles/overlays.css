@@ -141,6 +141,23 @@
 .rotatedimage {
   transform: rotate(180deg);
   display: block;
-  width: 99.9%
+  width: 99.9%;
   height: auto;
+}
+
+.comingsoonoverlay {
+  position: absolute; 
+  top: 0; 
+  color: #f1f1f1; 
+  width: 89.3%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 140%;
+  padding: 7%;
+  text-align: left;
+}
+
+.container:hover .comingsoonoverlay {
+  opacity: 1;
 }
