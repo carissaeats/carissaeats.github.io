@@ -81,7 +81,7 @@
 @media only screen and (max-width:800px) {
   /* For tablets: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay {
-    font-size:80%;
+    font-size:90%;
   }
 
   .overlay2 {
@@ -120,7 +120,7 @@
 @media only screen and (max-width:700px) {
   /* For tablets: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay {
-    font-size:70%;
+    font-size:85%;
   }
 
   .overlay2 {
@@ -162,7 +162,7 @@
   /* For tablets: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
-    font-size:70%;
+    font-size:85%;
   }
   
   .overlay {
@@ -209,7 +209,7 @@
 @media only screen and (max-width:500px) {
   .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
-    font-size:50%;
+    font-size:75%;
     width:88.5%;
   }
 
@@ -271,7 +271,7 @@
   /* For mobile phones: */
   .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
-    font-size:40%;
+    font-size:70%;
     width:88.5%;
   }
 
