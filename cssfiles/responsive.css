@@ -167,7 +167,7 @@
   
   .overlay {
     opacity:1;
-    font-size:40%;
+    font-size:85%;
     width:88.5%;
   }
   
@@ -215,7 +215,7 @@
 
   .overlay {
     opacity:1;
-    font-size:30%;
+    font-size:80%;
     width:88.5%;
   }
   
@@ -277,7 +277,7 @@
 
   .overlay {
     opacity:1;
-    font-size:20%;
+    font-size:75%;
     width:88.5%;
   }
   
@@ -333,4 +333,5 @@
   
   .directory {
     font-size: 80%;
+  }
 }
