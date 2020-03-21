@@ -10,7 +10,6 @@ body {
   color:white;
   font-size:110%;
   /* overflow:visible; */
-  /* float:left; */
 }
 
 .textcolorblack {
@@ -28,6 +27,7 @@ h2 {
   font-weight: bold;
   color:white;
   font-size:205%;
+  text-decoration: none;
 }
 
 h3 {
