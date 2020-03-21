@@ -30,13 +30,14 @@ h2 {
 }
 
 h3 {
-  color:white;
-/*   font-family: 'Pacifico', cursive; */
+  /*   font-family: 'Pacifico', cursive; */
   font-family: 'Sacramento', cursive;
   font-size:175%;  
+  color:white;
 }
 
 h4 {
+  font-family: 'Montserrat', sans-serif;
   font-size:150%;
 }
 
