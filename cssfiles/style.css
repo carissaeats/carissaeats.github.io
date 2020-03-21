@@ -24,14 +24,15 @@ h1 {
 }
 
 h2 {
-  font-family: 'Sacramento', cursive;
+  font-family: "Futura W05", Helvetica, Arial, sans-serif;
   color:white;
   font-size:210%;
 }
 
 h3 {
   color:white;
-  font-family: 'Pacifico', cursive;
+/*   font-family: 'Pacifico', cursive; */
+  font-family: 'Sacramento', cursive;
   font-size:175%;  
 }
 
