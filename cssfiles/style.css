@@ -24,14 +24,14 @@ h1 {
 }
 
 h2 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
   color:white;
   font-size:190%;
 }
 
 h3 {
-  /*   font-family: 'Pacifico', cursive; */
-  font-family: 'Sacramento', cursive;
+  font-family: 'Pacifico', cursive;
   font-size:175%;  
   color:white;
 }
