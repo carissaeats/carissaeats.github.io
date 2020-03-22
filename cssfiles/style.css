@@ -26,23 +26,23 @@ h2 {
   font-family: 'Sacramento', cursive;
   font-weight: bold;
   color:plum;
-  font-size:205%;
+  font-size:230%;
 }
 
 h3 {
   font-family: 'Pacifico', cursive;
-  font-size:150%;  
+  font-size:125%;  
   color:white;
 }
 
 h4 {
   font-family: 'Montserrat', sans-serif;
-  font-size:125%;
+  font-size:105%;
 }
 
 h5 {
   font-family: 'Montserrat', sans-serif;
-  font-size:100%
+  font-size:80%
 }
 
 .topnav a{
