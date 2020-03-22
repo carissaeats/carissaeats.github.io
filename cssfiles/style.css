@@ -27,7 +27,6 @@ h2 {
   font-weight: bold;
   color:white;
   font-size:205%;
-  text-decoration: none;
 }
 
 h3 {
@@ -64,6 +63,13 @@ a:hover{
 .nounderline,.directory {
   text-decoration: none;
   color:mistyrose;
+  text-align:left;
+}
+
+
+.blogheader {
+  text-decoration: none;
+  color:plum;
   text-align:left;
 }
 
