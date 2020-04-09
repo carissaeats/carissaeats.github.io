@@ -107,10 +107,10 @@ function toggleDrop() {
   }
 }
 
-function darkMode() {
-  var darkModeButton = document.body;
-  darkModeButton.classList.toggle("darkmode");
-}
+// function darkMode() {
+//   var darkModeButton = document.body;
+//   darkModeButton.classList.toggle("darkmode");
+// }
 
 // var mybutton = document.getElementById("myBtn");
 
