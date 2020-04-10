@@ -4,6 +4,10 @@
     font-size:100%;
   }
 
+  .overlayblogphotos {
+    font-size:80%;
+  }
+
   .overlay2 {
     font-size:300%;
   }
@@ -41,6 +45,10 @@
   /* For tablets: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     font-size:100%;
+  }
+
+  .overlayblogphotos {
+    font-size:70%;
   }
 
   .overlay2 {
@@ -84,6 +92,10 @@
     font-size:80%;
   }
 
+  .overlayblogphotos {
+    font-size:65%;
+  }
+
   .overlay2 {
     font-size:300%;
   }
@@ -121,6 +133,10 @@
   /* For tablets: */
   .overlay, .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay {
     font-size:75%;
+  }
+
+  .overlayblogphotos {
+    font-size:60%;
   }
 
   .overlay2 {
@@ -165,7 +181,7 @@
     font-size:85%;
   }
   
-  .overlay {
+  .overlay, .overlayblogphotos {
     opacity:1;
     font-size:60%;
     width:88.5%;
@@ -213,7 +229,7 @@
     width:88.5%;
   }
 
-  .overlay {
+  .overlay, .overlayblogphotos {
     opacity:1;
     font-size:55%;
     width:88.5%;
@@ -275,7 +291,7 @@
     width:88.5%;
   }
 
-  .overlay {
+  .overlay, .overlayblogphotos {
     opacity:1;
     font-size:50%;
     width:88.5%;
