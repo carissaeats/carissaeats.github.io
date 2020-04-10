@@ -45,6 +45,10 @@ h5 {
   font-size:80%
 }
 
+h6 {
+  font-size:60%;
+}
+
 .topnav a{
   padding-left: .5%;
   padding-right: .5%;
