@@ -24,6 +24,10 @@
   text-align: center;
 }
 
+.container:hover .overlay {
+  opacity: 1;
+}
+
 .overlayblogphotos {
   position: absolute; 
   bottom: 0; 
@@ -39,7 +43,7 @@
   text-align: center;
 }
 
-.container:hover .overlay {
+.container:hover .overlayblogphotos {
   opacity: 1;
 }
 
