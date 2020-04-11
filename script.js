@@ -4,7 +4,7 @@ window.onload = function(){
   hideFoods();
   hidePlaces();
   hideCaliFoods();
-  hideCaliPlaces()
+  hideCaliPlaces();
 }
 
 function hide() {
@@ -56,6 +56,28 @@ function togglePlaces() {
   }
 }
 
+function hideCaliPlaces() {
+  var caliPlace = document.getElementById('caliplaces');
+  caliPlace.style.display="none";
+  document.getElementById("showcaliplaces").innerHTML = "( + ) show me where to go!";
+}
+
+function showCaliPlaces() {
+  var caliPlace = document.getElementById('caliplaces');
+  caliPlace.style.display="block";
+  document.getElementById("showcaliplaces").innerHTML = "( - ) I've seen enough for now!";
+}
+
+function toggleCaliPlaces() {
+  var cali = document.getElementById('caliplaces');
+  if (cali.style.display=="block") {
+    hideCaliPlaces();
+  }
+  else {
+    showCaliPlaces();
+  }
+}
+
 function hideFoods() {
   var food = document.getElementById('foods');
   food.style.display="none";
@@ -78,28 +100,6 @@ function toggleFoods() {
   }
 }
 
-function hideCaliPlaces() {
-  var caliPlace = document.getElementById('caliplaces');
-  caliPlace.style.display="none";
-  document.getElementById("showcaliplaces").innerHTML = "( + ) show me where to go!";
-}
-
-function showCaliPlaces() {
-  var caliPlace = document.getElementById('caliplaces');
-  place.style.display="block";
-  document.getElementById("showcaliplaces").innerHTML = "( - ) I've seen enough for now!";
-}
-
-function toggleCaliPlaces() {
-  var cali = document.getElementById('caliplaces');
-  if (cali.style.display=="block") {
-    hideCaliPlaces();
-  }
-  else {
-    showCaliPlaces();
-  }
-}
-
 function hideCaliFoods() {
   var caliFood = document.getElementById('califoods');
   caliFood.style.display="none";
@@ -108,7 +108,7 @@ function hideCaliFoods() {
 
 function showCaliFoods() {
   var caliFood = document.getElementById('califoods');
-  food.style.display="block";
+  caliFood.style.display="block";
   document.getElementById("showcalifoods").innerHTML = "( - ) maybe later...";
 }
 
@@ -152,6 +152,11 @@ function toggleDrop() {
     showDrop();
   }
 }
+
+// function darkMode() {
+//   var darkModeButton = document.body;
+//   darkModeButton.classList.toggle("darkmode");
+// }
 
 // var mybutton = document.getElementById("myBtn");
 
