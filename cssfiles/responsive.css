@@ -232,7 +232,7 @@
   .overlay, .overlayblogphotos {
     opacity:1;
     font-size:55%;
-    width:89%;
+    width:88.8%;
   }
   
   .overlay2 {
@@ -288,15 +288,21 @@
   .overlayasia, .overlayeurope, .overlayusa, .comingsoonoverlay{
     opacity:1;
     font-size:70%;
-    width:88.5%;
+    width:88.3%;
   }
 
   .overlay, .overlayblogphotos {
     opacity:1;
     font-size:45%;
-    width:89%;
+    width:88.6%;
   }
   
+  .overlayblogphotos {
+    opacity:1;
+    font-size:35%;
+    width:88.8%;
+  }
+
   .overlay2 {
     font-size:200%;
     opacity:1;
