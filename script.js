@@ -138,7 +138,7 @@ function hideDrop() {
 function showDrop() {
   var drop = document.getElementById('dropdown-content');
   drop.style.display="block";
-  document.getElementById("dropbtn").innerHTML = "lmfao;";
+  document.getElementById("dropbtn").innerHTML = "hello";
 }
 
 function toggleDrop() {
