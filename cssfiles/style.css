@@ -2,8 +2,7 @@ body {
   background-color: powderblue;
   /* background: linear-gradient(to right, lightblue 0%, plum 100%);    */
   text-align: center;
-/*   font-family: Courier New, monospace; */
-  font-family: 'Montserrat', sans-serif;
+  font-family: Courier New, monospace;
   margin-left: 3%;
   margin-right:3%;
   margin-bottom:3%;
@@ -18,7 +17,7 @@ body {
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size:220%;
   color:black;
 }
