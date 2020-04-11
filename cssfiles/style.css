@@ -22,6 +22,9 @@ h1 {
   color:black;
 }
 
+#test {
+  font-family: 'Playfair Display', serif;
+
 h2 {
   font-family: 'Sacramento', cursive;
   font-weight: bold;
