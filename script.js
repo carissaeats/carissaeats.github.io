@@ -3,8 +3,8 @@ window.onload = function(){
   hideDrop();
   hideFoods();
   hidePlaces();
-  hideCaliFoods();
-  hideCaliPlaces();
+//   hideCaliFoods();
+//   hideCaliPlaces();
 }
 
 function hide() {
