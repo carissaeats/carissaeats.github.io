@@ -1,10 +1,10 @@
 window.onload = function(){
   hide();
   hideDrop();
-  hideFoods();
-  hidePlaces();
-//   hideCaliFoods();
-//   hideCaliPlaces();
+  // hideFoods();
+  // hidePlaces();
+  // hideCaliFoods();
+  // hideCaliPlaces();
 }
 
 function hide() {
@@ -40,6 +40,8 @@ function hidePlaces() {
   document.getElementById("showplaces").innerHTML = "( + ) show me where to go!";
 }
 
+window.onload = hidePlaces;
+
 function showPlaces() {
   var place = document.getElementById('places');
   place.style.display="block";
@@ -61,6 +63,8 @@ function hideCaliPlaces() {
   caliPlace.style.display="none";
   document.getElementById("showcaliplaces").innerHTML = "( + ) show me where to go!";
 }
+
+window.onload = hideCaliPlaces;
 
 function showCaliPlaces() {
   var caliPlace = document.getElementById('caliplaces');
@@ -84,6 +88,8 @@ function hideFoods() {
   document.getElementById("showfoods").innerHTML = "( + ) show me the food!";
 }
 
+window.onload() = hideFoods;
+
 function showFoods() {
   var food = document.getElementById('foods');
   food.style.display="block";
@@ -105,6 +111,8 @@ function hideCaliFoods() {
   caliFood.style.display="none";
   document.getElementById("showcalifoods").innerHTML = "( + ) show me the food!";
 }
+
+window.onload = hideCaliFoods;
 
 function showCaliFoods() {
   var caliFood = document.getElementById('califoods');
