@@ -23,7 +23,9 @@ h1 {
 }
 
 h2 {
-  font-family: 'Poppins', sans-serif;
+/*   font-family: 'Poppins', sans-serif; */
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
   color:plum;
   font-size:215%;
 }
