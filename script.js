@@ -1,10 +1,10 @@
 window.onload = function(){
   hide();
-  hideCaliFoods();
-  hideCaliPlaces();  
+  hideDrop();
   hideFoods();
   hidePlaces();
-  hideDrop();
+  hideCaliFoods();
+  hideCaliPlaces();  
 }
 
 function hide() {
