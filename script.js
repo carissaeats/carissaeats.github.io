@@ -1,9 +1,9 @@
 window.onload = function(){
   hide();
+  hideCaliFoods();
+  hideCaliPlaces();  
   hideFoods();
   hidePlaces();
-  hideCaliFoods();
-  hideCaliPlaces();
   hideDrop();
 }
 
