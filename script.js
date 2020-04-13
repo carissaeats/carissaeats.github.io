@@ -1,12 +1,8 @@
 window.onload = function(){
   hide();
-  hideDrop();
   hideFoods();
   hidePlaces();
-  // hideNolaFoods();
-  // hideNolaPlaces(); 
-  hideCaliFoods();
-  hideCaliPlaces();
+  hideDrop();
 }
 
 function hide() {
@@ -58,50 +54,6 @@ function togglePlaces() {
   }
 }
 
-function hideCaliPlaces() {
-  var caliPlace = document.getElementById('caliplaces');
-  caliPlace.style.display="none";
-  document.getElementById("showcaliplaces").innerHTML = "( + ) show me where to go!";
-}
-
-function showCaliPlaces() {
-  var caliPlace = document.getElementById('caliplaces');
-  caliPlace.style.display="block";
-  document.getElementById("showcaliplaces").innerHTML = "( - ) I've seen enough for now!";
-}
-
-function toggleCaliPlaces() {
-  var cali = document.getElementById('caliplaces');
-  if (cali.style.display=="block") {
-    hideCaliPlaces();
-  }
-  else {
-    showCaliPlaces();
-  }
-}
-
-// function hideNolaPlaces() {
-//   var nolaPlace = document.getElementById('nolaplaces');
-//   nolaPlace.style.display="none";
-//   document.getElementById("shownolaplaces").innerHTML = "( + ) show me where to go!";
-// }
-
-// function showNolaPlaces() {
-//   var nolaPlace = document.getElementById('nolaplaces');
-//   nolaPlace.style.display="block";
-//   document.getElementById("shownolaplaces").innerHTML = "( - ) I've seen enough for now!";
-// }
-
-// function toggleNolaPlaces() {
-//   var nola = document.getElementById('nolaplaces');
-//   if (nola.style.display=="block") {
-//     hideNolaPlaces();
-//   }
-//   else {
-//     showNolaPlaces();
-//   }
-// }
-
 function hideFoods() {
   var food = document.getElementById('foods');
   food.style.display="none";
@@ -115,7 +67,7 @@ function showFoods() {
 }
 
 function toggleFoods() {
-  var okay = document.getElementById('foods');
+  var okay = document.getElementById('places');
   if (okay.style.display=="block") {
     hideFoods();
   }
@@ -123,50 +75,6 @@ function toggleFoods() {
     showFoods();
   }
 }
-
-function hideCaliFoods() {
-  var caliFood = document.getElementById('califoods');
-  caliFood.style.display="none";
-  document.getElementById("showcalifoods").innerHTML = "( + ) show me the food!";
-}
-
-function showCaliFoods() {
-  var caliFood = document.getElementById('califoods');
-  caliFood.style.display="block";
-  document.getElementById("showcalifoods").innerHTML = "( - ) maybe later...";
-}
-
-function toggleCaliFoods() {
-  var cali = document.getElementById('califoods');
-  if (cali.style.display=="block") {
-    hideCaliFoods();
-  }
-  else {
-    showCaliFoods();
-  }
-}
-
-// function hideNolaFoods() {
-//   var nolaFood = document.getElementById('nolafoods');
-//   nolaFood.style.display="none";
-//   document.getElementById("shownolafoods").innerHTML = "( + ) show me the food!";
-// }
-
-// function showNolaFoods() {
-//   var nolaFood = document.getElementById('nolafoods');
-//   nolaFood.style.display="block";
-//   document.getElementById("shownolafoods").innerHTML = "( - ) maybe later...";
-// }
-
-// function toggleNolaFoods() {
-//   var nola = document.getElementById('nolafoods');
-//   if (nola.style.display=="block") {
-//     hideNolaFoods();
-//   }
-//   else {
-//     showNolaFoods();
-//   }
-// }
 
 function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -186,7 +94,7 @@ function hideDrop() {
 function showDrop() {
   var drop = document.getElementById('dropdown-content');
   drop.style.display="block";
-  document.getElementById("dropbtn").innerHTML = "hello";
+  document.getElementById("dropbtn").innerHTML = "hello;";
 }
 
 function toggleDrop() {
@@ -198,36 +106,3 @@ function toggleDrop() {
     showDrop();
   }
 }
-
-// function darkMode() {
-//   var darkModeButton = document.body;
-//   darkModeButton.classList.toggle("darkmode");
-// }
-
-// var mybutton = document.getElementById("myBtn");
-
-// window.onscroll = function() {scrollFunction()};
-
-// function scrollFunction() {
-//   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-//     mybutton.style.display = "block";
-//   } else {
-//     mybutton.style.display = "none";
-//   }
-// }
-
-// function topFunction() {
-//   document.body.scrollTop = 0;
-//   document.documentElement.scrollTop = 0;
-// }
-
-// function myFunction() {
-//   var x = document.getElementById("myTopnav");
-//   if (x.className === "topnav") {
-//     x.className += " responsive";
-//   } 
-  
-//   else {
-//     x.className = "topnav";
-//   }
-// }
