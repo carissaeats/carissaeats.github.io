@@ -1,153 +1,133 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>BEYOND... | @CarissaEats</title>
-    <link href="/cssfiles/style.css" rel="stylesheet" type="text/css" />
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">  
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
+    <title>Beyond... | @CarissaEats</title>
+    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
+    <script type="text/javascript" src="/assets/js/script.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">    
-    <script type="text/javascript" src="script.js"></script>
-    <link href="/cssfiles/overlays.css" rel="stylesheet">
-    <link href="/cssfiles/responsive.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
   </head>
   <body>
-    <a href="index.html"><img src="/images/logo.JPG" height="200px" class="logo"></a>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
+    <a href="/index.html"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
     <div class="topnav" id="myTopnav">
-      <a href="index.html">HOME</a>
-      <a href="njeats.html">JERSEY&nbspEATS!</a>
-      <a href="nyceats.html">NYC&nbspEATS!</a>
-      <a href="beyond.html">BEYOND...</a>
+      <a href="/index.html">HOME</a>
+      <a href="/jerseyeats.html">JERSEY&nbspEATS!</a>      
+      <a href="/nyceats.html">NYC&nbspEATS!</a>
+      <a href="/beyond.html">BEYOND...</a>
       <div style="display: inline" class="dropdown">
         <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="aboutme.html">ABOUT&nbspME</a></div>
-          <div class="dropcontent"><a href="contact.html">CONTACT!</a></div>
+          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
+          <div class="dropcontent"><a href="/contact.html">CONTACT!</a></div>
         </div>
       </div>
-    </div>    
+    </div>
     <h1>Beyond...</h1>
-    <p>Follow my food adventures in the cities + countries beyond NJ-NYC!</p>
-    <p>
-      <table class="home" align="center">
-        <tr>
-          <td class="container"id="asiadot">&#x25CF</td>
-          <td class="container" id="eurodot">&#x25CF</td>
-          <td class="container" id="usadot">&#x25CF</td>
-        </tr>
-        <tr>
-          <td class="container" id="textcolorblack">Asia</td>
-          <td class="container" id="textcolorblack">Europe</td>
-          <td class="container" id="textcolorblack">USA</td>
-        </tr>
-    </p>
-    <div>
-      <table class="home">
-        <tr>
-          <td class="container">
-            <a href="/blogposts/beyond/nola.html">
-              <img src="/images/beyond/nola/cafedumondecrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/beyond/nola.html">
-              <div class="overlay">NEW ORLEANS</div>
-              <div class="overlayusa"><strong>&#x25CF</strong></div>             
-            </a>
-          </td>
-          <td class="container">
-            <a href="/blogposts/beyond/seattle.html">
-            <img src="/images/beyond/seattle/platelunchcrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/beyond/seattle.html">
-              <div class="overlay">SEATTLE</div>
-              <div class="overlayusa"><strong>&#x25CF</strong></div>            
-            </a>
-          </td>
-          <td class="container">
-            <a href="/blogposts/beyond/losangeles.html">
-              <img src="/images/beyond/losangeles/afterscrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/beyond/losangeles.html">
-              <div class="overlay">LOS ANGELES</div>
-              <div class="overlayusa"><strong>&#x25CF</strong></div>
-            </a>    
-          </td>
-        </tr>        
-        <tr>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/guangzhou.html"> -->
-            <img src="/images/beyond/china/puffcrop.jpg" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/guangzhou.html"> -->
-              <div class="overlay">GUANGZHOU</div>
-              <div class="overlayasia"><strong>&#x25CF</strong></div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>              
-            <!-- </a> -->
-          </td>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/taiwan.html"> -->
-            <img src="/images/beyond/taiwan/taiwanbubblecrop.jpg" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/taiwan.html"> -->
-              <div class="overlay">TAIWAN</div>
-              <div class="overlayasia"><strong>&#x25CF</strong></div>  
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>            
-            <!-- </a> -->             
-          </td>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/singapore.html"> -->
-            <img src="/images/beyond/singapore/sataycrop.jpg" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/singapore.html"> -->
-              <div class="overlay">SINGAPORE</div>
-              <div class="overlayasia"><strong>&#x25CF</strong></div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>             
-            <!-- </a> -->
-          </td>
-        </tr>
-        <tr>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/israel.html"> -->
-            <img src="/images/beyond/israel/israelfood.JPG" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/israel.html"> -->
-              <div class="overlay">ISRAEL</div>
-              <div class="overlayasia"><strong>&#x25CF</strong></div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>             
-            <!-- </a> -->
-          </td>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/finland.html"> -->
-            <img src="/images/beyond/finland/finnypizza1crop.jpg" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/finland.html"> -->
-              <div class="overlay">FINLAND</div>
-              <div class="overlayeurope"><strong>&#x25CF</strong></div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div> 
-            <!-- </a> -->              
-          </td>
-          <td class="container">
-            <!-- <a href="/blogposts/beyond/paris.html"> -->
-            <img src="/images/beyond/paris/macarons.jpg" height="250px" width="200px" class="image">
-            <!-- </a> -->
-            <!-- <a href="/blogposts/beyond/paris.html"> -->
-              <div class="overlay">PARIS</div>
-              <div class="overlayeurope"><strong>&#x25CF</strong></div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div> 
-            <!-- </a> -->              
-          </td>
-        </tr>
-      </table>
-    </div> 
-    <footer>&copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-    <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a></footer> 
+    <section>
+      <div class="home">
+  
+
+
+  <!-- <ul class="post-list" style="text-align:left;"> -->
+    <div style="text-align:left">
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/beyond/2020/06/03/seattle.html">
+                  Seattle
+                </a>
+              </h4><span class="post-meta">&nbspJun 3, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/beyond/2020/06/03/seattle.html"></a>
+                  <table class="home"> <td class="container"> <img src="/assets/images/beyond/seattle/platelunchcrop.jpg" height="250px" class="image" /> <div class="overlayblogphotos">Korean Sizzling Spicy Pork Belly Rice Bowl from Byte Food Truck</div> </td> <td class="container"> <img src="/assets/images/beyond/seattle/pikeplace.jpg" height="250px" class="image" /> <div class="overlayblogphotos">@ Pike Place Market</div> </td> </table> <p>Welcome to one of my favorite cities!! 😊 While it’s known for the constant rain, the Seattle summer weather is absolutely perfect...
+                </div>
+              </p></div>
+            <br>
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/beyond/2020/06/02/losangeles.html">
+                  Los Angeles
+                </a>
+              </h4><span class="post-meta">&nbspJun 2, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/beyond/2020/06/02/losangeles.html"></a>
+                  <div class="singleimagecontainer" text-align="center"> <img src="/assets/images/beyond/losangeles/laviews.JPG" height="250px" class="singleimage" /> <div class="singleimageoverlay"> ~ Long Beach Views ~ </div> </div> <p>WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I had always been interested in life on the West Coast. New York City is a very fast city - everyone is...
+                </div>
+              </p></div>
+            <br>
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/beyond/2020/06/01/nola.html">
+                  New Orleans
+                </a>
+              </h4><span class="post-meta">&nbspJun 1, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/beyond/2020/06/01/nola.html"></a>
+                  <div class="singleimagecontainer" text-align="center"> <img src="/assets/images//beyond/nola/bourbonst.JPG" height="250px" class="singleimage" /> <div class="singleimageoverlay">Bourbon Street</div> </div> <p>Welcome to The Big Easy, a city full of jazz, crazy good food, and of course, Mardi Gras! New Orleans (NOLA) is truly a city like no other. Yes, every city has its own unique charms, but NOLA has a distinctive, one-of-a-kind style and such a...
+                </div>
+              </p></div>
+            <br></div>
+
+    <!-- <table class="home">
+      <tr class="row1">
+<td class="col1">
+        
+        <td class="container">
+          <a class="nounderline" href="/beyond/2020/06/03/seattle.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">Seattle</div>
+          </a>  
+        </td>
+      </td><td class="col2">
+        
+        <td class="container">
+          <a class="nounderline" href="/beyond/2020/06/02/losangeles.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">Los Angeles</div>
+          </a>  
+        </td>
+      </td><td class="col3">
+        
+        <td class="container">
+          <a class="nounderline" href="/beyond/2020/06/01/nola.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">New Orleans</div>
+          </a>  
+        </td>
+      </td></tr>
+
+      <p>
+        <h4 style="display:inline;">
+          <a class="nounderline" href="">
+            
+          </a>
+        </h4><span class="post-meta">&nbsp</span>
+      </p>
+    </table> --></div>
+    </section>
+    <footer>
+        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
+        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
+    </footer>
   </body>
 </html>

@@ -1,120 +1,133 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>NYC EATS! | @CarissaEats</title>
-    <link href="/cssfiles/style.css" rel="stylesheet" type="text/css" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
+    <title>NYC Eats! | @CarissaEats</title>
+    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
+    <script type="text/javascript" src="/assets/js/script.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">    
-    <link href="/cssfiles/overlays.css" rel="stylesheet">
-    <link href="/cssfiles/responsive.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">    
+    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
   </head>
   <body>
-    <a href="index.html"><img src="/images/logo.JPG" height="200px" class="logo"></a>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
+    <a href="/index.html"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
     <div class="topnav" id="myTopnav">
-      <a href="index.html">HOME</a>
-      <a href="njeats.html">JERSEY&nbspEATS!</a>
-      <a href="nyceats.html">NYC&nbspEATS!</a>
-      <a href="beyond.html">BEYOND...</a>
+      <a href="/index.html">HOME</a>
+      <a href="/jerseyeats.html">JERSEY&nbspEATS!</a>      
+      <a href="/nyceats.html">NYC&nbspEATS!</a>
+      <a href="/beyond.html">BEYOND...</a>
       <div style="display: inline" class="dropdown">
         <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="aboutme.html">ABOUT&nbspME</a></div>
-          <div class="dropcontent"><a href="contact.html">CONTACT!</a></div>
+          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
+          <div class="dropcontent"><a href="/contact.html">CONTACT!</a></div>
         </div>
-      </div>    
+      </div>
     </div>
     <h1>NYC Eats!</h1>
-<!--     <p>Posts marked with an asterisk (*) are guides that are updated as I find places!</p> -->
-    <div>
-      <table class="home">
-        <tr>
-          <td class="container">
-            <a href="/blogposts/nyceats/yamasushi.html">
-              <img src="/images/nyceats/yamasushi/lunchbento.JPG" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/yamasushi.html">
-              <div class="njnycoverlay">Wasa-bi Happy 😊 Yama Sushi!</div>
-            </a>
-          </td>          
-          <td class="container">
-            <a href="/blogposts/nyceats/fluffypancakes.html">
-              <img src="/images/nyceats/pancake/fluffypinkcropped.jpg" height="250px width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/fluffypancakes.html">
-              <div class="njnycoverlay">It's So Fluffy, I'm Gonna ~~</div>                               
-            </a>
-          </td>
-          <td class="container">
-            <a href="/blogposts/nyceats/gyukaku.html">
-              <img src="/images/nyceats/gyukaku/tunarice.JPG" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/gyukaku.html">
-              <div class="njnycoverlay">Gyu-Kaku Japanese BBQ!!</div>
-            </a>              
-          </td>                   
-        </tr>
-        <!-- <tr>
-          <td class="container">
-            <a href="/blogposts/nyceats/burgerguide.html">
-              <img src="/images/nyceats/burger/shakeshack.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/burgerguide.html">
-              <div class="njnycoverlay">BurGRRR! The Burger Guide.</div>
-              <div class="overlay2"><strong>*</strong></div>
-            </a>
-          </td>          
-          <td class="container">
-            <a href="/blogposts/nyceats/icecreamguide.html">
-              <img src="/images/nyceats/icecream/taiyakicrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/icecreamguide.html">
-              <div class="njnycoverlay">the manhattan ice cream guide!</div>
-              <div class="overlay2"><strong>*</strong></div>
-            </a>              
-          </td>          
-          <td class="container">
-            <a href="/blogposts/nyceats/eggwaffles.html">
-              <img src="/images/nyceats/gaidanjai/wowfullscrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/eggwaffles.html">
-              <div class="njnycoverlay"><em>gai dan jai</em>: EGG WAFFLES!</div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>                                    
-            </a>
-          </td>
-          <td class="container">
-            <a href="/blogposts/nyceats/spotdessertbar.html">
-              <img src="/images/nyceats/spotdessert/spotdessert.jpg" height="250px width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/spotdessertbar.html">
-              <div class="njnycoverlay">spot me @ spot dessert bar!</div>
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>                                  
-            </a>
-          </td> -->
-          <!-- <td class="container">
-            <a href="/blogposts/nyceats/smorgasburg.html">
-              <img src="/images/nyceats/smorgasburg/bigmozzcrop.jpg" height="250px" width="200px" class="image">
-            </a>
-            <a href="/blogposts/nyceats/smorgasburg.html">
-              <div class="overlay">the guide to smorgasburg!</div>
-              <div class="overlay2"><strong>*</strong></div>                                
-              <div class="comingsoonoverlay"><strong>COMING SOON!</strong></div>                                  
-            </a>
-          </td>                                             -->
-        <!-- </tr> -->
-      </table>
-    </div> 
-    <footer>&copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-    <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a></button></footer> 
+    <section>
+      <div class="home">
+  
+
+
+  <!-- <ul class="post-list" style="text-align:left;"> -->
+    <div style="text-align:left">
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/nyceats/2020/07/03/yamasushi.html">
+                  Wasa-bi Happy 😊 Yama Sushi
+                </a>
+              </h4><span class="post-meta">&nbspJul 3, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/nyceats/2020/07/03/yamasushi.html"></a>
+                  <div class="singleimagecontainer"> <img src="/assets/images/nyceats/yamasushi/lunchbento.JPG" height="250px" class="singleimage" /> </div> <p><strong><a href="http://www.yama-nyc.com/" class="nounderline" target="_blank">Yama Sushi</a></strong> is definitely a spot you’d skip over at first glance. It has an unassuming, dark exterior to go along with its basement location, so it wouldn’t be somewhere I’d choose initially, but this restaurant is my dad’s favorite place in New York. About 20 years...
+                </div>
+              </p></div>
+            <br>
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/nyceats/2020/07/02/fluffy-pancakes.html">
+                  It&#39;s So Fluffy, I&#39;m Gonna ~~
+                </a>
+              </h4><span class="post-meta">&nbspJul 2, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/nyceats/2020/07/02/fluffy-pancakes.html"></a>
+                  <div class="singleimagecontainer" text-align="center"> <img src="/assets/images/nyceats/pancake/fluffypinkcropped.jpg" height="250px" class="singleimage" /> </div> <p><strong><a href="https://taiyakinyc.com/" class="nounderline" target="_blank">Taiyaki NYC</a></strong> is known for their Japanese fish-shaped cones filled with soft serve ice cream. The texture of the cones are a little bit like waffles, but so much better. Traditionally, they’re stuffed with anko, or sweet red azuki bean paste, but Taiyaki offers them with...
+                </div>
+              </p></div>
+            <br>
+          
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="/nyceats/2020/07/01/gyu-kaku.html">
+                  Gyu-Kaku Japanese BBQ
+                </a>
+              </h4><span class="post-meta">&nbspJul 1, 2020</span><p>
+                <div>
+                  <a class="nounderline" href="/nyceats/2020/07/01/gyu-kaku.html"></a>
+                  <div class="singleimagecontainer" text-align="center"> <img src="/assets/images/nyceats/gyukaku/gyugrill.jpg" height="150px" class="singleimage" /> <div class="singleimageoverlay"> Pork belly, Bistro Hanger Steak, Spicy Pork, and Assorted Veggie Packet </div> </div> <p>With over 700 locations world wide, the global franchise restaurant chain, Gyu-Kaku, is definitely not unique to NYC, but I do live close to the city, so Manhattan is the most accessible place for me...
+                </div>
+              </p></div>
+            <br></div>
+
+    <!-- <table class="home">
+      <tr class="row1">
+<td class="col1">
+        
+        <td class="container">
+          <a class="nounderline" href="/nyceats/2020/07/03/yamasushi.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">Wasa-bi Happy 😊 Yama Sushi</div>
+          </a>  
+        </td>
+      </td><td class="col2">
+        
+        <td class="container">
+          <a class="nounderline" href="/nyceats/2020/07/02/fluffy-pancakes.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">It&#39;s So Fluffy, I&#39;m Gonna ~~</div>
+          </a>  
+        </td>
+      </td><td class="col3">
+        
+        <td class="container">
+          <a class="nounderline" href="/nyceats/2020/07/01/gyu-kaku.html">
+            <div class="singleimagecontainer" text-align="center" style="padding-right:2%;padding-top:2%">
+    <img src="" height="250px" class="singleimage">
+</div>
+            <div class="overlay">Gyu-Kaku Japanese BBQ</div>
+          </a>  
+        </td>
+      </td></tr>
+
+      <p>
+        <h4 style="display:inline;">
+          <a class="nounderline" href="">
+            
+          </a>
+        </h4><span class="post-meta">&nbsp</span>
+      </p>
+    </table> --></div>
+    </section>
+    <footer>
+        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
+        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
+    </footer>
   </body>
 </html>

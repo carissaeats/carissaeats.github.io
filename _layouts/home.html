@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <title>HOME | @CarissaEats</title>
-    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
+    <title>{{ page.title }} | @CarissaEats</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/cssfiles/responsive.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
@@ -34,20 +34,7 @@
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
     <section>
-      <table class="home">
-    <td class="container"><a href="/jerseyeats.html">
-        <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image" /></a>
-        <a href="jerseyeats.html"><div class="overlay">JERSEY EATS!</div></a></td>        
-    <td class="container"><a href="/nyceats.html">
-        <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image" /></a>
-        <a href="nyceats.html"><div class="overlay">NYC EATS!</div></a>
-    </td>    
-    <td class="container"><a href="/beyond.html">
-        <img src="/assets/images/beyond/losangeles/okonomiyakicrop.jpg" height="250px" class="image" /></a>
-        <a href="beyond.html"><div class="overlay">BEYOND...</div></a>
-    </td>
-</table>
-
+      {{ content }}
     </section>
     <footer>
         &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
