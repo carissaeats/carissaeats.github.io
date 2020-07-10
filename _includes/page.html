@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<div class="home">
+  {{ content }}
+
+  {% assign category = page.name | remove: ".md" %}
+
+  {%- if site.posts.size > 0 -%}
+    <!-- <ul class="post-list" style="text-align:left;"> -->
+    <div style="text-align:left">
+        {%- for post in site.categories[category] -%}
+          {% assign content = post.content | strip_newlines %}
+          {% if content != ""  %}
+            <div class="blogposts_aboutme">
+              <h4 style="display:inline;">
+                <a class="nounderline" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h4>
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
+              {%- if site.show_excerpts -%}
+              <p>
+                <div>
+                  <a class="nounderline" href="{{ post.url | relative_url }}"></a>
+                  {{ post.content | truncatewords: 58 }}
+                </div>
+              </p>
+              {%- endif -%}
+            </div>
+            <br>
+          {%- endif -%}
+        {%- endfor -%}
+    </div>
+
+    <!-- <table class="home">
+      {% tablerow post in site.categories[category] cols:3 %}
+        {% assign image = post.images[0] %}
+        <td class="container">
+          <a class="nounderline" href="{{ post.url | relative_url }}">
+            {% include image.html image=image %}
+            <div class="overlay">{{ post.title | escape }}</div>
+          </a>  
+        </td>
+      {% endtablerow %}
+      <p>
+        <h4 style="display:inline;">
+          <a class="nounderline" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h4>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
+      </p>
+    </table> -->
+  {%- endif -%}
+</div>
