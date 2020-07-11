@@ -47,11 +47,11 @@
                 {% assign content = post.content | strip_newlines %}
                 {% if content != ""  %}
                   <div class="blogposts_aboutme">
-                    <h4 style="display:inline;">
+                    <h3 style="display:inline;">
                       <a class="nounderline" href="{{ post.url | relative_url }}">
                         {{ post.title | escape }}
                       </a>
-                    </h4>
+                    </h3>
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
                     {%- if site.show_excerpts -%}
