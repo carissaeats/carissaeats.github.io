@@ -20,7 +20,7 @@
 
 title: CarissaEats
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.carissaeats.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.carissaeats.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 show_excerpts: true
 github_username:  jekyll
