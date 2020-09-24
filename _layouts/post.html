@@ -9,6 +9,8 @@
       <title>{{ page.title }} | Jersey Eats! | @CarissaEats</title>
     {% elsif page.categories[0] == 'beyond' %}
       <title>{{ page.title }} | Beyond... | @CarissaEats</title>
+    {% elsif page.categories[0] == 'recipes' %}
+      <title>{{ page.title }} | Recipes! | @CarissaEats</title>      
     {%- else -%}
       <title>{{ page.title }} | @CarissaEats</title>
     {%- endif -%}
@@ -67,7 +69,11 @@
       {% elsif page.categories[0] == 'beyond' %}
         <div class="directory">
           <a href="/index.html" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>      
+        </div>  
+      {% elsif page.categories[0] == 'recipes' %}
+        <div class="directory">
+          <a href="/index.html" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes!</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
+        </div>            
       {%- endif -%}
     {% else %}
       {% if page.categories[0] == 'nyceats' %}
@@ -81,7 +87,11 @@
       {% elsif page.categories[0] == 'beyond' %}
         <div class="directory">
           <a href="/index.html" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>      
+        </div>
+      {% elsif page.categories[0] == 'recipes' %}
+        <div class="directory">
+          <a href="/index.html" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes!</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
+        </div>              
       {%- endif -%}        
     {%- endif -%}   
     <p><div class="blogposts_aboutme">
