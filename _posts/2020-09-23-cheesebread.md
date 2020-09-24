@@ -23,7 +23,7 @@ They’ve been perfectly shaped by the muffin mold the past two times I’ve mad
 
 <table class="home">
     <td class="container">
-        <img src="/assets/images/recipes/cheesebread/cheesebread4.jpg" height="250px" class="singleimage">
+        <img src="/assets/images/recipes/cheesebread/cheesebread4.JPG" height="250px" class="singleimage">
         <div class="overlayblogphotos">1st Time Cheese Breads (still really <em>goud-a</em>)</div>
     </td>
     <td class="container">
