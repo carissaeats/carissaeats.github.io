@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     {% if page.categories[0] == 'nyceats' %}
       <title>{{ page.title }} | NYC EATS! | @CarissaEats</title>
     {% elsif page.categories[0] == 'jerseyeats' %}
@@ -14,15 +15,7 @@
     {%- else -%}
       <title>{{ page.title }} | @CarissaEats</title>
     {%- endif -%}
-    {% if page.title == 'Seattle' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/seattlescript.js"></script>
-    {% elsif page.title == 'Los Angeles' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/caliscript.js"></script>  
-    {% elsif page.title == 'New Orleans' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/nolascript.js"></script>  
-    {%- endif -%}
     <link rel="stylesheet" href="{{site.baseurl}}/assets/cssfiles/responsive.css">
-    <script type="text/javascript" src="{{site.baseurl}}/assets/js/script.js"></script>
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
@@ -48,12 +41,12 @@
         <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
+          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
         </div>
       </div>
-      <a href="/aboutme.html" class="more">ABOUT&nbspME</a>
       <a href="/recipes.html" class="more">RECIPES!</a>
+      <a href="/aboutme.html" class="more">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
     <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
@@ -97,10 +90,10 @@
     <p><div class="blogposts_aboutme">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {% if page.directorytitle %}
-        <h2 style="display:inline;">{{ page.directorytitle }}</h2>
+        <h2 style="display:inline;">{{ page.directorytitle }}&nbsp;</h2>
         <span class="post-meta" style="color:grey">{{ page.date | date: date_format }}</span>
       {% else %}
-        <h2 style="display:inline;">{{ page.title }}</h2>
+        <h2 style="display:inline;">{{ page.title }}&nbsp;</h2>
         <span class="post-meta" style="color:grey">{{ page.date | date: date_format }}</span>
       {%- endif -%}
       <p>{{ content }}</p>
@@ -115,5 +108,13 @@
         &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
         <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
     </footer>
+    {% if page.title == 'Seattle' %}
+      <script type="text/javascript" src="{{site.baseurl}}/assets/js/seattlescript.js"></script>
+    {% elsif page.title == 'Los Angeles' %}
+      <script type="text/javascript" src="{{site.baseurl}}/assets/js/caliscript.js"></script>  
+    {% elsif page.title == 'New Orleans' %}
+      <script type="text/javascript" src="{{site.baseurl}}/assets/js/nolascript.js"></script>  
+    {%- endif -%}
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/script.js"></script>
   </body>
 </html>

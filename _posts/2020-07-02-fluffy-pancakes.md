@@ -3,6 +3,7 @@ layout: post
 title:  "It's So Fluffy, I'm Gonna ~~"
 directorytitle: "Fluffy Soufflé Pancakes"
 categories: nyceats
+description: Fluffy Soufflé pancakes have arrived in NYC, and they're coming in HOT!! Trying Taiyaki and Fluffy's from Smorgasburg. 
 ---
 <div class="singleimagecontainer" text-align="center">
     <img src="/assets/images/nyceats/pancake/fluffypinkcropped.jpg" height="250px" class="singleimage">

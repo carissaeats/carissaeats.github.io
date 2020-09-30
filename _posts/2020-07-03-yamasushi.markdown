@@ -3,6 +3,7 @@ layout: post
 title:  "Wasa-bi Happy 😊 Yama Sushi"
 directorytitle: "Yama Sushi"
 categories: nyceats
+description: Yama Sushi may be underground, but they serve some FRESH sashimi and awesome bento boxes. 
 ---
 <div class="singleimagecontainer" >
     <img src="/assets/images/nyceats/yamasushi/lunchbento.JPG" height="250px" class="singleimage">

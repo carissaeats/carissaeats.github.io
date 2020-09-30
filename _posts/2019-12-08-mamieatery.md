@@ -3,12 +3,13 @@ layout: post
 title: "I'm Gonna Stand Banh YOU!"
 directorytitle: "Ma Mì Eatery"
 categories: jerseyeats
+description: I'm gonna stand "banh" you! Ma Mì Eatery puts a fire spin on some of your favorite South East Asian dishes. See my favorites...
 ---
 <div class="singleimagecontainer" text-align="center">
     <img src="/assets/images/jerseyeats/mami/mamicrop.jpg" height="250px" class="singleimage"> 
 </div>
 
-**[Ma Mì Eatery](https://mamieatery.com/){:class="nounderline" target="_blank"}** is a fast casual Vietnamese eatery in Closter, and also the sister restaurant to the popular **[Simply Vietnamese](http://simplyvietnamese.info/){:class="nounderline" target="_blank"}** in Tenafly!
+**[Ma Mì Eatery](https://mamieatery.com/){:class="nounderline" target="_blank"}** is a fast-casual Vietnamese eatery in Closter, and also the sister restaurant to the popular **[Simply Vietnamese](http://simplyvietnamese.info/){:class="nounderline" target="_blank"}** in Tenafly!
 
 Ma Mì serves dishes like pho, banh mi, summer rolls, pad Thai, fried rice, salads, and bao buns. As a counter service restaurant, the service is quick, but the food is still made to order and always fresh!
 

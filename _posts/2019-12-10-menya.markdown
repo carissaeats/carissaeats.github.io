@@ -2,6 +2,7 @@
 layout: post
 title:  "Menya Sandaime"
 categories: jerseyeats
+description: Arguably the best ramen in Bergen County is at Menya Sandaime! Tsukemen, ramen, pork buns, chicken teriyaki bowls, and MORE!
 ---
 <div class="singleimagecontainer" text-align="center">
     <img src="/assets/images/jerseyeats/menyasandaime/menya.JPG" height="250px" class="singleimage"> 

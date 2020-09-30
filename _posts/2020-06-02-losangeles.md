@@ -2,6 +2,7 @@
 layout: post
 title: "Los Angeles"
 categories: beyond
+description: Exploring Los Angeles one bite at a time with @CarissaEats! Okonomiyaki, Buzzfeed Worth It! Steak, Boba are a few of my favorites from this trip. 
 ---
 <div class="singleimagecontainer" text-align="center">
     <img src="/assets/images/beyond/losangeles/laviews.JPG" height="250px" class="singleimage">

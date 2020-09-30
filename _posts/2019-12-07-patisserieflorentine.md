@@ -2,6 +2,7 @@
 layout: post
 title: "Patisserie Florentine"
 categories: jerseyeats
+description: Patisserie Florentine serves up one heck of a brunch, so here's some of my recommendations!
 ---
 <div class="singleimagecontainer" text-align="center">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg" height="250px" class="singleimage">
