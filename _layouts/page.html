@@ -59,11 +59,11 @@
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
                     {%- if site.show_excerpts -%}
-                    <p>
-                      <div>
-                        {{ post.content | truncatewords: 58 }}
-                      </div>
-                    </p>
+                      <p>
+                        <div>
+                          {{ post.content | truncatewords: 58 }}
+                        </div>
+                      </p>
                     {%- endif -%}
                   </div>
                   <br>
