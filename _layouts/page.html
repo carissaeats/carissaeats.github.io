@@ -21,22 +21,13 @@
     <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
     <a href="{{site.url}}"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
     <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a class="more"><p></p></a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a><br>
       <a href="{{site.url}}">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS!</a>      
-      <a href="/nyceats.html">NYC&nbspEATS!</a>
+      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+      <a href="/nyceats.html">NYC&nbspEATS</a>
       <a href="/beyond.html">BEYOND...</a>
-      <div style="display: inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
-          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
-        </div>
-      </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/aboutme.html" class="more">ABOUT&nbspME</a>
+      <a href="/recipes.html">RECIPES!</a>
+      <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>{{ page.title | escape }}</h1>
     <div class="home">
@@ -45,7 +36,6 @@
         {% assign category = page.name | remove: ".md" %}
       
         {%- if site.posts.size > 0 -%}
-          <!-- <ul class="post-list" style="text-align:left;"> -->
           <div style="text-align:left">
               {%- for post in site.categories[category] -%}
                 {% assign content = post.content | strip_newlines %}

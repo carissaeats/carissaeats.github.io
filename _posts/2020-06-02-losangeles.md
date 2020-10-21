@@ -57,19 +57,20 @@ Check out the places I ate and visited during my Thanksgiving trip!
     this place. 
     </p>
     <h5>
-    <a href="https://unclejohnsdtla.com/" target="_blank" class="nounderline">
-    Uncle John's Cafe</a>
+        <a href="https://unclejohnsdtla.com/" target="_blank" class="nounderline">
+            Uncle John's Cafe
+        </a>
     </h5>
-    <table class="home">
-        <td class="container">
+    <div class="flex-container">
+        <div class="flex-item-left">
             <img src="/assets/images/beyond/losangeles/unclejohns.jpg" height="250px" class="image">
-            <div class="overlayblogphotos">Steak + Eggs</div>
-        </td>
-        <td class="container">
+            <div class="flexoverlay">Steak + Eggs</div>
+        </div>
+        <div class="flex-item-right">
             <img src="/assets/images/beyond/losangeles/spicyporkchop.JPG" height="250px" class="image">
-            <div class="overlayblogphotos">Spicy Pork Chops + Chow Mein</div>
-        </td>            
-    </table>
+            <div class="flexoverlay">Spicy Pork Chops + Chow Mein</div>
+        </div>
+    </div>    
     <p>
         I am a big fan of Buzzfeed's <em><a href="https://www.youtube.com/playlist?list=PL5vtqDuUM1DmXwYYAQcyUwtcalp_SesZD" class="nounderline" target="_blank">Worth It</a></em> series, a show that compares a food dish at three different price points to determine which one is the most worth it for its price, hosted by Steven Lim and Andrew Ilnyckyj. For their steak episode, the one at the lowest price point of $12 was <strong><a href="https://unclejohnsdtla.com/" target="_blank" class="nounderline">Uncle John's Cafe</a></strong>'s steak and eggs dish. Uncle John's is an American-Chinese diner that serves up your favorite diner classics, like hot cakes and French toast, but also mixing up your egg dishes with chashu BBQ pork and honey garlic chicken wings. It's like a super fun, diner-centric American-Chinese takeout restaurant. Obviously, I had to try the affordable steak that was greatly loved by both Steven and Andrew!
     </p>
@@ -143,17 +144,17 @@ Check out the places I ate and visited during my Thanksgiving trip!
 <h4>Places:</h4>
 <div id="caliplaces">
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
-    <table class="home">
-        <td class="container">
+    <div class="flex-container">
+        <div class="flex-item-3">
             <img src="/assets/images/beyond/losangeles/koreanfriendship.JPG" height="250px" class="image">
-        </td>
-        <td class="container">
+        </div>
+        <div class="flex-item-3">
             <img src="/assets/images/beyond/losangeles/kfbview.JPG" height="250px" class="image">
-        </td>
-        <td class="container">
+        </div>
+        <div class="flex-item-3">
             <img src="/assets/images/beyond/losangeles/palmtreesunset.JPG" height="250px" class="image">
-        </td>                        
-    </table>          
+        </div>
+    </div>    
     <p>
         The <strong><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></strong> is a bell and pavilion located in San Pedro, next to Long Beach. The bell was donated by the Republic of Korea in 1976 to signify the strong friendship between the U.S. and Korea, as well as to honor the Korean War Veterans. The patterns of the bell are modeled after the Bronze Bell of King Songdok that was built in 771 A.D. and is still on display today. The pavilion was stunning, as you are able to go up close and see the intricate design of the bell. It is set with a background view of Long Beach, and you are even able to see Los Angeles from afar. It is a little bit of a drive from Downtown L.A. but it is a must-see in my opinion!         
     </p>

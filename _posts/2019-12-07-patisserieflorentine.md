@@ -50,14 +50,15 @@ This toast has a custardy filling that makes for the perfect bite. The star of t
 
 I've also tried some of their desserts, like the Fondant au Chocolat Noir and Gateaux Almandine. If you aren't feeling too hungry, these desserts are great to fill that void, but you'll probably feel content after devouring any of their dishes.
 
-<table class="home">
-    <td class="container">
+<div class="flex-container">
+  <div class="flex-item-left">
         <img src="/assets/images/jerseyeats/patisserie/patisseriechoco.jpg" height="250px" class="image">
-        <div class="overlayblogphotos">Fondant au Chocolat Noir</div>
-    </td>
-    <td class="container">
+        <div class="flexoverlay">Fondant au Chocolat Noir</div>
+  </div>
+  <div class="flex-item-right">
         <img src="/assets/images/jerseyeats/patisserie/almandine.jpg" height="250px" class="image">
-        <div class="overlayblogphotos">Gateaux Almandine</div>
-    </td>            
-</table>        
+        <div class="flexoverlay">Gateaux Almandine</div>
+  </div>
+</div>
+
 This brunch stop gets really busy over the weekend, but I usually don't have any trouble getting a table. PF has a lengthy menu that is sure to satisfy whatever cravings you have - sandwiches, breakfast staples, baked goods, decadent desserts, and even pasta!

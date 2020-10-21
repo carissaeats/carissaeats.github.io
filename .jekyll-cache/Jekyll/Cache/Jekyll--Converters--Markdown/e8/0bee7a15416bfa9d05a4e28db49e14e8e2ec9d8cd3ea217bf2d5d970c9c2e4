@@ -1,0 +1,48 @@
+I"‚<table class="home">
+    <td class="container">
+        <a href="/jerseyeats.html">
+            <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image" />
+        </a>
+        <a href="jerseyeats.html"><div class="overlay">JERSEY EATS!</div></a>
+    </td>        
+    <td class="container">
+        <a href="/nyceats.html">
+            <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image" />
+        </a>
+        <a href="nyceats.html"><div class="overlay">NYC EATS!</div></a>
+    </td>    
+    <td class="container">
+        <a href="/beyond.html">
+            <img src="/assets/images/beyond/losangeles/okonomiyakicrop2.png" height="250px" class="image" />
+        </a>
+        <a href="beyond.html"><div class="overlay">BEYOND...</div></a>
+    </td>
+</table>
+
+<div class="flex-container">
+  <div class="flex-item-left">
+        <a href="/jerseyeats.html">
+            <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image" />
+        </a>
+        <a href="jerseyeats.html"><div class="overlay">JERSEY EATS!</div></a>
+  </div>
+  <div class="flex-item-right">
+        <a href="/nyceats.html">
+            <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image" />
+        </a>
+        <a href="nyceats.html"><div class="overlay">NYC EATS!</div></a>
+  </div>
+  <div class="flex-item-left">
+        <a href="/beyond.html">
+            <img src="/assets/images/beyond/losangeles/okonomiyakicrop.jpg" height="250px" class="image" />
+        </a>
+        <a href="beyond.html"><div class="overlay">BEYOND...</div></a>
+  </div>
+  <div class="flex-item-right">
+        <a href="/recipes.html">
+            <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image" />
+        </a>
+        <a href="recipes.html"><div class="overlay">RECIPES</div></a>
+  </div>
+</div>
+:ET

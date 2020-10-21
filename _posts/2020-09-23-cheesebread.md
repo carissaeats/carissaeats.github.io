@@ -22,16 +22,16 @@ Just a quick 18 minutes in the oven later, and you’ll find a toasted cheese ar
 
 They’ve been perfectly shaped by the muffin mold the past two times I’ve made these, but even if they come out with a hole on the bottom, I promise they’re still DELICIOUS! I used too much butter the first couple times, which is partly why the ones below are more golden (no complaints there). You can see the difference in the photos below. Plus, you can use the hole as a vehicle for any condiments you might want to add.
 
-<table class="home">
-    <td class="container">
-        <img src="/assets/images/recipes/cheesebread/cheesebread4.JPG" height="250px" class="singleimage">
-        <div class="overlayblogphotos">1st Time Cheese Breads (still really <em>goud-a</em>)</div>
-    </td>
-    <td class="container">
-        <img src="/assets/images/recipes/cheesebread/cheesebread1.jpg" height="250px" class="singleimage">
-        <div class="overlayblogphotos">After they went through some ~character development~</div>
-    </td>            
-</table>
+<div class="flex-container">
+  <div class="flex-item-left">
+        <img src="/assets/images/recipes/cheesebread/cheesebread4.JPG" height="250px" class="image">
+        <div class="flexoverlay">1st Time Cheese Breads (still really <em>goud-a</em>)</div>
+  </div>
+  <div class="flex-item-right">
+        <img src="/assets/images/recipes/cheesebread/cheesebread1.jpg" height="250px" class="image">
+        <div class="flexoverlay">After some ~character development~</div>
+  </div>
+</div>
 
 Now let's get on with the recipe and *cheese* the day!
 

@@ -18,49 +18,48 @@
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
   </head>
   <body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
     <a href="http://localhost:4000"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
     <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a class="more"><p></p></a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a><br>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS!</a>      
-      <a href="/nyceats.html">NYC&nbspEATS!</a>
+      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+      <a href="/nyceats.html">NYC&nbspEATS</a>
       <a href="/beyond.html">BEYOND...</a>
-      <div style="display: inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
-          <div class="dropcontent"><a href="/aboutme.html">ABOUT&nbspME</a></div>
-        </div>
-      </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/aboutme.html" class="more">ABOUT&nbspME</a>
+      <a href="/recipes.html">RECIPES!</a>
+      <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
     <section>
-      <table class="home">
-    <td class="container">
+      <div class="flex-container">
+  <div class="flex-item-left">
         <a href="/jerseyeats.html">
             <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image" />
         </a>
-        <a href="jerseyeats.html"><div class="overlay">JERSEY EATS!</div></a>
-    </td>        
-    <td class="container">
+        <a href="jerseyeats.html" class="nounderline"><div class="flexoverlay">JERSEY EATS!</div></a>
+  </div>
+  <div class="flex-item-right">
         <a href="/nyceats.html">
             <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image" />
         </a>
-        <a href="nyceats.html"><div class="overlay">NYC EATS!</div></a>
-    </td>    
-    <td class="container">
+        <a href="nyceats.html" class="nounderline"><div class="flexoverlay">NYC EATS!</div></a>
+  </div>
+  <div class="flex-item-left">
         <a href="/beyond.html">
-            <img src="/assets/images/beyond/losangeles/okonomiyakicrop.jpg" height="250px" class="image" />
+            <img src="/assets/images/beyond/israel/shakshuka.JPG" height="250px" class="image" />
         </a>
-        <a href="beyond.html"><div class="overlay">BEYOND...</div></a>
-    </td>
-</table>
+        <a href="beyond.html" class="nounderline"><div class="flexoverlay">BEYOND...</div></a>
+  </div>
+  <div class="flex-item-right">
+        <a href="/recipes.html">
+            <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image" />
+        </a>
+        <a href="recipes.html" class="nounderline"><div class="flexoverlay">RECIPES</div></a>
+  </div>
+</div>
 
     </section>
+    <br>
     <footer>
         &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
         <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>  

@@ -6,18 +6,18 @@ Hey! My name is Carissa Liu, a 17 year-old Jersey girl who loves food.
 
 Welcome to my food, travel, + personal blog!
 
-<table class="home">
-    <td class="container">
+<div class="flex-container">
+  <div class="flex-item-3">
         <img src="/assets/images/famphotos/pumpcrop.jpg" height="250px" width="200px" class="image">
-    </td>
-    <td class="container">
+  </div>
+  <div class="flex-item-3">
         <img src="/assets/images/famphotos/miramar.JPG" height="250px" width="200px" class="image">
-        <div class="overlay">That's my sister, Antonia!</div>  
-    </td>
-    <td class="container">
+  </div>
+  <div class="flex-item-3">
         <img src="/assets/images/famphotos/waterfront.JPG" height="250px" width="200px" class="image">
-    </td>
-</table>
+  </div>
+</div>
+
 I've learned to cook with my grandma, as well as through watching lots of Youtube and my favorite Food Network stars, but I still have so much to learn.
 
 Some of my favorite foods include xiaolongbao, cheeseburgers, tsukemen, poke bowls, and okonomiyaki. I also love boba tea and basically any dessert you can think of.
