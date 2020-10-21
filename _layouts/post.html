@@ -94,6 +94,18 @@
         class="nounderline" target=“_blank”>@CarissaEats</a> on Instagram or email <a href="mailto:carissaeats@yahoo.com" 
         class="nounderline" target=“_blank”>carissaeats@yahoo.com</a>!
       </h6>
+      <div class="post-nav">
+        <div>
+          {% if page.previous.url %}
+          <a href="{{page.previous.url}}" class="nounderline">&larr;&nbsp;{{page.previous.title}}</a>
+          {% endif %}
+        </div>
+        <div class="post-nav-next">
+          {% if page.next.url %}
+          <a href="{{page.next.url}}" class="nounderline">{{page.next.title}}&nbsp;&rarr;</a>
+          {% endif %}
+        </div>
+      </div>
     </div></p>
     <footer>
         &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
