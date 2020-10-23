@@ -2,7 +2,7 @@
 layout: home
 title: HOME
 ---
-<div class="flex-container">
+<div class="flex-container" id="home">
   <div class="flex-item-left">
         <a href="/jerseyeats.html">
             <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image">

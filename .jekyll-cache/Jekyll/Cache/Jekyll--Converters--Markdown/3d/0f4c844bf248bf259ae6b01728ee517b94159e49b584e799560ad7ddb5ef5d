@@ -1,4 +1,4 @@
-I"œ<div class="flex-container">
+I"§<div class="flex-container" id="home">
   <div class="flex-item-left">
         <a href="/jerseyeats.html">
             <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image" />
@@ -21,7 +21,7 @@
         <a href="/recipes.html">
             <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image" />
         </a>
-        <a href="recipes.html" class="nounderline"><div class="flexoverlay">RECIPES</div></a>
+        <a href="recipes.html" class="nounderline"><div class="flexoverlay">RECIPES!</div></a>
   </div>
 </div>
 :ET
