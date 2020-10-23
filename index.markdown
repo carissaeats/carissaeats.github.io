@@ -4,27 +4,27 @@ title: HOME
 ---
 <div class="flex-container" id="home">
   <div class="flex-item-left">
-        <a href="/jerseyeats.html">
+        <a href="/jerseyeats.html" class="nounderline">
             <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image">
+            <div class="flexoverlay">JERSEY EATS!</div>
         </a>
-        <a href="jerseyeats.html" class="nounderline"><div class="flexoverlay">JERSEY EATS!</div></a>
   </div>
   <div class="flex-item-right">
-        <a href="/nyceats.html">
+        <a href="/nyceats.html" class="nounderline">
             <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image">
+            <div class="flexoverlay">NYC EATS!</div>
         </a>
-        <a href="nyceats.html" class="nounderline"><div class="flexoverlay">NYC EATS!</div></a>
   </div>
   <div class="flex-item-left">
-        <a href="/beyond.html">
+        <a href="/beyond.html" class="nounderline">
             <img src="/assets/images/beyond/israel/shakshuka.JPG" height="250px" class="image">
+            <div class="flexoverlay">BEYOND...</div>
         </a>
-        <a href="beyond.html" class="nounderline"><div class="flexoverlay">BEYOND...</div></a>
   </div>
   <div class="flex-item-right">
-        <a href="/recipes.html">
+        <a href="/recipes.html" class="nounderline">
             <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image">
+            <div class="flexoverlay">RECIPES!</div>
         </a>
-        <a href="recipes.html" class="nounderline"><div class="flexoverlay">RECIPES!</div></a>
   </div>
 </div>

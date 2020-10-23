@@ -8,7 +8,7 @@ Welcome to my food, travel, + personal blog!
 
 <div class="flex-container">
   <div class="flex-item-3">
-        <img src="/assets/images/famphotos/pumpcrop.jpg" height="250px" width="200px" class="image">
+        <img src="/assets/images/famphotos/spaceneedlefb.jpg" height="250px" width="200px" class="image">
   </div>
   <div class="flex-item-3">
         <img src="/assets/images/famphotos/miramar.JPG" height="250px" width="200px" class="image">
@@ -30,5 +30,7 @@ Food is one thing that can be transported from country to country, and because m
 
 My goal for this webpage is to share some of my favorite places to find ~affordable eats~ (no Michelin-star meals here!). Food is something I'm so grateful to be able to enjoy every day, and I just want to capture the best moments. Whether it be cooking with my grandma or exploring tasty eats, it is something I hope everyone can enjoy along with me.  
 
-I also love to travel and have been blessed with numerous travel opportunities. Food has undoubtedly been my favorite part of every experience, 
-whether it's eating fried quail eggs in Taiwanese night markets or shakshuka in Israel. I've shared the destinations I've visited in my **[beyond](/beyond.html){:class="nounderline" target="_blank"}** page!
+I've been blessed with numerous travel opportunities, and food has undoubtedly been my favorite part of every experience, 
+whether it's eating fried quail eggs in Taiwanese night markets or shakshuka in Israel. My **[beyond](/beyond.html){:class="nounderline" target="_blank"}** page will share the destinations!
+
+*All photos on this blog are taken by me.*
