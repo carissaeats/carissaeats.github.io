@@ -82,10 +82,10 @@
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {% if page.directorytitle %}
         <h2 style="display:inline;">{{ page.directorytitle }}&nbsp;</h2>
-        <span class="post-meta" style="color:grey">{{ page.date | date: date_format }}</span>
+        <span class="post-meta">{{ page.date | date: date_format }}</span>
       {% else %}
         <h2 style="display:inline;">{{ page.title }}&nbsp;</h2>
-        <span class="post-meta" style="color:grey">{{ page.date | date: date_format }}</span>
+        <span class="post-meta">{{ page.date | date: date_format }}</span>
       {%- endif -%}
       <p>{{ content }}</p>
       <p>See you soon,</p>
@@ -97,12 +97,42 @@
       <div class="post-nav">
         <div>
           {% if page.previous.url %}
-          <a href="{{page.previous.url}}" class="nounderline">&larr;&nbsp;{{page.previous.title}}</a>
+          <a href="{{page.previous.url}}" class="nounderline">
+            {{page.previous.title}}
+            <div class="bottomnav">
+              &nbsp;&larr;
+              {{ page.previous.date | date: date_format }},&nbsp;
+              {% if page.previous.categories[0] == 'nyceats' %}
+                NYC Eats
+              {% elsif page.previous.categories[0] == 'jerseyeats' %}
+                Jersey Eats
+              {% elsif page.previous.categories[0] == 'beyond' %}
+                Beyond...
+              {% elsif page.previous.categories[0] == 'recipes' %}
+                Recipes
+              {%- endif -%}
+            </div>
+          </a>
           {% endif %}
         </div>
         <div class="post-nav-next">
           {% if page.next.url %}
-          <a href="{{page.next.url}}" class="nounderline">{{page.next.title}}&nbsp;&rarr;</a>
+          <a href="{{page.next.url}}" class="nounderline">
+            {{page.next.title}}
+            <div class="bottomnav">
+              {{ page.next.date | date: date_format }},&nbsp;
+              {% if page.next.categories[0] == 'nyceats' %}
+                NYC Eats
+              {% elsif page.next.categories[0] == 'jerseyeats' %}
+                Jersey Eats
+              {% elsif page.next.categories[0] == 'beyond' %}
+                Beyond...
+              {% elsif page.next.categories[0] == 'recipes' %}
+                Recipes
+            {%- endif -%}
+            &nbsp;&rarr;
+            </div>
+          </a>
           {% endif %}
         </div>
       </div>
