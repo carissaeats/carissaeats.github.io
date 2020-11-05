@@ -27,7 +27,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
 
 <h2>Foods:</h2>
 <div id="califoods">
-    <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
+    <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline">
     Chinchikurin</a></h5>
     <div class="singleimagecontainer">
         <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="singleimage">

@@ -23,9 +23,9 @@ Food represents celebration, warmth, and unity to me. At its core, food brings p
   </div>
 </div>
 
-*Gon chow ngau huo*, or beef chow fun, is a popular Cantonese dish that’s pretty much just fresh rice noodles, which are sticky if not constantly tossed in the wok, soy sauce, thin steak, mung bean sprouts, scallions, but packs a punch of flavor in every bite. I’ve been eating this dish for as long as I can remember, yet I was not always a fan of it. My dad absolutely loves this dish, though, so it’s grown on me a ton. It tastes great with other roast meats, as seen in the char siu above too. Char siu is Cantonese honey-barbecued pork, which tastes great with plain rice or chopped in a fried rice. There are plenty of roast shops in Chinatown, so I’ll try to compile a list of shops for the future. It’s such a cheap snack, and there’s no better food deals than Chinatowns!
+*Gon chow ngau huo*, or beef chow fun, is a popular Cantonese dish that’s pretty much just fresh rice noodles, which are sticky if not constantly tossed in the wok, soy sauce, thin steak, mung bean sprouts, scallions, but packs a punch of flavor in every bite. I’ve been eating this dish for as long as I can remember, yet I was not always a fan of it. My dad absolutely loves this dish, though, so it’s grown on me a ton. It tastes great with other roast meats, as seen in the char siu above too. Char siu is Cantonese honey-barbecued pork, which tastes great with plain rice or chopped in a fried rice. There are plenty of roast shops in Chinatown to buy both char siu + gon chow ngau huo, so I’ll try to compile a list of shops for the future. It’s such a cheap meal, and there’s no better food deals than Chinatowns!
 
-The "Shanghainese Trio" *chong you bing*, or scallion pancakes, fried dumplings, and *sheng jian bao*, or pan-fried baos. I love these three dishes from Shanghai 21 (formerly Shanghai Asian Manor). I haven’t been there since it was known as the former, but their scallion pancakes are extremely crunchy and fluffy, and these baos and dumplings are stuffed with so much flavor. I can’t vouch for how these taste now, but regardless of if these dishes are made by my Grandma or at Shanghai 21, I will always keep these dishes on my favorites list.
+The "Shanghainese Trio", the nickname I gave these three dishes, consists of *chong you bing*, or scallion pancakes, fried dumplings, and *sheng jian bao*, or pan-fried baos. I love these three dishes from Shanghai 21 (formerly Shanghai Asian Manor). I haven’t been there since it was known as the former, but their scallion pancakes are extremely crunchy and fluffy, and these baos and dumplings are stuffed with so much flavor. I can’t vouch for how these taste now, but regardless of if these dishes are made by my Grandma or at Shanghai 21, I will always keep these dishes on my favorites list.
 
 <div class="singleimagecontainer">
     <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="image">
@@ -34,7 +34,7 @@ The "Shanghainese Trio" *chong you bing*, or scallion pancakes, fried dumplings,
     </div>
 </div>
 
-I praised the glorious okonomiyaki on my [Los Angeles](/beyond/2020/06/02/losangeles.html/#okonomiyaki){:class="nounderline"} post, so explore it over there!
+I praised the glorious okonomiyaki on my [Los Angeles](/beyond/2020/06/02/losangeles.html/){:class="nounderline"} post, so explore it over there!
 
 <div class="flex-container">
   <div class="flex-item">

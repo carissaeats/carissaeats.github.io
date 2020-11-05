@@ -23,7 +23,7 @@ Welcome to my food, travel, + personal blog!
 
 I've learned to cook with my grandma, as well as through watching lots of Youtube and my favorite Food Network stars, but I still have so much to learn.
 
-I think food is the one thing that is able to connect so many people. Even if you live halfway across the world from someone, it's very likely that you guys have had some similar food experiences. 
+Food is the one thing that is able to connect so many people; even if you live halfway across the world from someone, it's very likely that you guys have had some similar food experiences. 
 
 With cooking comes many different stories, and living in America has allowed me to experience many different types of food from a wide variety of places. 
 
