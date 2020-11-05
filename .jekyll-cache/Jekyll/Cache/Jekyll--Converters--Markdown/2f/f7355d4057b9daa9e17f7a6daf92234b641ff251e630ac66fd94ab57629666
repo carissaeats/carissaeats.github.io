@@ -1,0 +1,87 @@
+I"�<div class="singleimagecontainer" text-align="center">
+    <img src="/assets/images/favoritefoods/katsu.JPG" height="250px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Chicken Katsu from Mitsuwa
+    </div>    
+</div>
+
+<p>Food represents celebration, warmth, and unity to me. At its core, food brings people together, whether it’s an excuse to catch up with old friends or just enjoying a meal with the people you love. Food helps us get through tough times, but makes the happy times even sweeter. There’s more about how I got into cooking and food on my <a href="/aboutme.html" class="nounderline">About Me</a> page, but today, I’m here to share the memories attached to my favorite foods!</p>
+
+<div class="flex-container">
+  <div class="flex-item-left">
+        <img src="/assets/images/favoritefoods/claypotrice.JPG" height="150px" class="image" />
+        <div class="flexoverlay">Claypot Rice</div>
+  </div>
+  <div class="flex-item-right">
+        <img src="/assets/images/favoritefoods/cheesebakedrice.JPG" height="150px" class="image" />
+        <div class="flexoverlay">Cheese-Baked Rice</div>
+  </div>
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/arthurssteak.JPG" height="250px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Ribeye Steak + Caesar Salad
+    </div>
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/beyond/china/gzcafe.JPG" height="150px" class="image" />
+    <div class="singleimageoverlay">
+        Beef Chow Fun + Char Siu Fan
+    </div>    
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="image" />
+    <div class="singleimageoverlay">
+        GOAM - Green Onions and Mayo
+    </div>
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/triodumpling.jpg" height="150px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Shanghainese Trio
+    </div>    
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/beyond/china/cheesetea.jpg" height="150px" class="image" />
+    <div class="singleimageoverlay">
+        Mango Cheese Tea
+    </div>    
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/tteokbokki.JPG" height="150px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Cheese Tteokbokki
+    </div>    
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/mightyquinns.jpg" height="250px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Barbecue Burnt Ends + More
+    </div>
+</div>
+
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/becbagel.jpg" height="250px" class="singleimage" />
+    <div class="singleimageoverlay">
+        B.E.C. Bagel
+    </div>    
+</div>
+
+<div class="flex-container">
+  <div class="flex-item-left">
+        <img src="/assets/images/favoritefoods/claypotrice.JPG" height="150px" class="image" />
+        <div class="flexoverlay">Barbecue Burnt Ends + More</div>
+  </div>
+  <div class="flex-item-right">
+    <img src="/assets/images/favoritefoods/becbagel.jpg" height="250px" class="singleimage" />
+        <div class="flexoverlay">B.E.C. Bagel</div>
+  </div>
+</div>
+:ET

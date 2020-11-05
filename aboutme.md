@@ -8,23 +8,26 @@ Welcome to my food, travel, + personal blog!
 
 <div class="flex-container">
   <div class="flex-item-3">
-        <img src="/assets/images/famphotos/spaceneedlefb.jpg" height="250px" width="200px" class="image">
+      <img src="/assets/images/famphotos/spaceneedlefb.jpg" height="250px" width="200px" class="image">
+      <div class="flexoverlay">@ Facebook Seattle</div>
   </div>
   <div class="flex-item-3">
-        <img src="/assets/images/famphotos/miramar.JPG" height="250px" width="200px" class="image">
+      <img src="/assets/images/famphotos/miramar.JPG" height="250px" width="200px" class="image">
+      <div class="flexoverlay">That's my sister, Antonia!</div>
   </div>
   <div class="flex-item-3">
-        <img src="/assets/images/famphotos/waterfront.JPG" height="250px" width="200px" class="image">
+      <img src="/assets/images/famphotos/waterfront.JPG" height="250px" width="200px" class="image">
+      <div class="flexoverlay">~ Seattle Waterfront ~</div>
   </div>
 </div>
 
 I've learned to cook with my grandma, as well as through watching lots of Youtube and my favorite Food Network stars, but I still have so much to learn.
 
-Some of my favorite foods include xiaolongbao, cheeseburgers, tsukemen, poke bowls, and okonomiyaki. I also love boba tea and basically any dessert you can think of.
-
 I think food is the one thing that is able to connect so many people. Even if you live halfway across the world from someone, it's very likely that you guys have had some similar food experiences. 
 
 With cooking comes many different stories, and living in America has allowed me to experience many different types of food from a wide variety of places. 
+
+### [See some of the stories behind my favorite foods here.](/favoritefoods.html){:class="nounderline"}
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 

@@ -26,7 +26,7 @@
       <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
       <a href="/nyceats.html">NYC&nbspEATS</a>
       <a href="/beyond.html">BEYOND...</a>
-      <a href="/recipes.html">RECIPES!</a>
+      <a href="/more.html">RECIPES!</a>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>{{ page.title | escape }}</h1>
@@ -41,11 +41,11 @@
                 {% assign content = post.content | strip_newlines %}
                 {% if content != ""  %}
                   <div class="blogposts_aboutme">
-                    <h3 style="display:inline;">
-                      <a class="nounderline" href="{{ post.url | relative_url }}">
+                    <h4 style="display:inline;">
+                      <a class="nounderline" href="{{ post.url | relative_url }}">                     
                         {{ post.title | escape }}
                       </a>
-                    </h3>
+                    </h4>
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
                     {%- if site.show_excerpts -%}

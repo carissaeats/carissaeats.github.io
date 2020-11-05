@@ -27,3 +27,7 @@ Another reason I love Poke Crew is their transformation of popular dishes, like 
 You don’t have to be a seafood fan to come here. Even just trying out the tofu or chicken bowl first is a great stepping stone into opting for the seafood here. If you enjoy chains like Cava or Chipotle, there’s no reason why you won’t love Poke Crew too!
 
 ###### BTW: The Closter location sells bubble tea and cookies too.
+
+<div class="singleimagecontainer" text-align="center">
+    <img src="/assets/images/jerseyeats/pokecrew/poke2.jpg" height="250px" class="singleimage">
+</div>

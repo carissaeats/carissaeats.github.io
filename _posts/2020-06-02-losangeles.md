@@ -23,11 +23,11 @@ Check out the places I ate and visited during my Thanksgiving trip!
 
 ###### We went all over L.A. metro area, including San Gabriel Valley, Long Beach, Hollywood, Little Tokyo, and more, so it'll definitely be a drive around!
 
-### The Destinations
+#### The Destinations
 
-<h4>Foods:</h4>
+<h2>Foods:</h2>
 <div id="califoods">
-    <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline">
+    <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
     Chinchikurin</a></h5>
     <div class="singleimagecontainer" text-align="center">
         <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="singleimage">
@@ -141,7 +141,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
 
 <button id="showcalifoods" class="showmorephotosbutton" onclick="toggleCaliFoods()">( + ) show me the food!</button> 
 
-<h4>Places:</h4>
+<h2>Places:</h2>
 <div id="caliplaces">
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
     <div class="flex-container">
