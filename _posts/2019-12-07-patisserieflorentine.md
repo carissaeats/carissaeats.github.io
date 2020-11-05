@@ -4,7 +4,7 @@ title: "Patisserie Florentine"
 categories: jerseyeats
 description: Patisserie Florentine serves up one heck of a brunch, so here's some of my recommendations!
 ---
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg" height="250px" class="singleimage">
 </div>
 
@@ -16,7 +16,7 @@ The service is pretty uninvolved, yet the lively ambience, glass display of bake
 
 ##### Belgian Waffles
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/waffles.JPG" height="150px" class="singleimage">
 </div>
 
@@ -24,7 +24,7 @@ The portion for the price ($12.25) is a little small, nonetheless, this dish is 
 
 ##### Croissant Oeufs Fromage
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="singleimage">
     <div class="singleimageoverlay">(Left) Belgian Waffles + (Right) Croissant Oeufs Fromage</div>  
 </div>
@@ -33,7 +33,7 @@ Toasted croissant slices, avocado puree, melted mozzarella, gravlax (cured salmo
 
 ##### Omelette Royale
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/omelet.jpg" height="250px" class="singleimage">
     <div class="singleimageoverlay">Omelette stuffed with mushrooms, mozzarella, spinach, and onions</div>  
 </div>
@@ -42,7 +42,7 @@ It's not exactly a French rolled omelette, but it is folded vertically and stuff
 
 ##### Briochette (French Toast)
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoast.JPG" height="150px" class="singleimage">
 </div>
 
@@ -51,11 +51,11 @@ This toast has a custardy filling that makes for the perfect bite. The star of t
 I've also tried some of their desserts, like the Fondant au Chocolat Noir and Gateaux Almandine. If you aren't feeling too hungry, these desserts are great to fill that void, but you'll probably feel content after devouring any of their dishes.
 
 <div class="flex-container">
-  <div class="flex-item-left">
+  <div class="flex-item">
         <img src="/assets/images/jerseyeats/patisserie/patisseriechoco.jpg" height="250px" class="image">
         <div class="flexoverlay">Fondant au Chocolat Noir</div>
   </div>
-  <div class="flex-item-right">
+  <div class="flex-item">
         <img src="/assets/images/jerseyeats/patisserie/almandine.jpg" height="250px" class="image">
         <div class="flexoverlay">Gateaux Almandine</div>
   </div>

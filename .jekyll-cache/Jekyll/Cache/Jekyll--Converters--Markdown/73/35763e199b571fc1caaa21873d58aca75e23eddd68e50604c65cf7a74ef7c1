@@ -1,4 +1,4 @@
-I"2<div class="singleimagecontainer" text-align="center">
+I"2<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg" height="250px" class="singleimage" />
 </div>
 
@@ -10,7 +10,7 @@
 
 <h5 id="belgian-waffles">Belgian Waffles</h5>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/waffles.JPG" height="150px" class="singleimage" />
 </div>
 
@@ -18,7 +18,7 @@
 
 <h5 id="croissant-oeufs-fromage">Croissant Oeufs Fromage</h5>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="singleimage" />
     <div class="singleimageoverlay">(Left) Belgian Waffles + (Right) Croissant Oeufs Fromage</div>  
 </div>
@@ -27,7 +27,7 @@
 
 <h5 id="omelette-royale">Omelette Royale</h5>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/omelet.jpg" height="250px" class="singleimage" />
     <div class="singleimageoverlay">Omelette stuffed with mushrooms, mozzarella, spinach, and onions</div>  
 </div>
@@ -36,7 +36,7 @@
 
 <h5 id="briochette-french-toast">Briochette (French Toast)</h5>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoast.JPG" height="150px" class="singleimage" />
 </div>
 
@@ -45,11 +45,11 @@
 <p>I’ve also tried some of their desserts, like the Fondant au Chocolat Noir and Gateaux Almandine. If you aren’t feeling too hungry, these desserts are great to fill that void, but you’ll probably feel content after devouring any of their dishes.</p>
 
 <div class="flex-container">
-  <div class="flex-item-left">
+  <div class="flex-item">
         <img src="/assets/images/jerseyeats/patisserie/patisseriechoco.jpg" height="250px" class="image" />
         <div class="flexoverlay">Fondant au Chocolat Noir</div>
   </div>
-  <div class="flex-item-right">
+  <div class="flex-item">
         <img src="/assets/images/jerseyeats/patisserie/almandine.jpg" height="250px" class="image" />
         <div class="flexoverlay">Gateaux Almandine</div>
   </div>

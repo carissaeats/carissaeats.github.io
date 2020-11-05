@@ -5,7 +5,7 @@ directorytitle: "Ma Mì Eatery"
 categories: jerseyeats
 description: I'm gonna stand "banh" you! Ma Mì Eatery puts a fire spin on some of your favorite South East Asian dishes. See my favorites...
 ---
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/mami/mamicrop.jpg" height="250px" class="singleimage"> 
 </div>
 

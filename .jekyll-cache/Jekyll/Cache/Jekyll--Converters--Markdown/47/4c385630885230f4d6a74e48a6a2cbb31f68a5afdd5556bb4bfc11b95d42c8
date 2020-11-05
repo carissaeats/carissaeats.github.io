@@ -1,4 +1,4 @@
-I"<div class="singleimagecontainer" text-align="center">
+I"<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/pokecrew/poke.JPG" height="250px" class="singleimage" /> 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p>After picking your protein, you have a choice of 6 toppings, 2 sauces, and 4 garnishes. They have 20-ish toppings, 16 sauces, and 15 garnishes to choose from, so you’ll definitely have some have some decision making to do.</p>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/pokecrew/morepoke.jpg" height="250px" class="singleimage" />
     <div class="singleimageoverlay">Salmon Poke Bowl: full order below!</div>
 </div>
@@ -23,7 +23,7 @@
 
 <h6 id="btw-the-closter-location-sells-bubble-tea-and-cookies-too">BTW: The Closter location sells bubble tea and cookies too.</h6>
 
-<div class="singleimagecontainer" text-align="center">
+<div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/pokecrew/poke2.jpg" height="250px" class="singleimage" />
 </div>
 :ET
