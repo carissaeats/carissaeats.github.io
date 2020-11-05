@@ -34,7 +34,7 @@ The "Shanghainese Trio", the nickname I gave these three dishes, consists of *ch
     </div>
 </div>
 
-I praised the glorious okonomiyaki on my [Los Angeles](/beyond/2020/06/02/losangeles.html/){:class="nounderline"} post, so explore it over there!
+I praised the glorious okonomiyaki on my [Los Angeles](/beyond/2020/06/02/losangeles.html){:class="nounderline"} post, so explore it over there!
 
 <div class="flex-container">
   <div class="flex-item">
