@@ -1,45 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <meta itemprop="description" name="description" content="Exploring Seattle one bite at a time with @CarissaEats! Visiting Facebook, eating Molly Moon's and Hot Cakes, and taking photos at Chihuly." />
-    
-      <title>Seattle | Beyond... | @CarissaEats</title>
-    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <a href="http://localhost:4000"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
-    <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
-      <a href="/recipes.html">RECIPES!</a>
-      <a href="/aboutme.html">ABOUT&nbspME</a>
-    </div>
-    <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    
-      
-        <div class="directory">
-          <a href="http://localhost:4000" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">Seattle</span>
-        </div>
-      <p><div class="blogposts_aboutme">
-        <h3 style="display:inline;">Seattle&nbsp;</h3>
-        <span class="post-meta">Jun 3, 2020</span><p><div class="flex-container">
+I"R-<div class="flex-container">
   <div class="flex-item">
         <img src="/assets/images/beyond/seattle/platelunchcrop.jpg" height="250px" class="image" />
   </div>
@@ -139,51 +98,4 @@
 <p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p>
 
 <p>Seattle has a ton to see, with lots of modern aspects, but still retaining the incredible history of the Pacific Northwest. I went to Seattle to visit my older sister, Antonia, at her internship, but if you’re just looking for a relaxing vacation getaway, don’t sleep on Seattle!!</p>
-</p>
-      <p>See you soon,</p>
-      <p>Carissa 😊</p>
-      <h6>If you have any questions, comments, or recommendations, please message <a href="https://www.instagram.com/carissaeats/" 
-        class="nounderline" target=“_blank”>@CarissaEats</a> on Instagram or email <a href="mailto:carissaeats@yahoo.com" 
-        class="nounderline" target=“_blank”>carissaeats@yahoo.com</a>!
-      </h6>
-      <div class="post-nav">
-        <div>
-          
-          <a href="/beyond/2020/06/02/losangeles.html" class="nounderline">
-            Los Angeles
-            <div class="bottomnav">
-              &nbsp;&larr;
-              Jun 2, 2020&nbsp;
-              <div>
-                
-                  Beyond...
-                </div>
-            </div>
-          </a>
-          
-        </div>
-        <div class="post-nav-next">
-          
-          <a href="/nyceats/2020/07/01/gyu-kaku.html" class="nounderline">
-            Gyu-Kaku Japanese BBQ
-            <div class="bottomnav">
-              Jul 1, 2020&nbsp;&rarr;
-              <div>
-                
-                  NYC Eats
-                </div>
-            </div>
-          </a>
-          
-        </div>
-      </div>
-    </div></p>
-    <footer>
-        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
-    </footer>
-    
-      <script type="text/javascript" src="/assets/js/seattlescript.js"></script>
-    <script type="text/javascript" src="/assets/js/script.js"></script>
-  </body>
-</html>
+:ET
