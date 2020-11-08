@@ -82,6 +82,15 @@ These ribs, burnt ends, and brisket are from [Mighty Quinn’s](https://www.migh
 
 This beautiful bacon, egg, and cheese bagel from Celebrity Bagels, a Tenafly staple, is one heck of special Sunday morning treat. I get mine with salt, pepper, and ketchup on an everything bagel, since I enjoy the variety of seasonings on top.
 
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/tofupudding.jpg" height="250px" class="singleimage">
+    <div class="singleimageoverlay">
+        Tofu Pudding
+    </div>    
+</div>
+
+I really got into *dou fu hua*, or tofu pudding, this year, when my dad and I went to Chinatown in February. This was not my first time trying it, but I was not as *obsessed* with it until then. Its primary ingredient is tofu, and although it may just seem like a bowl of soft tofu, it is really an extraordinary canvas for any condiments you like. The flavor itself is very neutral, meaning you can go either sweet or savory with it. Sweet dou fu hua is topped with a brown sugar syrup, which is how I typically eat it and is as seen above. Savory dou fu hua is topped with soy sauce, vinegar, chili oil, and scallions. I don't think I've ever had the savory one, but it's certainly one I'd love to try. My family likes it too, but I could eat the whole quart this pudding comes in!
+
 <div class="flex-container">
   <div class="flex-item">
         <img src="/assets/images/favoritefoods/claypotrice.JPG" height="150px" class="image">

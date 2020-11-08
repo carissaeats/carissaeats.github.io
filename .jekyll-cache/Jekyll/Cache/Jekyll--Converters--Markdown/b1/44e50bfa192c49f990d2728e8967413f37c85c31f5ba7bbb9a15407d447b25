@@ -1,39 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <meta itemprop="description" name="description" content="Sharing the foods I love, and what memories each of these foods hold. From Okonomiyaki to Cheese Baked Rice to Cheese Tea, see them all!" />
-    <title>Stories of My Favorite Foods | @CarissaEats</title><link rel="stylesheet" href="/assets/cssfiles/responsive.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Sacramento&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <a href="http://localhost:4000"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
-    <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
-      <a href="/recipes.html">RECIPES!</a>
-      <a href="/aboutme.html">ABOUT&nbspME</a>
-    </div>
-    <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    
-      <p><div class="blogposts_aboutme">
-        <h3 style="display:inline;">Stories of My Favorite Foods&nbsp;</h3>
-        <span class="post-meta"></span><p><div class="singleimagecontainer">
+I")<div class="singleimagecontainer">
     <img src="/assets/images/favoritefoods/katsu.JPG" height="250px" class="singleimage" />
     <div class="singleimageoverlay">
         Chicken Katsu from Mitsuwa
@@ -112,15 +77,6 @@
 
 <p>This beautiful bacon, egg, and cheese bagel from Celebrity Bagels, a Tenafly staple, is one heck of special Sunday morning treat. I get mine with salt, pepper, and ketchup on an everything bagel, since I enjoy the variety of seasonings on top.</p>
 
-<div class="singleimagecontainer">
-    <img src="/assets/images/favoritefoods/tofupudding.jpg" height="250px" class="singleimage" />
-    <div class="singleimageoverlay">
-        Tofu Pudding
-    </div>    
-</div>
-
-<p>I really got into <em>dou fu hua</em>, or tofu pudding, this year, when my dad and I went to Chinatown in February. This was not my first time trying it, but I was as <em>obsessed</em> with it until then. Its primary ingredient is tofu, and although it may just seem like a bowl of soft tofu, it is really an extraordinary canvas for any condiments you like. The flavor itself is very neutral, meaning you can go either sweet or savory with it. Sweet dou fu hua is topped with a brown sugar syrup, which is how I typically eat it and is as seen above. Savory dou fu hua is topped with soy sauce, vinegar, chili oil, and scallions. I don’t think I’ve ever had the savory one, but it’s certainly one I’d love to try. My family likes it too, but I could eat the whole quart this pudding comes in!</p>
-
 <div class="flex-container">
   <div class="flex-item">
         <img src="/assets/images/favoritefoods/claypotrice.JPG" height="150px" class="image" />
@@ -138,27 +94,14 @@
 
 <h6 id="both-pictures-were-taken-at-xo-kitchen-restaurant食坊-my-familys-go-to-in-manhattan-chinatown-pre-pandemic-they-make-dumplings-wrapped-in-an-ultra-thin-eggy-wrapper-that-are-a-must-try-here-too">Both pictures were taken at XO Kitchen Restaurant食坊, my family’s go-to in Manhattan Chinatown pre-pandemic. They make dumplings wrapped in an ultra-thin, eggy wrapper that are a must-try here, too.</h6>
 
+<div class="singleimagecontainer">
+    <img src="/assets/images/favoritefoods/tofupudding.jpg" height="250px" class="singleimage" />
+    <div class="singleimageoverlay">
+        Tofu Pudding
+    </div>    
+</div>
+
+<p>I really got into <em>dou fu hua</em>, or tofu pudding, this year, when my dad and I went to Chinatown in February. This was not my first time trying it, but I was as <em>obsessed</em> with it until then. Its primary ingredient is tofu, and although it may just seem like a bowl of soft tofu, it is really an extraordinary canvas for any condiments you like. The flavor itself is very neutral, meaning you can go either sweet or savory with it. Sweet dou fu hua is topped with a brown sugar syrup, which is how I typically eat it, and savory dou fu hua is topped with soy sauce, vinegar, chili oil, and scallions. I don’t think I’ve ever had the savory one, but it’s certainly one I’d love to try. My family likes it too, but I could eat the whole quart this pudding comes in!</p>
+
 <p>This is by no means an exclusive list - I have far too many foods I would consider a 20 on a 1 to 10 scale of strongly dislike to absolutely devour, so I’ll likely be updating the list in the future. I hope you enjoyed reading some of the reasons why I appreciate (and dream of) these foods a little extra.</p>
-</p>
-      <p>See you soon,</p>
-      <p>Carissa 😊</p>
-      <h6>If you have any questions, comments, or recommendations, please message <a href="https://www.instagram.com/carissaeats/" 
-        class="nounderline" target=“_blank”>@CarissaEats</a> on Instagram or email <a href="mailto:carissaeats@yahoo.com" 
-        class="nounderline" target=“_blank”>carissaeats@yahoo.com</a>!
-      </h6>
-      <div class="post-nav">
-        <div>
-          
-        </div>
-        <div class="post-nav-next">
-          
-        </div>
-      </div>
-    </div></p>
-    <footer>
-        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
-    </footer>
-    <script type="text/javascript" src="/assets/js/script.js"></script>
-  </body>
-</html>
+:ET

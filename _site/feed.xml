@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-05T13:33:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Okay? Poke (Crew).</title><link href="http://localhost:4000/jerseyeats/2020/10/07/pokecrew.html" rel="alternate" type="text/html" title="Okay? Poke (Crew)." /><published>2020-10-07T00:00:00-04:00</published><updated>2020-10-07T00:00:00-04:00</updated><id>http://localhost:4000/jerseyeats/2020/10/07/pokecrew</id><content type="html" xml:base="http://localhost:4000/jerseyeats/2020/10/07/pokecrew.html">&lt;div class=&quot;singleimagecontainer&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-08T12:48:33-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Okay? Poke (Crew).</title><link href="http://localhost:4000/jerseyeats/2020/10/07/pokecrew.html" rel="alternate" type="text/html" title="Okay? Poke (Crew)." /><published>2020-10-07T00:00:00-04:00</published><updated>2020-10-07T00:00:00-04:00</updated><id>http://localhost:4000/jerseyeats/2020/10/07/pokecrew</id><content type="html" xml:base="http://localhost:4000/jerseyeats/2020/10/07/pokecrew.html">&lt;div class=&quot;singleimagecontainer&quot;&gt;
     &lt;img src=&quot;/assets/images/jerseyeats/pokecrew/poke.JPG&quot; height=&quot;250px&quot; class=&quot;singleimage&quot; /&gt; 
 &lt;/div&gt;
 
@@ -277,7 +277,7 @@
 
 &lt;h3 id=&quot;the-destinations&quot;&gt;The Destinations&lt;/h3&gt;
 
-&lt;h4&gt;Foods:&lt;/h4&gt;
+&lt;h2&gt;Foods:&lt;/h2&gt;
 &lt;div id=&quot;foods&quot;&gt;
     &lt;h5&gt;&lt;strong&gt;&lt;a href=&quot;https://www.mollymoon.com/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Molly Moon's Homemade Ice Cream&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
     &lt;p&gt;Okay, but first, dessert - who said dessert can't come first?! &lt;strong&gt;&lt;a href=&quot;https://www.mollymoon.com/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Molly Moon's&lt;/a&gt;&lt;/strong&gt;, one of Seattle's most popular ice cream shops, was the first on my list.&lt;/p&gt;
@@ -317,7 +317,7 @@
 
 &lt;p&gt;&lt;button id=&quot;showfoods&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleFoods()&quot;&gt;( + ) show me the food!&lt;/button&gt;&lt;/p&gt;
 
-&lt;h4&gt;Places:&lt;/h4&gt;
+&lt;h2&gt;Places:&lt;/h2&gt;
 &lt;div id=&quot;places&quot;&gt;
     &lt;h5&gt;&lt;strong&gt;&lt;a href=&quot;https://uvillage.com/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;University Village&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
     &lt;p&gt;Antonia stayed at the University of Washington over the summer, making &lt;a href=&quot;https://uvillage.com/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;&lt;strong&gt;University Village&lt;/strong&gt;&lt;/a&gt; a convenient stop. UVillage is an open-air shopping complex, with numerous gourmet eateries + shops. It's easily one of the most beautiful shopping centers I've been to.&lt;/p&gt;
@@ -357,7 +357,7 @@
     &lt;p&gt;...but I mean, if you didn't see the Space Needle, did you &lt;em&gt;see&lt;/em&gt; Seattle?&lt;/p&gt;
     &lt;h5&gt;&lt;strong&gt;&lt;a href=&quot;https://seattlegreatwheel.com&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;The Seattle Great Wheel @ Pier 57&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
     &lt;div class=&quot;singleimagecontainer&quot;&gt;
-        &lt;img src=&quot;/assets/images/beyond/seattle/greatwheel.jpg&quot; height=&quot;250px&quot; class=&quot;singleimage&quot; /&gt;
+        &lt;img src=&quot;/assets/images/beyond/seattle/greatwheel.JPG&quot; height=&quot;250px&quot; class=&quot;singleimage&quot; /&gt;
     &lt;/div&gt;
     &lt;h5&gt;Also check out: &lt;strong&gt;&lt;a href=&quot;https://www.lonelyplanet.com/articles/a-guide-to-seattles-alki-beach&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Alki Beach&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://www.soundersfc.com/tickets&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;CenturyLink Field&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;https://www.mopop.org/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Museum of Pop (MoPOP)&lt;/a&gt;&lt;/strong&gt;&lt;/h5&gt;
 &lt;/div&gt;
@@ -386,7 +386,7 @@
 
 &lt;h2&gt;Foods:&lt;/h2&gt;
 &lt;div id=&quot;califoods&quot;&gt;
-    &lt;h5&gt;&lt;a href=&quot;https://www.chinchikurin-usa.com/menu/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot; id=&quot;okonomiyaki&quot;&gt;
+    &lt;h5&gt;&lt;a href=&quot;https://www.chinchikurin-usa.com/menu/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;
     Chinchikurin&lt;/a&gt;&lt;/h5&gt;
     &lt;div class=&quot;singleimagecontainer&quot;&gt;
         &lt;img src=&quot;/assets/images/beyond/losangeles/okonomiyaki.JPG&quot; height=&quot;150px&quot; class=&quot;singleimage&quot; /&gt;
