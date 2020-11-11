@@ -18,7 +18,7 @@ Food represents celebration, warmth, and unity to me. At its core, food brings p
         <div class="flexoverlay">Beef Chow Fun + Char Siu Fan</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/favoritefoods/triodumpling.jpg" height="150px" class="singleimage">
+        <img src="/assets/images/favoritefoods/triodumpling.jpg" height="150px" class="image">
         <div class="flexoverlay">Shanghainese Trio</div>
   </div>
 </div>
@@ -62,11 +62,11 @@ I don't have a specific memory attached to these rice cakes, other than that the
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/favoritefoods/mightyquinns.jpg" height="250px" class="singleimage">
+        <img src="/assets/images/favoritefoods/mightyquinns.jpg" height="250px" class="image">
         <div class="flexoverlay">Barbecue Burnt Ends + More</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/favoritefoods/arthurssteak.JPG" height="250px" class="singleimage">
+        <img src="/assets/images/favoritefoods/arthurssteak.JPG" height="250px" class="image">
         <div class="flexoverlay">Ribeye Steak + Caesar Salad</div>
   </div>
 </div>
