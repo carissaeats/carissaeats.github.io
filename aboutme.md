@@ -2,9 +2,7 @@
 layout: post
 title: About Me
 ---
-Hey! My name is Carissa Liu, a 17 year-old Jersey girl who loves food. 
-
-Welcome to my food, travel, + personal blog!
+Hey! My name is Carissa Liu, a 17 year-old Jersey girl, and welcome to my food, travel, and personal blog!
 
 <div class="flex-container">
   <div class="flex-item-3">
@@ -21,19 +19,18 @@ Welcome to my food, travel, + personal blog!
   </div>
 </div>
 
-I've learned to cook with my grandma, as well as through watching lots of Youtube and my favorite Food Network stars, but I still have so much to learn.
+I started to be curious about my grandma’s kitchen endeavors around 7 years old, and I turned that curiosity into cooking show and culinary YouTube marathons. I cook with my grandma often, but bake with my sister too, which you’ll see more in the upcoming months. 
 
-Food is the one thing that is able to connect so many people; even if you live halfway across the world from someone, it's very likely that you guys have had some similar food experiences. 
+I learned that with every bite of food, there’s a story that comes with it. Even if you live halfway across the world from someone, it’s very likely that you've shared similar food experiences. With cooking comes diverse stories, and living in America has allowed me to build bridges between various cultures through the wide variety of food experiences available here.
 
-With cooking comes many different stories, and living in America has allowed me to experience many different types of food from a wide variety of places. 
-
-### [See some of the stories behind my favorite foods here.](/favoritefoods.html){:class="nounderline"}
+### [See some of the stories behind my favorite foods here.](/stories/favoritefoods){:class="nounderline"}
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 
-My goal for this webpage is to share some of my favorite places to find ~affordable eats~ (no Michelin-star meals here!). Food is something I'm so grateful to be able to enjoy every day, and I just want to capture the best moments. Whether it be cooking with my grandma or exploring tasty eats, it is something I hope everyone can enjoy along with me.  
+I’ll be releasing interviews with food establishment owners, recipes for anyone to follow, stories attached to my favorite eats, and even foodie T.V. moments. I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to enjoy food alongside me; it really is something I’m incredibly grateful to have every day.
 
-I've been blessed with numerous travel opportunities, and food has undoubtedly been my favorite part of every experience, 
-whether it's eating fried quail eggs in Taiwanese night markets or shakshuka in Israel. My **[beyond](/beyond.html){:class="nounderline" target="_blank"}** page will share the destinations!
+My **[beyond page](/beyond.html){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or shakshuka in Israel.
 
-*All photos on this blog are taken by me.*
+Because I'm building this blog from scratch, there will be weeks I just work on the design for it, but I plan for a new post (at least) every other Wednesday!
+
+*Photos on this blog are taken by me. My portraits are taken by Antonia, but I'll include her food photography from time-to-time. Her photos will be credited!*

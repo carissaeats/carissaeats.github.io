@@ -26,6 +26,7 @@ show_excerpts: true
 github_username:  jekyll
 excerpt_separator: <!-- MORE -->
 description: A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures. 
+permalink: /:categories/:title
 
 # Build settings
 theme: minima

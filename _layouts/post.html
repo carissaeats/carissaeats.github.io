@@ -11,7 +11,9 @@
     {% elsif page.categories[0] == 'beyond' %}
       <title>{{ page.title }} | Beyond... | @CarissaEats</title>
     {% elsif page.categories[0] == 'recipes' %}
-      <title>{{ page.title }} | Recipes | @CarissaEats</title>      
+      <title>{{ page.title }} | Recipes | @CarissaEats</title>
+    {% elsif page.categories[0] == 'stories' %}
+      <title>{{ page.title }} | Stories | @CarissaEats</title>      
     {%- else -%}
       <title>{{ page.title }} | @CarissaEats</title>
     {%- endif -%}
@@ -36,7 +38,16 @@
       <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
       <a href="/nyceats.html">NYC&nbspEATS</a>
       <a href="/beyond.html">BEYOND...</a>
-      <a href="/recipes.html">RECIPES!</a>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
+          <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
+        </div>
+      </div>
+      <a href="/recipes.html" class="more">RECIPES!</a>
+      <a href="/stories.html" class="more">STORIES</a>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
@@ -57,8 +68,12 @@
       {% elsif page.categories[0] == 'recipes' %}
         <div class="directory">
           <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>            
-      {%- endif -%}
+        </div>
+      {% elsif page.categories[0] == 'stories' %}
+        <div class="directory">
+          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/stories.html" class="directory">Stories</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
+        </div>         
+      {%- endif -%}        
     {% else %}
       {% if page.categories[0] == 'nyceats' %}
         <div class="directory">
@@ -75,9 +90,13 @@
       {% elsif page.categories[0] == 'recipes' %}
         <div class="directory">
           <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>              
-      {%- endif -%}        
-    {%- endif -%}   
+        </div>
+      {% elsif page.categories[0] == 'stories' %}
+        <div class="directory">
+          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/stories.html" class="directory">Stories</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
+        </div>         
+      {%- endif -%}
+    {%- endif -%}
     <p><div class="blogposts_aboutme">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {% if page.directorytitle %}
@@ -111,6 +130,8 @@
                   Beyond...
                 {% elsif page.previous.categories[0] == 'recipes' %}
                   Recipes
+                {% elsif page.previous.categories[0] == 'stories' %}
+                  Stories  
                 {%- endif -%}
               </div>
             </div>
@@ -132,6 +153,8 @@
                   Beyond...
                 {% elsif page.next.categories[0] == 'recipes' %}
                   Recipes
+                {% elsif page.next.categories[0] == 'stories' %}
+                  Stories                  
                 {%- endif -%}
               </div>
             </div>
