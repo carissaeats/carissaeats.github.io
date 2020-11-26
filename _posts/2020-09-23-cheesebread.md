@@ -5,7 +5,7 @@ categories: recipes
 description: Pão de queijo-inspired tapioca cheese bread recipe. These breads pair well with jam, honey, and tomato sauce!
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/cheesebread/cheesebread3.jpg" height="250px" class="singleimage">
+    <img src="/assets/images/recipes/cheesebread/cheesebread3.jpg" height="250px" class="image">
 </div>
 
 ###### Apologies for all the cringey cheese puns on the way...
@@ -62,5 +62,5 @@ Now let's get on with the recipe and *cheese* the day!
 1. Serve with honey, jam, or marinara sauce.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="singleimage">
+    <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image">
 </div>

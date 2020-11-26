@@ -14,7 +14,8 @@
         color: #000;
     }
     h2 {
-        font-family: Sacramento, cursive;
+        font-family: futura-pt, sans-serif;
+        font-weight: 550;
         font-size: 200%;
         color: #fff;
     }
@@ -23,12 +24,13 @@
         font-size: 180%;
     }
     h4 {
-        font-family: Montserrat, sans-serif;
-        font-size: 170%;
+        font-family: futura-pt, sans-serif;
+        font-weight:700;
+        font-size: 200%;
     }
     h5 {
         font-family: Montserrat, sans-serif;
-        font-size: 140%;
+        font-size: 120%;
     }
     h6 {
         font-size: 70%;
@@ -36,7 +38,7 @@
     .topnav {
         font-family: Spartan, sans-serif;
         font-weight: 900;
-        font-size: 140%;
+        font-size: 115%;
     }
     .topnav a {
         padding-left: 0.5%;
@@ -100,11 +102,6 @@
         font-weight: 700;
         padding: 2.5%;
         text-align: center;
-    }
-    .singleimage {
-        display: block;
-        width: 100%;
-        height: auto;
     }
     .singleimagecontainer {
         position: relative;
@@ -231,8 +228,7 @@
         padding: 7.5%;
         left: 0;
         text-decoration: none;
-        background-color:#c5e8ed;
-        /* background-color: #fff; */
+        background-color: #c5e8ed;
     }
     .dropdown-content a {
         display: block;
@@ -247,8 +243,11 @@
     }
 }
 @media only screen and (max-width: 1000px) {
+    h4 {
+        font-size: 170%;
+    }
     .topnav {
-        font-size: 120%;
+        font-size: 105%;
     }
     #panorama {
         width: 100%;
@@ -265,7 +264,7 @@
 }
 @media only screen and (max-width: 900px) {
     .topnav {
-        font-size: 100%;
+        font-size: 90%;
     }
     .buttonphotos {
         width: 60%;
@@ -281,6 +280,9 @@
     }
 }
 @media only screen and (max-width: 800px) {
+    .topnav {
+        font-size: 80%;
+    }
     .singleimageoverlay {
         opacity: 1;
     }
@@ -342,8 +344,8 @@
     .topnav a:hover {
         color: #000;
     }
-    .flex-item-3,
-    .flex-item {
+    .flex-item,
+    .flex-item-3 {
         flex: 100%;
         padding-bottom: 2%;
     }
@@ -359,6 +361,9 @@
     }
 }
 @media only screen and (max-width: 600px) {
+    h4 {
+        font-size:160%;
+    }
     .buttonphotos {
         width: 80%;
     }
@@ -391,7 +396,7 @@
     }
     h3,
     h4 {
-        font-size: 160%;
+        font-size: 150%;
     }
     footer {
         font-size: 70%;
@@ -418,7 +423,7 @@
         font-size: 130%;
     }
     h4 {
-        font-size: 140%;
+        font-size: 125%;
     }
     .singleimageoverlay {
         font-size: 45%;
@@ -440,7 +445,7 @@
     }
     h3,
     h4 {
-        font-size: 120%;
+        font-size: 110%;
     }
     #panorama {
         width: 100%;

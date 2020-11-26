@@ -6,7 +6,7 @@ categories: nyceats
 description: Newly opened Pinklady Cheese Tart at 11 Mott Street serves Hokkaido-inspired cheese tarts. If you like cheesecake, you'll LOVE these.
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/pinklady/pinklady1.jpg" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/pinklady/pinklady1.jpg" height="250px" class="image">
 </div>
 
 Inspired by the Hokkaido Cheese in Japan, **[Pinklady Cheese Tart](https://www.instagram.com/pinkladycheesetart/?hl=en){:class="nounderline" target="_blank"}** is a new Chinatown small business selling creamy cheese tarts located at 11 Mott Street. 
@@ -28,7 +28,7 @@ Let me start off by saying the staff there are so friendly - they really care ab
 Upon entrance, you'll see that there are "sneeze guard" dividers to protect the tarts from any customers (who must wear a mask inside too), and the tarts are lined up on Silpats and plastic trays. They currently offer five flavors of **original cheese**, **matcha**, **ube** (purple yam), **chocolate**, and **strawberry-filled chocolate**. I've tried all but the chocolate one, since I'm not the *biggest* fan of chocolate (I'm prepared to get some hate mail...). My favorite is the matcha, because the matcha accompanies the cheese perfectly, but you really can't go wrong with any of them. 
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/pinklady/pinkladycenter.JPG" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/pinklady/pinkladycenter.JPG" height="250px" class="image">
     <div class="singleimageoverlay">Inside of the Matcha Cheese</div>
 </div>
 
@@ -39,6 +39,6 @@ While I do love myself a flaky HK egg tart crust, Pinklady double bakes their ta
 I was beyond satisfied with my stop at Pinklady. My dad and I fought over the last cheese tart, because they're just that good (we ended up splitting it). Opening at the peak of the pandemic in April is no easy feat, and although there are many old staples in Chinatown that deserve an equal amount of appreciation, Pinklady is a great addition to an already fantastic, robust neighborhood dessert scene. Be sure to pay a visit at your next stop in Chinatown!
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/pinklady/pinklady3.JPG" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/pinklady/pinklady3.JPG" height="250px" class="image">
     <div class="singleimageoverlay">Left to Right: Original, Matcha, Chocolate Strawberry</div>
 </div>

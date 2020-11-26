@@ -5,7 +5,7 @@ categories: nyceats
 description: Japanese barbecue, or yakiniku, made easy at Gyu-Kaku Japanese BBQ. My mom introduced me to this one, so it means even more.
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/gyugrill.jpg" height="150px" class="singleimage">
+    <img src="/assets/images/nyceats/gyukaku/gyugrill.jpg" height="150px" class="image">
     <div class="singleimageoverlay">
         Pork Belly, Bistro Hanger Steak, Spicy Pork, and Assorted Veggie Packet
     </div>
@@ -18,7 +18,7 @@ The real charm about this place is how worth it the food is, ESPECIALLY if you g
 At Gyu-Kaku, yakiniku is grill-it-yourself! You can *kind of* think about it like Korean BBQ, but the taste is REALLY quite different from Korean barbecue. However, if you like KBBQ, I have no doubts that you'll LOVE yakinuku! They are both very unique dining experiences, as in my opinion, a Korean BBQ meal is only complete with a large set of banchan side dishes, such as your typical kimchi, Kongnamul bean sprouts, mung bean jelly, among MANY, many others (I am by no means an expert on either KBBQ or yakiniku, so I'm sure I'm missing a lot) that are meant to be enjoyed alongside the meal, whereas yakiniku can be enjoyed with simpler accompaniments.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/gyukakulayout.jpg" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/gyukaku/gyukakulayout.jpg" height="250px" class="image">
     <div class="singleimageoverlay">The Layout</div>
 </div>
 
@@ -33,14 +33,14 @@ I know that as a yakiniku restaurant, the premise behind the whole place is thei
 I've been coming to Gyu-Kaku for as long as I can remember. My mom used to work in the city, and this spot was a favorite among her and her coworkers. When my sister and I were first introduced, we couldn't stop coming back!! So this place really brings back a lot of fond memories that make my heart warm every time.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/garlicnoodles.JPG" height="150px" class="singleimage">
+    <img src="/assets/images/nyceats/gyukaku/garlicnoodles.JPG" height="150px" class="image">
     <div class="singleimageoverlay">Is your mouth watering yet?!</div>
 </div>
 
 The first dish that I'd like to talk about is their **garlic noodles**. Let me tell you, if Gyu-Kaku ONLY sold these noodles, I'd be okay with it. This is the first dish I ever ate Gyu-Kaku, and I've loved them for as long as I can remember. The dish is made with thick, udon-style, egg noodles that are coated in a slightly sweetened garlic sauce and vegetables. You have the choice of ground chicken, vegetables, or shrimp. They're served on a cast-iron plate, which slightly browns the outsides of the noodles.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/tunariceportrait.jpg" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/gyukaku/tunariceportrait.jpg" height="250px" class="image">
     <div class="singleimageoverlay">The "Volcano"!</div>
 </div>
 
@@ -49,7 +49,7 @@ Another dish I love is their absolutely non-traditional, but no less mouthwateri
 These two dishes are some of their best-sellers, and it's not difficult to see why. These might be my two favorites, but not far behind (at all) are any of their **bibimbap rice dishes** that achieve glorious browning from their hot stone bowls and their **tuna poke nachos** - something about a fried wonton skin just feels right, you know?
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/wontonnachos.JPG" height="250px" class="singleimage">
+    <img src="/assets/images/nyceats/gyukaku/wontonnachos.JPG" height="250px" class="image">
     <div class="singleimageoverlay">Tuna Poke Nachos</div>
 </div>  
 
