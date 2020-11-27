@@ -2,9 +2,11 @@
 layout: post
 title:  "Okay? Poke (Crew)."
 categories: jerseyeats
+description: The freshest poke in Bergen County is at Poke Crew. Unlimited toppings means unlimited combos. Fish, chicken, shrimp, tofu, you name it!
+image: /assets/images/jerseyeats/pokecrew/poke.JPG
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/pokecrew/poke.JPG" height="250px" class="image"> 
+    <img src="{{ page.image }}" height="250px" class="image"> 
 </div>
 
 Let's think Chipotle, but elevated with fresh-from-the-sea fish and so many more combinations. I discovered **[Poke Crew](https://www.eatpokecrew.com/){:class="nounderline" target="_blank"}**'s grand opening through local food media company, [Boozy Burbs](https://boozyburbs.com){:class="nounderline" target="_blank"}, and I don't think I had ever been so excited for a local restaurant opening up until that point. I had always wanted to go to Hawaii, not only because of its gorgeous landscape, but because of its rich culture that I would certainly love to explore one day. 

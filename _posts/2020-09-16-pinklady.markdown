@@ -4,9 +4,10 @@ title:  "With All My Tart 💖"
 directorytitle: "Pinklady Cheese Tart"
 categories: nyceats
 description: Newly opened Pinklady Cheese Tart at 11 Mott Street serves Hokkaido-inspired cheese tarts. If you like cheesecake, you'll LOVE these.
+image: /assets/images/nyceats/pinklady/pinklady1.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/pinklady/pinklady1.jpg" height="250px" class="image">
+    <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
 Inspired by the Hokkaido Cheese in Japan, **[Pinklady Cheese Tart](https://www.instagram.com/pinkladycheesetart/?hl=en){:class="nounderline" target="_blank"}** is a new Chinatown small business selling creamy cheese tarts located at 11 Mott Street. 

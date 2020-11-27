@@ -4,9 +4,10 @@ title:  "It's So Fluffy, I'm Gonna ~~"
 directorytitle: "Fluffy Soufflé Pancakes"
 categories: nyceats
 description: Fluffy Soufflé pancakes have arrived in NYC, and they're coming in HOT!! Trying Taiyaki and Fluffy's from Smorgasburg. 
+image: /assets/images/nyceats/pancake/fluffypinkcropped.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/pancake/fluffypinkcropped.jpg" height="250px" class="image">
+    <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
 **[Taiyaki NYC](https://taiyakinyc.com/){:class="nounderline" target="_blank"}** is known for their Japanese fish-shaped cones filled with soft serve ice cream. The texture of the cones are a little bit like waffles, but so much better. Traditionally, they're stuffed with anko, or sweet red azuki bean paste, but Taiyaki offers them with custard filling too.

@@ -11,7 +11,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
@@ -22,19 +21,30 @@
     <div class="topnav" id="myTopnav">
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
       <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+        </div>
+      </div>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
           <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
         </div>
       </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/stories.html" class="more">STORIES</a>
+      <div class="more">
+        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+        <a href="/nyceats.html">NYC&nbspEATS</a>
+        <a href="/beyond.html">BEYOND...</a>
+        <a href="/recipes.html">RECIPES!</a>
+        <a href="/stories.html">STORIES</a>  
+      </div>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Recipes!</h1>
@@ -49,9 +59,18 @@
                       <a class="nounderline" href="/recipes/croissantchronicles">                     
                         The Croissant Chronicles
                       </a>
-                    </h4><span class="post-meta">&nbspNov 18, 2020</span><p>
-                        <div>
-                          <div class="flex-container"> <div class="flex-item"> <img src="/assets/images/recipes/croissant/croissantportrait1.jpg" height="250px" class="image" /> </div> <div class="flex-item"> <img src="/assets/images/recipes/croissant/croissantportrait3.jpg" height="250px" class="image" /> </div> </div> <p>I made croissants from scratch for the first time! Ever since my sister, Antonia, a croissant connoisseur (just kidding, she’s only made croissants twice before), told me she made croissants from scratch, I’ve been itching to try making them...
+                    </h4><span class="post-meta">&nbspNov 18, 2020</span>
+                      <a href="/recipes/croissantchronicles">
+                        <p><div class="flex-container">
+                              <div class="flex-item">
+                                  <img src="/assets/images/recipes/croissant/croissantportrait1.jpg" height="250px" class="image">
+                              </div>
+                              <div class="flex-item">
+                                  <img src="/assets/images/recipes/croissant/croissantportrait3.jpg" height="250px" class="image">
+                              </div>
+                            </div></p>
+                      </a><p><div>
+                          I made croissants from scratch for the first time! Ever since my sister, Antonia, a croissant connoisseur (just kidding, she’s only made croissants twice before), told me she made croissants from scratch, I’ve been itching to try making them too. It’s month eight of being totally at home, so we finally decided to tackle this challenge! Many hours...
                         </div>
                       </p></div>
                   <br>
@@ -61,9 +80,13 @@
                       <a class="nounderline" href="/recipes/cheesebread">                     
                         Cheese (Bread) Please!
                       </a>
-                    </h4><span class="post-meta">&nbspSep 23, 2020</span><p>
-                        <div>
-                          <div class="singleimagecontainer"> <img src="/assets/images/recipes/cheesebread/cheesebread3.jpg" height="250px" class="image" /> </div> <h6 id="apologies-for-all-the-cringey-cheese-puns-on-the-way">Apologies for all the cringey cheese puns on the way…</h6> <p>Inspired by the Brazilian cheese bread, <strong>pão de queijo</strong>, this naturally gluten-free tapioca cheese bread is not what you might first think of when you hear “bread”, but its airiness, chewiness, and exterior crunchiness will be sure to win...
+                    </h4><span class="post-meta">&nbspSep 23, 2020</span>
+                      <a href="/recipes/cheesebread">
+                        <p><div class="singleimagecontainer">
+                              <img src="/assets/images/recipes/cheesebread/cheesebread3.jpg" height="250px" class="image">
+                            </div></p>
+                      </a><p><div>
+                          Apologies for all the cringey cheese puns on the way… Inspired by the Brazilian cheese bread, pão de queijo, this naturally gluten-free tapioca cheese bread is not what you might first think of when you hear “bread”, but its airiness, chewiness, and exterior crunchiness will be sure to win over even the most passionate bread purists. I want...
                         </div>
                       </p></div>
                   <br></div></div>

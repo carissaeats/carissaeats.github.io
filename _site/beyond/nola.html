@@ -12,7 +12,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
@@ -22,19 +21,30 @@
     <div class="topnav" id="myTopnav">
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
       <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+        </div>
+      </div>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
           <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
         </div>
       </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/stories.html" class="more">STORIES</a>
+      <div class="more">
+        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+        <a href="/nyceats.html">NYC&nbspEATS</a>
+        <a href="/beyond.html">BEYOND...</a>
+        <a href="/recipes.html">RECIPES!</a>
+        <a href="/stories.html">STORIES</a>  
+      </div>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
@@ -48,15 +58,15 @@
         <h3 style="display:inline;">New Orleans&nbsp;</h3>
         <span class="post-meta">Mar 1, 2020</span><p><div class="flex-container">
     <div class="flex-item">
-        <img src="/assets/images//beyond/nola/bourbonst.JPG" height="250px" class="image" />
+        <img src="/assets/images/beyond/nola/bourbonst.JPG" height="250px" class="image" />
         <div class="flexoverlay">
             Bourbon Street
         </div>
     </div>
     <div class="flex-item">
-        <img src="/assets/images//beyond/nola/cafedumondeheadshot.jpg" height="250px" class="image" />
+        <img src="/assets/images/beyond/nola/cafedumondeheadshot.jpg" height="250px" class="image" />
         <div class="flexoverlay">
-            @ Café du Monde
+            Café du Monde
         </div>        
     </div>    
 </div>
@@ -65,20 +75,20 @@
 
 <p>I’m so ready to share some restaurants I found in the exciting and multicultural food scene of New Orleans. This city is known for its Creole cuisine and French influences, but is also popular for its Vietnamese food, which makes sense, as both Louisiana and Vietnamese food are lightly French-inspired amongst many other influences. Scroll down below to check out the eats of this lively city!</p>
 
-<h4 id="the-destinations">The Destinations</h4>
+<h2 id="the-destinations">The Destinations</h2>
 
-<h2>Foods:</h2>
+<h3>Foods:</h3>
 <div id="nolafoods">
     <h5><a href="https://www.maypoprestaurant.com/" class="nounderline" target="_blank">Maypop</a></h5>
     <div class="flex-container">
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/bonemarrowfullimage.JPG" height="250px" class="image" />
+            <img src="/assets/images/beyond/nola/bonemarrowfullimage.JPG" height="250px" class="image" />
             <div class="flexoverlay">
                 Bone Marrow Dish
             </div>
         </div>
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/bluecrabnoodles.JPG" height="250px" class="image" />
+            <img src="/assets/images/beyond/nola/bluecrabnoodles.JPG" height="250px" class="image" />
             <div class="flexoverlay">
                 Hand-Pulled Blue Crab Mapo Tofu Noodles
             </div>
@@ -93,13 +103,13 @@
     <h5><a href="https://www.dickiebrennanssteakhouse.com/" class="nounderline" target="_blank">Dickie Brennan's Steakhouse</a></h5>
     <div class="flex-container">
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/dbsteak.JPG" height="150px" class="image" />
+            <img src="/assets/images/beyond/nola/dbsteak.JPG" height="150px" class="image" />
             <div class="flexoverlay">
                 Prime Cowboy Ribeye
             </div>
         </div>
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/cornbrulee.JPG" height="150px" class="image" />
+            <img src="/assets/images/beyond/nola/cornbrulee.JPG" height="150px" class="image" />
             <div class="flexoverlay">
                 Corn Brûlée
             </div>
@@ -110,7 +120,7 @@
     </p>
     <h5><a href="https://frenchmarketrestaurant.com/" class="nounderline" target="_blank">The Original French Market Restaurant and Bar</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images//beyond/nola/bbqshrimpgrits.JPG" height="150px" class="image" />
+        <img src="/assets/images/beyond/nola/bbqshrimpgrits.JPG" height="150px" class="image" />
         <div class="singleimageoverlay">
             BBQ Shrimp + Grits
         </div>
@@ -120,7 +130,7 @@
     </p>
     <h5><a href="https://shop.cafedumonde.com/" class="nounderline" target="_blank">Café du Monde</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images//beyond/nola/cafedumonde.JPG" height="150px" class="image" />
+        <img src="/assets/images/beyond/nola/cafedumonde.JPG" height="150px" class="image" />
         <div class="singleimageoverlay">
             Classic Beignets
         </div>
@@ -133,7 +143,7 @@
     </p>                    
     <h5><a href="https://willajean.com/" class="nounderline" target="_blank">Willa Jean</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images//beyond/nola/willajean.JPG" height="250px" class="image" />
+        <img src="/assets/images/beyond/nola/willajean.JPG" height="250px" class="image" />
         <div class="singleimageoverlay">
             Cookies + Milk
         </div>
@@ -143,7 +153,7 @@
     </p>                                
 </div>
 <p><button id="shownolafoods" class="showmorephotosbutton" onclick="toggleNolaFoods()">( + ) show me the food!</button></p>
-<h2>Places:</h2>
+<h3>Places:</h3>
 <div id="nolaplaces">
     <h5>
         <a href="https://www.neworleans.com/plan/streets/bourbon-street/" class="nounderline" target="_blank">Bourbon Street / French Quarter
@@ -182,10 +192,10 @@
     <h5><a href="https://www.stlouiscathedral.org/" class="nounderline" target="_blank">Saint Louis Cathedral</a></h5>
     <div class="flex-container">
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/stlouiscathedral.JPG" height="250px" class="image" />
+            <img src="/assets/images/beyond/nola/stlouiscathedral.JPG" height="250px" class="image" />
         </div>
         <div class="flex-item">
-            <img src="/assets/images//beyond/nola/nolaxmas.JPG" height="250px" class="image" />
+            <img src="/assets/images/beyond/nola/nolaxmas.JPG" height="250px" class="image" />
         </div>
     </div>    
     <p>

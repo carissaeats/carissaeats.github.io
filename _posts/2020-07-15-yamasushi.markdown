@@ -4,9 +4,10 @@ title:  "Wasa-bi Happy 😊 Yama Sushi"
 directorytitle: "Yama Sushi"
 categories: nyceats
 description: Yama Sushi may be underground, but they serve some FRESH sashimi and awesome bento boxes. 
+image: /assets/images/nyceats/yamasushi/lunchbento.JPG
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/yamasushi/lunchbento.JPG" height="250px" class="image">
+    <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
 **[Yama Sushi](http://www.yama-nyc.com/){:class="nounderline" target="_blank"}** is definitely a spot you'd skip over at first glance. It has an unassuming, dark exterior to go along with its basement location, so it wouldn't be somewhere I'd choose initially, but this restaurant is my dad's favorite place in New York. About 20 years ago, my dad used to commute to work in Manhattan before he switched to working at home, but he discovered Yama with his coworkers in the early days of his job. The basement-esque location we go to now is different than the one he used to go to, but he says this one is just as good!

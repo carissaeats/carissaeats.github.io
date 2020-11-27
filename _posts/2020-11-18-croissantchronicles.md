@@ -3,13 +3,15 @@ layout: post
 categories: recipes
 title: "The Croissant Chronicles"
 description: Join me on my first time making croissants from scratch with Antonia! We have some croissant portraits and close-ups of the lamination process.
+image: /assets/images/recipes/croissant/croissantportrait1.jpg
+image2: /assets/images/recipes/croissant/croissantportrait3.jpg
 ---
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/recipes/croissant/croissantportrait1.jpg" height="250px" class="image">
+      <img src="{{ page.image }}" height="250px" class="image">
   </div>
   <div class="flex-item">
-        <img src="/assets/images/recipes/croissant/croissantportrait3.jpg" height="250px" class="image">
+      <img src="{{ page.image2 }}" height="250px" class="image">
   </div>
 </div>
 

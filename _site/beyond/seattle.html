@@ -12,7 +12,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
@@ -22,19 +21,30 @@
     <div class="topnav" id="myTopnav">
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
       <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+        </div>
+      </div>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
           <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
         </div>
       </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/stories.html" class="more">STORIES</a>
+      <div class="more">
+        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+        <a href="/nyceats.html">NYC&nbspEATS</a>
+        <a href="/beyond.html">BEYOND...</a>
+        <a href="/recipes.html">RECIPES!</a>
+        <a href="/stories.html">STORIES</a>  
+      </div>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
@@ -57,9 +67,9 @@
 
 <p>Welcome to one of my favorite cities!! 😊 While it’s known for the constant rain, the Seattle summer weather is absolutely perfect - mid-70s, shining sun until 9PM, and minimal rain. What you wouldn’t expect, though, are the unique attractions, beautiful landscape, and some of the best food you’ll find around! See all the places I went below…</p>
 
-<h3 id="the-destinations">The Destinations</h3>
+<h2 id="the-destinations">The Destinations</h2>
 
-<h2>Foods:</h2>
+<h3>Foods:</h3>
 <div id="foods">
     <h5><strong><a href="https://www.mollymoon.com/" target="_blank" class="nounderline">Molly Moon's Homemade Ice Cream</a></strong></h5>
     <p>Okay, but first, dessert - who said dessert can't come first?! <strong><a href="https://www.mollymoon.com/" target="_blank" class="nounderline">Molly Moon's</a></strong>, one of Seattle's most popular ice cream shops, was the first on my list.</p>
@@ -99,7 +109,7 @@
 
 <p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p>
 
-<h2>Places:</h2>
+<h3>Places:</h3>
 <div id="places">
     <h5><strong><a href="https://uvillage.com/" target="_blank" class="nounderline">University Village</a></strong></h5>
     <p>Antonia stayed at the University of Washington over the summer, making <a href="https://uvillage.com/" target="_blank" class="nounderline"><strong>University Village</strong></a> a convenient stop. UVillage is an open-air shopping complex, with numerous gourmet eateries + shops. It's easily one of the most beautiful shopping centers I've been to.</p>

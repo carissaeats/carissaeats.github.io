@@ -3,9 +3,10 @@ layout: post
 title:  "Cheese (Bread) Please!"
 categories: recipes
 description: Pão de queijo-inspired tapioca cheese bread recipe. These breads pair well with jam, honey, and tomato sauce!
+image: /assets/images/recipes/cheesebread/cheesebread3.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/cheesebread/cheesebread3.jpg" height="250px" class="image">
+    <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
 ###### Apologies for all the cringey cheese puns on the way...

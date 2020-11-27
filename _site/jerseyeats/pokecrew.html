@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <meta itemprop="description" name="description" content="A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures." />
+    <meta itemprop="description" name="description" content="The freshest poke in Bergen County is at Poke Crew. Unlimited toppings means unlimited combos. Fish, chicken, shrimp, tofu, you name it!" />
     
       <title>Okay? Poke (Crew). | Jersey Eats | @CarissaEats</title>
     <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
@@ -12,7 +12,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
@@ -22,19 +21,30 @@
     <div class="topnav" id="myTopnav">
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
       <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+        </div>
+      </div>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
           <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
         </div>
       </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/stories.html" class="more">STORIES</a>
+      <div class="more">
+        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+        <a href="/nyceats.html">NYC&nbspEATS</a>
+        <a href="/beyond.html">BEYOND...</a>
+        <a href="/recipes.html">RECIPES!</a>
+        <a href="/stories.html">STORIES</a>  
+      </div>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>

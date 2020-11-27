@@ -3,12 +3,12 @@ layout: post
 title: "Los Angeles"
 categories: beyond
 description: Exploring Los Angeles one bite at a time with @CarissaEats! Okonomiyaki, Buzzfeed Worth It! Steak, Boba are a few of my favorites from this trip. 
+image: /assets/images/beyond/losangeles/laviews.JPG
+overlay: ~ Long Beach Views ~
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/beyond/losangeles/laviews.JPG" height="250px" class="image">
-    <div class="singleimageoverlay">
-    ~ Long Beach Views ~
-    </div>
+    <img src="{{ page.image }}" height="250px" class="image">
+    <div class="singleimageoverlay">{{ page.overlay }}</div>
 </div>
 
 WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I had always been interested in life on the West Coast. New York City is a very fast city - everyone is always on the move and in a rush. Los Angeles is what some might consider NYC's polar opposite. As die-hard New Yorkers say, if the only thing you can say about your city is that the weather is good, the city *probably* just isn't that good. SoCal is known for its warmer weather throughout the year, but there's so much more to this wonderful city than just the weather.  
@@ -23,9 +23,9 @@ Check out the places I ate and visited during my Thanksgiving trip!
 
 ###### We went all over L.A. metro area, including San Gabriel Valley, Long Beach, Hollywood, Little Tokyo, and more, so it'll definitely be a drive around!
 
-#### The Destinations
+## The Destinations
 
-<h2>Foods:</h2>
+<h3>Foods:</h3>
 <div id="califoods">
     <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
     Chinchikurin</a></h5>
@@ -141,7 +141,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
 
 <button id="showcalifoods" class="showmorephotosbutton" onclick="toggleCaliFoods()">( + ) show me the food!</button> 
 
-<h2>Places:</h2>
+<h3>Places:</h3>
 <div id="caliplaces">
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
     <div class="flex-container">

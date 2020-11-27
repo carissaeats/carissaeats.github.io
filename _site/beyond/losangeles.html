@@ -12,7 +12,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
@@ -22,19 +21,30 @@
     <div class="topnav" id="myTopnav">
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       <a href="http://localhost:4000">HOME</a>
-      <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-      <a href="/nyceats.html">NYC&nbspEATS</a>
-      <a href="/beyond.html">BEYOND...</a>
       <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">MORE! &darr;
+        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
+        </button>
+        <div class="dropdown-content" id="dropdown-content">
+          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+        </div>
+      </div>
+      <div style="display:inline" class="dropdown">
+        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
           <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
           <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
         </div>
       </div>
-      <a href="/recipes.html" class="more">RECIPES!</a>
-      <a href="/stories.html" class="more">STORIES</a>
+      <div class="more">
+        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
+        <a href="/nyceats.html">NYC&nbspEATS</a>
+        <a href="/beyond.html">BEYOND...</a>
+        <a href="/recipes.html">RECIPES!</a>
+        <a href="/stories.html">STORIES</a>  
+      </div>
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
@@ -48,9 +58,7 @@
         <h3 style="display:inline;">Los Angeles&nbsp;</h3>
         <span class="post-meta">Apr 2, 2020</span><p><div class="singleimagecontainer">
     <img src="/assets/images/beyond/losangeles/laviews.JPG" height="250px" class="image" />
-    <div class="singleimageoverlay">
-    ~ Long Beach Views ~
-    </div>
+    <div class="singleimageoverlay">~ Long Beach Views ~</div>
 </div>
 
 <p>WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I had always been interested in life on the West Coast. New York City is a very fast city - everyone is always on the move and in a rush. Los Angeles is what some might consider NYC’s polar opposite. As die-hard New Yorkers say, if the only thing you can say about your city is that the weather is good, the city <em>probably</em> just isn’t that good. SoCal is known for its warmer weather throughout the year, but there’s so much more to this wonderful city than just the weather.</p>
@@ -65,9 +73,9 @@
 
 <h6 id="we-went-all-over-la-metro-area-including-san-gabriel-valley-long-beach-hollywood-little-tokyo-and-more-so-itll-definitely-be-a-drive-around">We went all over L.A. metro area, including San Gabriel Valley, Long Beach, Hollywood, Little Tokyo, and more, so it’ll definitely be a drive around!</h6>
 
-<h4 id="the-destinations">The Destinations</h4>
+<h2 id="the-destinations">The Destinations</h2>
 
-<h2>Foods:</h2>
+<h3>Foods:</h3>
 <div id="califoods">
     <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
     Chinchikurin</a></h5>
@@ -183,7 +191,7 @@
 
 <p><button id="showcalifoods" class="showmorephotosbutton" onclick="toggleCaliFoods()">( + ) show me the food!</button></p>
 
-<h2>Places:</h2>
+<h3>Places:</h3>
 <div id="caliplaces">
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
     <div class="flex-container">

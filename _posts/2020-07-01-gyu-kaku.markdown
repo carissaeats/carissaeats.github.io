@@ -3,11 +3,13 @@ layout: post
 title:  "Gyu-Kaku Japanese BBQ"
 categories: nyceats
 description: Japanese barbecue, or yakiniku, made easy at Gyu-Kaku Japanese BBQ. My mom introduced me to this one, so it means even more.
+image: /assets/images/nyceats/gyukaku/gyugrill.jpg
+overlay: Pork Belly, Bistro Hanger Steak, Spicy Pork, and Assorted Veggie Packet
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/nyceats/gyukaku/gyugrill.jpg" height="150px" class="image">
+    <img src="{{ page.image }}" height="150px" class="image">
     <div class="singleimageoverlay">
-        Pork Belly, Bistro Hanger Steak, Spicy Pork, and Assorted Veggie Packet
+        {{ page.overlay }}
     </div>
 </div>
 

@@ -3,12 +3,13 @@ layout: post
 title: "Patisserie Florentine"
 categories: jerseyeats
 description: Patisserie Florentine serves up one heck of a brunch, so here's some of my recommendations!
+image: /assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg" height="250px" class="image">
+    <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
-**[Patisserie Florentine](https://www.patisserieflorentine.com/){:class="nounderline" target="_blank"}** (PF) is an extremely popular Bergen County breakfast, brunch, and lunch destination that serves up French-inspired dishes, baked goods, and freshly brewed coffee drinks.  <!-- MORE -->
+**[Patisserie Florentine](https://www.patisserieflorentine.com/){:class="nounderline" target="_blank"}** (PF) is an extremely popular Bergen County breakfast, brunch, and lunch destination that serves up French-inspired dishes, baked goods, and freshly brewed coffee drinks.
 
 Ever since discovering this spot a few years back, it has become a favorite of mine. The unique part of this brunch spot is the twists it puts on classic American brunch staples, like eggs Benedict and French toast. PF truly elevates classics by incorporating in French techniques and bringing in the freshest ingredients and artisanal items.
 

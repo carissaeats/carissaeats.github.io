@@ -3,12 +3,12 @@ layout: post
 title: "Stories of My Favorite Foods"
 categories: stories
 description: Sharing the foods I love, and what memories each of these foods hold. From Okonomiyaki to Cheese Baked Rice to Cheese Tea, see them all!
+image: /assets/images/stories/favoritefoods/katsu.JPG
+overlay: Chicken Katsu from Mitsuwa
 ---
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/favoritefoods/katsu.JPG" height="250px" class="image">
-    <div class="singleimageoverlay">
-        Chicken Katsu from Mitsuwa
-    </div>    
+    <img src="{{ page.image }}" height="250px" class="image">
+    <div class="singleimageoverlay">{{ page.overlay }}</div>    
 </div>
 
 Food represents celebration, warmth, and unity to me. At its core, food brings people together, whether it’s an excuse to catch up with old friends or just enjoying a meal with the people you love. Food helps us get through tough times, but makes the happy times even sweeter. There’s more about how I got into cooking and food on my [About Me](/aboutme.html){:class="nounderline"} page, but today, I’m here to share the memories attached to my favorite foods!
