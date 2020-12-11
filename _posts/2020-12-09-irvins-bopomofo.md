@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: stories
-title: "IRVINS x Bopomofo"
-description: Bopomofo Café is collaborating with IRVINS from Singapore to launch this exclusive Salted Egg Fish Skin product!
-image: /assets/images/stories/irvins/irvins3.jpg
+title: "IRVINS x BOPOMOFO"
+description: BOPOMOFO Café is collaborating with IRVINS from Singapore to launch this exclusive Salted Egg Fish Skin product!
+image: /assets/images/stories/irvins/irvins5.JPEG
 image2: /assets/images/stories/irvins/irvins2.JPEG
 ---
 <div class="flex-container">
@@ -21,7 +21,7 @@ I’m honored and ecstatic to finally announce that I’m a partner for the excl
 
 ##### TLDR: Started from a restaurant. Now *we’re* here.
 
-I had the privilege to travel to Singapore for a few days in 2018, as its proximity to Guangzhou (where my dad grew up) made it an ideal getaway during my summer in China. Singapore was certainly on my bucket list, primarily for the hawker stands. But WOW, I was completely blown away by the country (island city-state?) - I would take the opportunity to live there in a heartbeat. Okay, probably with further research, too, but you get the point - Singapore felt like home! The humidity would likely be the greatest turn off for most, but I’m pretty indifferent to it. It didn’t feel humid when I was there, so I may just not have that weather association to Singapore, though. 
+I had the privilege of travelling to Singapore for a few days in 2018, as its proximity to Guangzhou (where my dad grew up) made it an ideal getaway during my summer in China. Singapore was certainly on my bucket list, primarily for the hawker stands. But WOW, I was completely blown away by the country (island city-state?) - I would take the opportunity to live there in a heartbeat. Okay, probably with further research, too, but you get the point - Singapore felt like home! The humidity would likely be the greatest turn off for most, but I’m pretty indifferent to it. It didn’t feel humid when I was there, so I may just not have that weather association to Singapore, though. 
 
 ###### Quick Singapore Facts: Singapore is majority ethnic Chinese, with Malay and Indian populations making up the subsequent major demographics. Singapore is also known for being religiously diverse.
 
@@ -42,7 +42,7 @@ Now, back to the stuff about deez chips! You know the basic origin story of IRVI
   </div>
 </div>
 
-Their food and drink celebrate the identity many Asian-Americans struggle with their whole lives; being too Asian to do or be x, y, or z, but not Asian enough to feel fully accepted by family members “in the motherland”. Dishes, like mapo tofu tater tots, combine the foods you ate at home with the ones in your school cafeteria. Homemade lunches were “too exotic” (what the heck does that even mean?!), yet you craved those flavors when you no longer brought them to school in fear of being made fun of. You start to get used to the chicken fingers and fries at school, and heck, you even start to like them. And that’s okay! BOPOMOFO embraces that and lets you know you’re not alone when you’re in their company. I’ve never eaten there, but Antonia goes to college very close by, and she got the opportunity to meet Phil, BOPOMOFO’s co-owner that you may recognize from [Wong Fu Productions](https://www.youtube.com/user/WongFuProductions){:class="nounderline" target="_blank"}, a true pioneer in Asian-American media. Antonia raves about their food, and I trust her taste. BOPOMOFO has become integral to the San Gabriel Valley (the 626 and beyond) community, and they’re aware of the platform they have and are using it for good.
+Their food and drink celebrate the identity many Asian-Americans struggle with their whole lives: being too Asian to do or be x, y, or z, but not Asian enough to feel fully accepted by family members “in the motherland”. Dishes, like mapo tofu tater tots, combine the foods you ate at home with the ones from your school cafeteria. Homemade lunches were “too exotic” or "smelly", yet you craved those flavors when you no longer brought them to school in fear of being made fun of. You start to get used to the chicken fingers and fries at school, and heck, you even start to like them. And that’s okay! BOPOMOFO embraces that and lets you know you’re not alone when you’re in their company. I’ve never eaten there, but Antonia goes to college very close by, and she got the opportunity to meet Phil, BOPOMOFO’s co-owner that you may recognize from [Wong Fu Productions](https://www.youtube.com/user/WongFuProductions){:class="nounderline" target="_blank"}, a true pioneer in Asian-American media. Antonia raves about their food, and I trust her taste. BOPOMOFO has become integral to the San Gabriel Valley (the 626 and beyond) community, and they’re aware of the platform they have and are using it for good.
 
 So, they’ve partnered with IRVINS as one of the limited distributors of the Salted Egg Salmon Fish Skins! The fish skins are extremely popular in Southeast Asia, but the salmon fish skin was created specifically for American and Canadian taste buds. 
 
@@ -69,7 +69,7 @@ Some might be frightened by the idea of a fried fish skin, but PLEASE don’t kn
       <img src="/assets/images/stories/irvins/enjoyirvins.JPEG" height="250px" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/irvins5.JPEG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/irvins3.jpg" height="250px" class="image">
   </div>
 </div>
 
@@ -77,5 +77,5 @@ Some might be frightened by the idea of a fried fish skin, but PLEASE don’t kn
 
 <div class="singleimagecontainer">
     <img src="/assets/images/stories/irvins/btsirvins.JPEG" height="250px" class="image">
-    <div class="singleimageoverlay">BTS of Photoshoot</div>    
+    <div class="singleimageoverlay">BTS of Photoshoot (ft. Cheese Puff Tiger)</div>    
 </div>
