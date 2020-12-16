@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600;700&display=swap" rel="stylesheet">
   </head>
   <body>
     <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
@@ -67,35 +67,24 @@
                       {{ post.title | escape }}
                     </a>
                   </h4>
-                  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                  <span class="post-meta">&nbsp{{ post.date | date: date_format }}</span>
-                    <a href="{{ post.url | relative_url }}">
-                      <p>
-                        {%- if post.image2 -%}
-                          <div class="flex-container">
-                            <div class="flex-item">
-                                <img src="{{ post.image }}" height="250px" class="image">
-                            </div>
-                            <div class="flex-item">
-                                <img src="{{ post.image2 }}" height="250px" class="image">
-                            </div>
-                          </div>                          
-                        {%- else -%}
-                          <div class="singleimagecontainer">
-                            <img src="{{ post.image }}" height="250px" class="image">
-                          </div>
-                        {%- endif -%}
-                      </p>
-                    </a>
-                  {%- if site.show_excerpts -%}
-                    <p>
-                      {%- assign overlay = post.overlay -%}
-                      {%- assign overlay2 = post.overlay2 -%}
-                      <div>
-                        {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+                  <p>
+                    <div class="flex-container">
+                      <div class="flex-item">
+                        <a href="{{ post.url | relative_url }}">
+                          <img src="{{ post.image }}" class="image">
+                        </a>
                       </div>
-                    </p>
-                  {%- endif -%}
+                      <div class="flex-item">
+                        {%- assign overlay = post.overlay -%}
+                        {%- assign overlay2 = post.overlay2 -%}
+                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                        <div class="excerpt">
+                          <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
+                          {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+                        </div>
+                      </div>
+                    </div>
+                  </p>
                 </div>
                 <br>
               {%- endif -%}

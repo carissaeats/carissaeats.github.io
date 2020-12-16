@@ -3,15 +3,15 @@ layout: post
 categories: stories
 title: "IRVINS x BOPOMOFO"
 description: BOPOMOFO Café is collaborating with IRVINS from Singapore to launch this exclusive Salted Egg Fish Skin product!
-image: /assets/images/stories/irvins/irvins5.JPEG
-image2: /assets/images/stories/irvins/irvins2.JPEG
+image: /assets/images/stories/irvins/irvins2.JPEG
+image2: /assets/images/stories/irvins/irvins5.JPEG
 ---
 <div class="flex-container">
   <div class="flex-item">
-      <img src="{{ page.image }}" height="250px" class="image">
+      <img src="{{ page.image2 }}" height="250px" class="image">
   </div>
   <div class="flex-item">
-      <img src="{{ page.image2 }}" height="250px" class="image">
+      <img src="{{ page.image }}" height="250px" class="image">
   </div>
 </div>
 
@@ -19,7 +19,7 @@ I’m honored and ecstatic to finally announce that I’m a partner for the excl
 
 [IRVINS Salted Egg](https://eatirvins.com/){:class="nounderline" target="_blank"} chips turned a signature *Salted Egg Crab* dish, which became a local River Valley phenomenon, into some #DangerouslyAddictive snacks. As they say on their website,
 
-##### TLDR: Started from a restaurant. Now *we’re* here.
+##### TLDR: Started from a restaurant. Now [*they’re*] here.
 
 I had the privilege of travelling to Singapore for a few days in 2018, as its proximity to Guangzhou (where my dad grew up) made it an ideal getaway during my summer in China. Singapore was certainly on my bucket list, primarily for the hawker stands. But WOW, I was completely blown away by the country (island city-state?) - I would take the opportunity to live there in a heartbeat. Okay, probably with further research, too, but you get the point - Singapore felt like home! The humidity would likely be the greatest turn off for most, but I’m pretty indifferent to it. It didn’t feel humid when I was there, so I may just not have that weather association to Singapore, though. 
 

@@ -27,7 +27,7 @@ I learned that with every bite of food, there’s a story that comes with it. Ev
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 
-I’ll be releasing interviews with food establishment owners, recipes for anyone to follow, stories attached to my favorite eats, and even foodie T.V. moments. I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to enjoy food alongside me; it really is something I’m incredibly grateful to have every day.
+I’ll be releasing interviews with food establishment owners, recipes for anyone to follow, stories attached to my favorite eats, and even foodie T.V. moments. My writing is super informal, but I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to enjoy food alongside me; it really is something I’m incredibly grateful to have every day.
 
 My **[beyond page](/beyond.html){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or shakshuka in Israel.
 
