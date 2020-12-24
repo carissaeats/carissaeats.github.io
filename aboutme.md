@@ -6,15 +6,15 @@ Hey! My name is Carissa Liu, a 17 year-old Jersey girl, and welcome to my food, 
 
 <div class="flex-container">
   <div class="flex-item-3">
-      <img src="/assets/images/famphotos/spaceneedlefb.jpg" height="250px" width="200px" class="image">
-      <div class="flexoverlay">@ Facebook Seattle</div>
+      <img src="/assets/images/stories/irvins/irvins4cropped.jpg" height="250px" class="image">
+      <div class="flexoverlay"><a href="/stories/irvins-bopomofo" class="nounderline">IRVINS x BOPOMOFO!</a></div>
   </div>
   <div class="flex-item-3">
-      <img src="/assets/images/famphotos/miramar.JPG" height="250px" width="200px" class="image">
+      <img src="/assets/images/famphotos/miramar.JPG" height="250px" class="image">
       <div class="flexoverlay">That's my sister, Antonia!</div>
   </div>
   <div class="flex-item-3">
-      <img src="/assets/images/famphotos/waterfront.JPG" height="250px" width="200px" class="image">
+      <img src="/assets/images/famphotos/waterfront.JPG" height="250px" class="image">
       <div class="flexoverlay">~ Seattle Waterfront ~</div>
   </div>
 </div>

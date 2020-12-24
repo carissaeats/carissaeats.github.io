@@ -48,7 +48,7 @@
       <a href="/aboutme.html">ABOUT&nbspME</a>
     </div>
     <h1>{{ page.title | escape }}</h1>
-    <div class="home">
+    <div class="blogposts_aboutme">
       <h6>
         Pictures are all pre-pandemic or from take-out my dad picked up. We've been staying at home since March, with contact being limited to my dad picking up groceries or take-out.
       </h6>
@@ -57,39 +57,35 @@
       {% assign category = page.name | remove: ".md" %}
     
       {%- if site.posts.size > 0 -%}
-        <div style="text-align:left">
-            {%- for post in site.categories[category] -%}
-              {% assign content = post.content | strip_newlines %}
-              {% if content != ""  %}
-                <div class="blogposts_aboutme">
-                  <h4 style="display:inline;">
-                    <a class="nounderline" href="{{ post.url | relative_url }}">                     
-                      {{ post.title | escape }}
-                    </a>
-                  </h4>
-                  <p>
-                    <div class="flex-container">
-                      <div class="flex-item">
-                        <a href="{{ post.url | relative_url }}">
-                          <img src="{{ post.image }}" class="image">
-                        </a>
-                      </div>
-                      <div class="flex-item">
-                        {%- assign overlay = post.overlay -%}
-                        {%- assign overlay2 = post.overlay2 -%}
-                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                        <div class="excerpt">
-                          <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
-                          {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
-                        </div>
-                      </div>
-                    </div>
-                  </p>
+        {%- for post in site.categories[category] -%}
+          {% assign content = post.content | strip_newlines %}
+          {% if content != ""  %}
+            <h4 style="display:inline;">
+              <a class="nounderline" href="{{ post.url | relative_url }}">                     
+                {{ post.title | escape }}
+              </a>
+            </h4>
+            <p>
+              <div class="flex-container">
+                <div class="flex-item">
+                  <a href="{{ post.url | relative_url }}">
+                    <img src="{{ post.image }}" class="image">
+                  </a>
                 </div>
-                <br>
-              {%- endif -%}
-            {%- endfor -%}
-        </div>
+                <div class="flex-item">
+                  {%- assign overlay = post.overlay -%}
+                  {%- assign overlay2 = post.overlay2 -%}
+                  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                  <div class="excerpt">
+                    <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
+                    {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+                  </div>
+                </div>
+              </div>
+            </p>
+            <br>
+          {%- endif -%}
+        {%- endfor -%}
       {%- endif -%}
     </div>
     <footer>
