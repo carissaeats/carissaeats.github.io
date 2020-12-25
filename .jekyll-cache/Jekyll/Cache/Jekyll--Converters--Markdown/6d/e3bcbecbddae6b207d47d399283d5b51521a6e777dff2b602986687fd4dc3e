@@ -1,63 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <meta itemprop="description" name="description" content="Join me on my first time making croissants from scratch with Antonia! We have some croissant portraits and close-ups of the lamination process." />
-    
-      <title>The Croissant Chronicles | Recipes | @CarissaEats</title>
-    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
-  </head>
-  <body>
-    <a href="http://localhost:4000"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
-    <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a href="http://localhost:4000">HOME</a>
-      <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
-        </div>
-      </div>
-      <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
-          <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
-        </div>
-      </div>
-      <div class="more">
-        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-        <a href="/nyceats.html">NYC&nbspEATS</a>
-        <a href="/beyond.html">BEYOND...</a>
-        <a href="/recipes.html">RECIPES!</a>
-        <a href="/stories.html">STORIES</a>  
-      </div>
-      <a href="/aboutme.html">ABOUT&nbspME</a>
-    </div>
-    <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    
-      
-        <div class="directory">
-          <a href="http://localhost:4000" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">The Croissant Chronicles</span>
-        </div>
-      <p>
-      <div class="blogposts_aboutme">
-          <h3 style="display:inline;">The Croissant Chronicles&nbsp;</h3>
-          <span class="post-meta">Dec 23, 2020</span><p><div class="flex-container">
+I"K"<div class="flex-container">
   <div class="flex-item">
     <img src="/assets/images/recipes/croissant/croissantportrait1.jpg" height="250px" class="image" />
   </div>
@@ -90,7 +31,7 @@
   <li>⅛ cup packed brown sugar</li>
   <li>1½ tsp active dry yeast</li>
   <li>3½ cups all-purpose flour <em>(may need as little as 3¼ or as much as 4 cups)</em></li>
-  <li>¾ cup salted butter, <em>if using unsalted butter, add ½ tbsp salt</em></li>
+  <li>¾ cup salted butter <em>if using unsalted butter, add ½ tbsp salt</em></li>
   <li>½ egg for egg wash</li>
 </ul>
 
@@ -141,51 +82,15 @@
     <img src="/assets/images/recipes/croissant/croissantfood/buttersheet.jpg" height="250px" class="image" />
   </div>
   <div class="flex-item">
-    <img src="/assets/images/recipes/croissant/croissantfood/readytobakecroissant.jpg" height="250px" class="image" />
+    <img src="/assets/images/recipes/croissant/croissantfood/croissant2.jpg" height="250px" class="image" />
   </div>
 </div>
 
-<p>Yes, this is a loooonnnnngggggg process, but I can confidently say the end result is worth it. My sister made them without me one additional time after the filming of this video, and I enjoyed them so much. They are FAR from perfect, but are still an unbelievably good treat. <em>Warning</em>: they ARE buttery, but equally flaky. Now, start the recipe and devour these little pockets of goodness!</p>
+<p>Yes, this is a loooonnnnngggggg process, but I can confidently say the end result is worth it. My sister made them without me one additional time after the filming of this video, and I enjoyed them so much. <em>Warning</em>: they ARE buttery, but equally flaky. Now, start the recipe and devour these little pockets of goodness!</p>
 
 <h2 id="final-results">FINAL RESULTS!🤩</h2>
 
 <div class="singleimagecontainer">
   <img src="/assets/images/recipes/croissant/croissantfood/croissant2.jpg" height="250px" class="image" />
 </div>
-
-<h6 id="they-look-like-they-have-such-a-solid-bottom-because-we-over-egg-washed---no-worries-if-this-happens-to-you-as-theyre-still-awesome">They look like they have such a solid bottom, because we over egg-washed - no worries if this happens to you, as they’re still awesome.</h6>
-</p>
-        <p>See you soon,</p>
-        <p>Carissa 😊</p>
-        <h6>If you have any questions, comments, or recommendations, please message <a href="https://www.instagram.com/carissaeats/" 
-          class="nounderline" target=“_blank”>@CarissaEats</a> on Instagram or email <a href="mailto:carissaeats@yahoo.com" 
-          class="nounderline" target=“_blank”>carissaeats@yahoo.com</a>!
-        </h6>
-        <div class="post-nav">
-          <div>
-            
-            <a href="/stories/irvins-bopomofo" class="nounderline">
-              IRVINS x BOPOMOFO
-              <div class="bottomnav">
-                &nbsp;&larr;
-                Dec 9, 2020&nbsp;
-                <div>
-                  
-                    Stories</div>
-              </div>
-            </a>
-            
-          </div>
-          <div class="post-nav-next">
-            
-          </div>
-        </div>
-      </div>
-    </p>
-    <footer>
-        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
-    </footer>
-    <script type="text/javascript" src="/assets/js/script.js"></script>
-  </body>
-</html>
+:ET
