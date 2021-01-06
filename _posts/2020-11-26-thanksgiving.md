@@ -9,18 +9,20 @@ image: /assets/images/stories/thanksgiving/pumpkinpie.jpg
   <img src="{{ page.image }}" height="250px" class="image">
 </div>
 
-Happy Thanksgiving y’all! I wanted to say what I'm thankful for, recap how I celebrated for the past few years (and what I'm doing today), and share some Thanksgiving recipes from my favorite food bloggers.
+Happy Turkey Day y’all! I wanted to say what I'm thankful for, recap how I celebrated for the past few years (and what I'm doing today), and share some Thanksgiving recipes from my favorite food bloggers.
 
 So what does Thanksgiving mean to me?
 
-In elementary and part of middle school, the Chinese community in my town would frequently have get-togethers (we used to hang out a lot!), and I would always look forward to the main event of the year: Thanksgiving dinner! Most, if not all of us (my town's Chinese community), don't have any extended family in the states, so our communal heritage brought us even closer as friends. As the years passed, though, we've lowered it on our priorities list. Quarantine makes me feel even more nostalgic about those times, but I remain hopeful about seeing them in the future. 
+###### I want to preface this by saying this post is about what I'm grateful for, and what I've done on Thanksgiving Day for the past few years. You can practice gratitude, while still acknowledging Thanksgiving's problematic history -- in what the day represents to Indigenous people -- and there are so many resources out there to educate yourself and stop perpetuating the myths we grew up learning.
+
+In elementary and part of middle school, the Chinese community in my town would frequently have get-togethers (we used to hang out a lot!), and I would always look forward to the main event of the year: Thanksgiving dinner. Most, if not all of us (my town's Chinese community), don't have any extended family in the states, so our communal heritage brought us even closer as friends. As the years passed, though, we've lowered it on our priorities list. Quarantine makes me feel even more nostalgic about those times, but I remain hopeful about seeing them in the future. 
 
 But anyway...in the past few years, I've felt the magic of this four-day weekend fizzle out, but I still feel an immense appreciation for this quick getaway from the hecticness of school. I also spend this time to share my gratitude for people who've made a remarkable impact in my life in the past 11 months.
 
 For 2020, I have a lot to be grateful for. Yes, it’s been a rough year; I’ve had to be on lockdown completely for the past eight months and be *almost excessively* cautious, because I live with my grandma. It has definitely taken a toll on me, but I’ve had time to reflect on myself about many aspects of my life. This isn’t my journal, so I don’t want to delve in too deep, but I still want to share a a short list of the many things I’ve been especially thankful for this year...here it is:
 
 1. I’ve gotten to cultivate a relationship with my dad that wouldn’t have had the time to be nurtured in other circumstances (and that is *not* to take away from how this pandemic has impacted millions; COVID-19 to have never happened would be ideal). Have we had our *very fair* share of quarrels and times we’ve needed to spend apart? Absolutely. But I learned to empathize with him like I had never before, and that’s just one thing to be thankful for.
-1. Simply being able to stay at home. My dad’s been working from home for at least 15 years now, so our family situation was minimally affected.
+1. Simply having the privilege to stay at home. My dad’s been working from home for at least 15 years now, so our family situation was minimally affected. Please wear a mask *if* you choose to see anyone outside the people you live with -- do it for the people who do not have the privilege to stay at home (essential and frontline workers). 
 1. This. blog. I have no idea what 2020 would be without this. Even if no one is reading this, I am incredibly lucky to use this platform as a way to share my stories behind food and the businesses I want to share. I’m not too caught up with the size of my audience, because I do this for myself and my passion for culinary adventures. Building this blog from scratch is my ultimate passion project: there’s always something to be done, whether it’s the inner framework, the CSS design, the stories. And I cherish every moment with it. 
 
 <div class="singleimagecontainer">

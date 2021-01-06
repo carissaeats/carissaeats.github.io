@@ -5,13 +5,13 @@ title: HOME
 <div class="flex-container" id="home">
   <div class="flex-item-3">
         <a href="/jerseyeats.html" class="nounderline">
-            <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image">
+            <img src="/assets/images/jerseyeats/miso/misoteriyaki1.jpg" height="250px" class="image">
             <div class="flexoverlay">JERSEY EATS</div>
         </a>
   </div>
   <div class="flex-item-3">
         <a href="/nyceats.html" class="nounderline">
-            <img src="/assets/images/nyceats/burger/fivenap.JPG" height="250px" class="image">
+            <img src="/assets/images/stories/favoritefoods/supermoon.jpg" height="250px" class="image">
             <div class="flexoverlay">NYC EATS</div>
         </a>
   </div>
@@ -29,14 +29,14 @@ title: HOME
   </div>
   <div class="flex-item-3">
         <a href="/stories.html" class="nounderline">
-            <img src="/assets/images/stories/favoritefoods/supermoon.jpg" height="250px" class="image">
+            <img src="/assets/images/stories/irvins/irvins4cropped.jpg" height="250px" class="image">
             <div class="flexoverlay">STORIES</div>
         </a>
   </div>
   <div class="flex-item-3">
         <a href="/aboutme.html" class="nounderline">
-            <img src="/assets/images/stories/irvins/irvins4cropped.jpg" height="250px" class="image" id="crop">
+            <img src="/assets/images/famphotos/spaceneedle1.jpg" height="250px" class="image">
             <div class="flexoverlay">ABOUT ME</div>
-        </a>  
-  </div>  
+        </a>
+  </div>
 </div>
