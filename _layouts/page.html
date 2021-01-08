@@ -61,11 +61,11 @@
         {%- for post in site.categories[category] -%}
           {% assign content = post.content | strip_newlines %}
           {% if content != ""  %}
-            <h4 style="display:inline;">
+            <h2 style="display:inline;">
               <a class="nounderline" href="{{ post.url | relative_url }}">                     
                 {{ post.title | escape }}
               </a>
-            </h4>
+            </h2>
             <p>
               <div class="flex-container">
                 <div class="flex-item">
