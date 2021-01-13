@@ -23,7 +23,7 @@ title: HOME
   </div>
   <div class="flex-item-3">
         <a href="/recipes.html" class="nounderline">
-            <img src="/assets/images/recipes/croissant/croissantfood/croissant1.jpg" height="250px" class="image">
+            <img src="/assets/images/recipes/puffpastry/blueberrypuff.jpg" height="250px" class="image">
             <div class="flexoverlay">RECIPES!</div>
         </a>
   </div>
