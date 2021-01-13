@@ -1,63 +1,4 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0;">
-    <meta itemprop="description" name="description" content="Eating my way through Guangzhou, Hong Kong, Singapore, Taipei, and Macau, and remembering some memories from my longest, but incredible getaway in 2018." />
-    
-      <title>Summer in Asia | Beyond... | @CarissaEats</title>
-    <link rel="stylesheet" href="/assets/cssfiles/responsive.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.typekit.net/utr5oup.css">
-  </head>
-  <body>
-    <a href="http://localhost:4000"><img src="/assets/images/logo.JPG" height="200px" class="logo"></a>
-    <div class="topnav" id="myTopnav">
-      <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
-      <a href="http://localhost:4000">HOME</a>
-      <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
-        </div>
-      </div>
-      <div style="display:inline" class="dropdown">
-        <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
-        </button>
-        <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
-          <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
-        </div>
-      </div>
-      <div class="more">
-        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-        <a href="/nyceats.html">NYC&nbspEATS</a>
-        <a href="/beyond.html">BEYOND...</a>
-        <a href="/recipes.html">RECIPES!</a>
-        <a href="/stories.html">STORIES</a>  
-      </div>
-      <a href="/aboutme.html">ABOUT&nbspME</a>
-    </div>
-    <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    
-      
-        <div class="directory">
-          <a href="http://localhost:4000" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">Summer in Asia</span>
-        </div>
-      <p>
-      <div class="blogposts_aboutme">
-          <h3 style="display:inline;">Summer in Asia&nbsp;</h3><span class="post-meta">Jan 6, 2021</span>
-        <p><div class="flex-container">
+I"tY<div class="flex-container">
     <div class="flex-item">
         <img src="/assets/images/beyond/china/heycha1.JPG" height="250px" class="image" />
         <div class="flexoverlay">
@@ -309,7 +250,7 @@
   <li><strong>Gardens by the Bay</strong>: One of the most famous Singaporean attractions, you can find beautiful flora and incredible architecture in any of the sub-exhibitions. I visited the Cloud Forest (where this photo was taken) and the Flower Dome. They also have a musical light show at night to check out - it's <em>free</em>, and you just lie down on a  blanket and look up!</li>
   <li><strong>Mount Faber Peak</strong>: take the Singapore Cable Car up to Faber Peak. There's a giant Bell of Happiness, but also a fence to tie your personalized mini bell.</li>
   <li>Antonia in front of the <strong>Marina Bay Sands</strong>, arguably one of the most famous hotels in the world. </li>
-  <li>This <strong>Merlion</strong> is the national symbol of Singapore, but also a bit of an inside joke in my family. When my dad decided put Singapore as one of our destinations, he also was adamant about us seeing the giant Merlion. But this one...is ~only~ 8.6 meters tall. Not that it's not huge, but my dad kept saying that the Merlion he visited thirty years ago was far, far taller AND that the giant one was the original Merlion. So we kept looking up "giant Merlion" on Google, but we couldn't find it! Eventually, we discovered it was on Sentosa Island, which is certainly still in Singapore, just not as centrally located. Luckily, Singapore is quite small, so we made the trip to see the lovely Sentosa Merlion, which BTW, is a replica. This one is THIRTY SEVEN meters tall! You can ride an elevator up this giant replica, but we decided it wasn't worth the price. As I was writing this, I unfortunately found out it was permanently closed and demolished just over a year ago 😞 But I'm fortunate to have seen it before Singapore had to say goodbye.</li>
+  <li>This <strong>Merlion</strong> is the national symbol of Singapore, but also a bit of an inside joke in my family. When my dad decided put Singapore as one of our destinations, he also was adamant about us seeing the giant Merlion. But this one...is ~only~ 8.6 meters tall. Not that it's not huge, but my dad kept saying that the Merlion he visited thirty years ago was far, far taller AND that the giant one was the original Merlion. So we kept looking up "giant Merlion" on Google, but we couldn't find it! Eventually, we discovered it was on Sentosa Island, which is certainly still in Singapore, just not as centrally located. Luckily, Singapore is quite small, so we made the trip to see the lovely Sentosa Merlion, which BTW, is a replica. This one is THIRTY SEVEN meters tall! You can ride an elevator up this giant replica, but we decided it wasn't worth the price. As I was writing this, I unfortunately found out it was permanently closed and demolished just over a year ago 😞 But I am grateful I got to see it before Singapore had to say goodbye.</li>
   </ol>
   
   <p>Without further ado, this is the giant Merlion...</p>
@@ -321,57 +262,10 @@
 
 <p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p>
 
-<p>I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I’ve been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️</p>
+<p>I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I’ve been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for the an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️</p>
 
 <div class="singleimagecontainer">
   <img src="/assets/images/beyond/hongkong/hkviews.jpg" height="250px" class="image" />
   <div class="singleimageoverlay">HK Harbor</div>
 </div>
-</p>
-        <p>See you soon,</p>
-        <p>Carissa 😊</p>
-        <h6>If you have any questions, comments, or recommendations, please message <a href="https://www.instagram.com/carissaeats/" 
-          class="nounderline" target=“_blank”>@CarissaEats</a> on Instagram or email <a href="mailto:carissaeats@yahoo.com" 
-          class="nounderline" target=“_blank”>carissaeats@yahoo.com</a>!
-        </h6>
-        <div class="post-nav">
-          <div>
-            
-            <a href="/recipes/croissantchronicles" class="nounderline">
-              The Croissant Chronicles
-              <div class="bottomnav">
-                &nbsp;&larr;
-                Dec 23, 2020&nbsp;
-                <div>
-                  
-                    Recipes
-                  </div>
-              </div>
-            </a>
-            
-          </div>
-          <div class="post-nav-next">
-            
-            <a href="/recipes/grandmabao" class="nounderline">
-              Grandma's Baozi
-              <div class="bottomnav">
-                Jan 6, 2021&nbsp;&rarr;
-                <div>
-                  
-                    Recipes
-                  </div>
-              </div>
-            </a>
-            
-          </div>
-        </div>
-      </div>
-    </p>
-    <footer>
-        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
-    </footer>
-    
-      <script type="text/javascript" src="/assets/js/asiascript.js"></script><script type="text/javascript" src="/assets/js/script.js"></script>
-  </body>
-</html>
+:ET
