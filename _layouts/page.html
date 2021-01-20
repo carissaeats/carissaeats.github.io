@@ -61,37 +61,35 @@
       {%- if site.posts.size > 0 -%}
         {%- for post in site.categories[category] -%}
           {% assign content = post.content | strip_newlines %}
-          {% if content != ""  %}
-            <h2 style="display:inline;">
-              <a class="nounderline" href="{{ post.url | relative_url }}">                     
-                {{ post.title | escape }}
-              </a>
-            </h2>
-            <p>
-              <div class="flex-container">
-                <div class="flex-item">
-                  <a href="{{ post.url | relative_url }}">
-                    <img src="{{ post.image }}" class="image">
-                  </a>
-                </div>
-                <div class="flex-item">
-                  {%- assign overlay = post.overlay -%}
-                  {%- assign overlay2 = post.overlay2 -%}
-                  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                  <div class="excerpt">
-                    <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
-                    {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
-                  </div>
+          <h2 style="display:inline;">
+            <a class="nounderline" href="{{ post.url | relative_url }}">                     
+              {{ post.title | escape }}
+            </a>
+          </h2>
+          <p>
+            <div class="flex-container">
+              <div class="flex-item">
+                <a href="{{ post.url | relative_url }}">
+                  <img src="{{ post.image }}" class="image">
+                </a>
+              </div>
+              <div class="flex-item">
+                {%- assign overlay = post.overlay -%}
+                {%- assign overlay2 = post.overlay2 -%}
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <div class="excerpt">
+                  <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
+                  {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
                 </div>
               </div>
-            </p>
-            <br>
-          {%- endif -%}
+            </div>
+          </p>
+          <br>
         {%- endfor -%}
       {%- endif -%}
     </div>
     <footer>
-        &copy; 2020 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
+        &copy; 2021 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
         <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
     </footer>
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/script.js"></script>

@@ -5,7 +5,7 @@ title: HOME
 <div class="flex-container" id="home">
   <div class="flex-item-3">
         <a href="/jerseyeats.html" class="nounderline">
-            <img src="/assets/images/jerseyeats/miso/misoteriyaki1.jpg" height="250px" class="image">
+            <img src="/assets/images/jerseyeats/menyasandaime/menya2.jpg" height="250px" class="image"> 
             <div class="flexoverlay">JERSEY EATS</div>
         </a>
   </div>
