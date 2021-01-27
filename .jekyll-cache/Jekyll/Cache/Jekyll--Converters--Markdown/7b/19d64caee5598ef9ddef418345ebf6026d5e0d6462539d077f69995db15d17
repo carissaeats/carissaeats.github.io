@@ -1,4 +1,4 @@
-I"pY<div class="flex-container">
+I"{Y<div class="flex-container">
     <div class="flex-item">
         <img src="/assets/images/beyond/china/heycha1.JPG" height="250px" class="image" />
         <div class="flexoverlay">
@@ -111,7 +111,7 @@
 
   <p>The top two photos are from <a href="https://pasarbella.com/" target="_blank" class="nounderline">PasarBella at Suntec City</a>, an NYC-inspired food hall. I know some people are shaking their heads in disappointment for not eating traditionally Singaporean food, but I remember eating here more out of convenience than anything. Nonetheless, the food was delicious, and there's not really much else to say.</p>
   <p>This satay is from <strong>Newton Food Centre</strong> -- fun fact, it's where Crazy Rich Asians filmed that intro scene of Nick, Rachel, Colin, and Araminta eat at a hawker centre! We also ate chili crab (one of the national Singaporean dishes), accompanied by mantou (steamed or fried buns - no stuffing), as well as roti prata and quite a few more dishes from various stalls. Next to it is the Sichuan <em>Suan Ni Bai Rou</em> pork belly. I know this isn't quite Singaporean, but we did eat it in Singapore, so that's why it's under the Singapore "category". It's a very famous Sichuan dish, and it consists of <em>ultra-thin</em> pork belly doused in chili-garlic sauce. This is one of Antonia's favorite dishes, but be warned - describing the sauce as <em>just</em> garlic is being modest. This dish is g a r l i c k y.</p>
-  <h2 id="boba-sweets">Boba + Sweets</h2>
+  <h24 id="boba-sweets">Boba + Sweets&lt;/h2&gt;
   <h5 id="guangzhou">Guangzhou</h5>
   <div class="flex-container">
     <div class="flex-item">
@@ -163,9 +163,9 @@
 
   <p>That famous <em>gai dan jai</em> from <strong>Lee Keung Kee North Point Egg Waffles</strong>. My maternal extended family resides in Hong Kong, so they were excited for me to have my first Hong Kong egg waffle IN Hong Kong! I'm a huuuuuge egg waffle fan, and when I talk to my grandma about how much I love these waffles, we just laugh about the name every time. The name literally means little chicken egg, and we just think the name is so fitting for this dessert. </p>
 
-</div>
+&lt;/div&gt;
 
-<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p>
+<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p> 
 
 <h2>Activities</h2>
 <div id="activities">
@@ -260,12 +260,13 @@
   </div>
 </div>
 
-<p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p>
+<button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button>
 
-<p>I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I’ve been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️</p>
+I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I've been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️
 
 <div class="singleimagecontainer">
   <img src="/assets/images/beyond/hongkong/hkviews.jpg" height="250px" class="image" />
   <div class="singleimageoverlay">HK Harbor</div>
 </div>
+</h24></div>
 :ET
