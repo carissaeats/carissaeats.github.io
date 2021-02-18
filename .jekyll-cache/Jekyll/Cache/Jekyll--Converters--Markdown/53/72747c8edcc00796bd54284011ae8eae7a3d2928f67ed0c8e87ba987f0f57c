@@ -1,4 +1,4 @@
-I"pY<div class="flex-container">
+I"kY<div class="flex-container">
     <div class="flex-item">
         <img src="/assets/images/beyond/china/heycha1.JPG" height="250px" class="image" />
         <div class="flexoverlay">
@@ -18,7 +18,7 @@
 <p>This post will include mostly photos, but I’ll write about any foods that may need more of a description, connections to other cultures, or have a story I want to share. While I don’t have the exact restaurant names, keep these dishes on your list for the future!</p>
 
 <h2>Dishes</h2>
-<div id="dishes">
+<div id="foods">
   <h5 id="guangzhou">Guangzhou</h5>
   <p>Some people say Cantonese food is the most boring of the <a href="https://hakkasan.com/stories/eight-culinary-traditions-china/" target="_blank" class="nounderline">Eight Chinese Cuisines</a>, as it doesn’t pack the kick of Sichuan or Hunan cuisine, but the simplicity of the dishes is the most impressive part. You might be used to seeing Cantonese cuisine through <em>dim sum</em> (to touch the heart) or <em>yum cha</em> (to drink tea), which is typically drinking tea with smaller plates. Some popular dishes you might know of are rice rolls drowning in sweet soy sauce (a personal favorite of mine) and char siu (叉烧) bao (baked or steamed roast pork buns). </p>
 
@@ -168,7 +168,7 @@
 <p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p>
 
 <h2>Activities</h2>
-<div id="activities">
+<div id="places">
   <h5 id="guangzhou">Guangzhou</h5>
   <div class="flex-container">
     <div class="flex-item">

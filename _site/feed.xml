@@ -1,12 +1,161 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-03T17:23:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Pita Platter 🥙</title><link href="http://localhost:4000/recipes/pitaplatter" rel="alternate" type="text/html" title="Pita Platter 🥙" /><published>2021-02-03T00:00:00-05:00</published><updated>2021-02-03T00:00:00-05:00</updated><id>http://localhost:4000/recipes/pitaplatter</id><content type="html" xml:base="http://localhost:4000/recipes/pitaplatter">&lt;div class=&quot;singleimagecontainer&quot;&gt;
-    &lt;img src=&quot;/assets/images/recipes/platter/platter3.jpg&quot; height=&quot;250px&quot; class=&quot;image&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-17T21:03:15-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Who Wants A Pita Me? 🥙</title><link href="http://localhost:4000/recipes/pitaplatter" rel="alternate" type="text/html" title="Who Wants A Pita Me? 🥙" /><published>2021-02-17T00:00:00-05:00</published><updated>2021-02-17T00:00:00-05:00</updated><id>http://localhost:4000/recipes/pitaplatter</id><content type="html" xml:base="http://localhost:4000/recipes/pitaplatter">&lt;div class=&quot;singleimagecontainer&quot;&gt;
+  &lt;img src=&quot;/assets/images/recipes/platter/platter3.jpg&quot; height=&quot;250px&quot; class=&quot;image&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;Humm&lt;/em&gt;-us where the heart is.&lt;/p&gt;
 
 &lt;p&gt;I get a little carried away with the puns during recipe posts, so bear with me.&lt;/p&gt;
 
-&lt;p&gt;My family had some pantry stuff we wanted to consume right away, so I came up with the idea to make a three-ish piece platter, with homemade pita, eggs in purgatory (kinda), and avocado hummus! The recipes for all three components will be posted within the next week! You won’t wanna miss my (almost) vegan platter.&lt;/p&gt;</content><author><name></name></author><category term="recipes" /><summary type="html">Humm-us where the heart is. I get a little carried away with the puns during recipe posts, so bear with me. My family had some pantry stuff we wanted to consume right away, so I came up with the idea to make a three-ish piece platter, with homemade pita, eggs in purgatory (kinda), and avocado hummus! The recipes for all three components will be posted within the next week! You won’t wanna miss my (almost) vegan platter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/recipes/platter/platter3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/recipes/platter/platter3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer in Asia</title><link href="http://localhost:4000/beyond/asia" rel="alternate" type="text/html" title="Summer in Asia" /><published>2021-01-20T00:00:00-05:00</published><updated>2021-01-20T00:00:00-05:00</updated><id>http://localhost:4000/beyond/asia</id><content type="html" xml:base="http://localhost:4000/beyond/asia">&lt;div class=&quot;flex-container&quot;&gt;
+&lt;p&gt;My family had some pantry stuff we wanted to consume right away, so I came up with the idea to make a three-ish piece platter, with homemade pita, eggs in purgatory (kinda), and avocado hummus!&lt;/p&gt;
+
+&lt;p&gt;These recipes are by no-means authentic – however, they are inspired by the meals I had in Tel Aviv, where the food is very veggie-centric and extraordinarily fresh. Here’s a photo:&lt;/p&gt;
+
+&lt;div class=&quot;flex-container&quot;&gt;
+  &lt;div class=&quot;flex-item&quot;&gt;
+    &lt;img src=&quot;/assets/images/beyond/israel/shakshuka.JPG&quot; height=&quot;150px&quot; class=&quot;image&quot; /&gt;
+    &lt;div class=&quot;flexoverlay&quot;&gt;Shakshuka from Bino TLV&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;flex-item&quot;&gt;
+    &lt;img src=&quot;/assets/images/beyond/israel/bino.jpg&quot; height=&quot;150px&quot; class=&quot;image&quot; /&gt;
+    &lt;div class=&quot;flexoverlay&quot;&gt;Assortment of Sides*&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h6 id=&quot;-i-dont-know-the-exact-names-of-all-but-theres-couscous-cabbage-slaw-and-tomato-red-onion-salad&quot;&gt;* I don’t know the exact names of all, but there’s couscous, cabbage slaw, and tomato-red onion salad.&lt;/h6&gt;
+
+&lt;p&gt;Okay, so maybe I didn’t hit the mark exactly, but I tried. The first recipe will be &lt;strong&gt;eggs in purgatory&lt;/strong&gt;, akin to the North African &lt;em&gt;shakshuka&lt;/em&gt;. Eggs in purgatory is called Uova in Purgatorio, but &lt;a href=&quot;https://www.savoringitaly.com/eggs-in-purgatory-uova-in-purgatorio/&quot; class=&quot;nounderline&quot; target=&quot;_blank&quot;&gt;the name may vary depending on the region of Italy&lt;/a&gt;. The eggs are “souls” seeking purification in the red-hot tomato sauce of purgatory. I struggled to find a formal history on this dish on the internet. I was able to find a bit about shakshuka, although I couldn’t find any sources by a chef of Tunisian (Tunisia is said to be &lt;a href=&quot;https://www.themediterraneandish.com/shakshuka-recipe/&quot; class=&quot;nounderline&quot; target=&quot;_blank&quot;&gt;its place of origin&lt;/a&gt;) descent, so I didn’t want to include anything from an “untrustworthy” source. But a little tidbit I can include is that shakshuka is supposedly “&lt;a href=&quot;https://momentmag.com/talk-of-the-table-shakshuka/&quot; class=&quot;nounderline&quot; target=&quot;_blank&quot;&gt;an onomatopoeia for ‘all mixed up’&lt;/a&gt;”.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s eat!&lt;/p&gt;
+
+&lt;h4 id=&quot;eggs-in-purgatory&quot;&gt;Eggs in Purgatory:&lt;/h4&gt;
+
+&lt;div id=&quot;recipe1&quot;&gt;
+  &lt;p&gt;*Adapted from &lt;a href=&quot;https://addapinch.com/eggs-purgatory-recipe/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Add A Pinch&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;2 tomatoes (I used one large and one medium)&lt;/li&gt;
+    &lt;li&gt;2 tsp garlic oil (olive oil works great too!)&lt;/li&gt;
+    &lt;li&gt;¼ cup tomato/marinara sauce&lt;/li&gt;
+    &lt;li&gt;4-5 eggs (depending on what you want the egg-to-sauce ratio to be)&lt;/li&gt;
+    &lt;li&gt;salt + pepper to taste&lt;/li&gt;
+    &lt;li&gt;red pepper flakes&lt;/li&gt;
+    &lt;li&gt;¼ red or white onion (optional, if your tomato sauce doesn’t have a lot of onions)&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;Dice your tomatoes into ½ to ¾ inch thick pieces. &lt;/li&gt;
+    &lt;li&gt;Pour the oil and place your diced tomatoes and onions (if you want) into the pan.&lt;/li&gt;
+    &lt;li&gt;Cook your tomatoes over medium-low heat for about 20 minutes, stirring occasionally. &lt;/li&gt;
+    &lt;li&gt;Your tomatoes should release quite a bit of water. Fear not -- your tomato sauce probably has tomato paste, which will help thicken your base quite a bit. &lt;/li&gt;
+    &lt;li&gt;Add your tomato sauce to the “stewed” tomatoes. Continue cooking over medium-low heat for 4 minutes. &lt;/li&gt;
+    &lt;li&gt;Season with salt and pepper generously. &lt;/li&gt;
+    &lt;li&gt;Use a spatula or spoon to create little “wells” where the eggs can sit in.&lt;/li&gt;
+    &lt;li&gt;Crack the eggs into the well and cover the skillet. Cook the eggs for about 3-4 minutes, or until the egg whites are completely set. Once the egg yolks are cooked to your desired doneness, pull the skillet off the heat. &lt;/li&gt;
+    &lt;li&gt;The egg yolks will continue to cook as it’s off the heat, so pull it off a little bit before you want them to be done.&lt;/li&gt;
+    &lt;li&gt;Cover the skillet and cook until the whites of the eggs are set and the egg yolks are cooked to the desired level of doneness. &lt;/li&gt;
+    &lt;li&gt;Finish off with as many red pepper flakes as you’re comfortable with.&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;div class=&quot;singleimagecontainer&quot;&gt;
+    &lt;img src=&quot;/assets/images/recipes/platter/platter1.jpg&quot; height=&quot;150px&quot; class=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button id=&quot;showrecipe1&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe1()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;homemade-pita&quot;&gt;Homemade Pita:&lt;/h4&gt;
+&lt;div id=&quot;recipe2&quot;&gt;
+  &lt;p&gt;*Adapted from &lt;a href=&quot;https://www.themediterraneandish.com/homemade-pita-bread-recipe/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;The Mediterranean Dish&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;½ cup water&lt;/li&gt;
+    &lt;li&gt;1 tsp active dry yeast&lt;/li&gt;
+    &lt;li&gt;½ tsp sugar&lt;/li&gt;
+    &lt;li&gt;1 ½ cup all-purpose flour&lt;/li&gt;
+    &lt;li&gt;1 tsp salt&lt;/li&gt;
+    &lt;li&gt;3 ½ tbsp garlic oil (olive oil works great too!)&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;The Pita Sponge&lt;/strong&gt;: Combine the yeast, sugar, ½ cup of water, and ¼ cup of flour in a large mixing bowl. Leave the mixture uncovered for 15 minutes in a warm place. It should be bubbly (but don’t worry if it’s not &lt;em&gt;too&lt;/em&gt; bubbly -- &lt;a href=&quot;/assets/images/recipes/platter/cooking/pitasponge.jpg&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;see mine&lt;/a&gt;!)&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The One-Bowl Wonder&lt;/strong&gt;: Add salt, 2 tbsp oil, and about 1 more cup of flour into the mixture. It should be quite sticky and not look like a perfect dough. Keep adding flour by the tablespoons, but keep the flour to a minimum. &lt;em&gt;However much flour it takes to get the dough to stop sticking to your hands is the perfect amount&lt;/em&gt;. Knead the dough to collect the stray bits into the dough. &lt;a href=&quot;/assets/images/recipes/platter/cooking/middough.jpg&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Here’s what the dough may look like at this point&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Keep kneading in the bowl or on a floured surface for about 5 minutes. Cover the bowl with a damp towel and let it rest for about 10 minutes. Keep kneading until the bowl is &lt;em&gt;pretty&lt;/em&gt; clean. 1. 1. Pick up the dough and add oil into the bowl. &lt;a href=&quot;/assets/images/recipes/platter/cooking/abouttorest.jpg&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Place the dough in the bowl and coat lightly in the oil&lt;/a&gt;. Cover the bowl with plastic wrap and place the bowl in a warm place for an hour (or &lt;a href=&quot;/assets/images/recipes/platter/cooking/risendough.jpg&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;until the dough doubles in size&lt;/a&gt;). &lt;/li&gt;
+    &lt;li&gt;Deflate the dough and then divide the dough into four equal pieces. Shape those four pieces into balls and let them rest for 10 minutes. Cover the dough balls with a damp towel. &lt;/li&gt;
+    &lt;li&gt;The technique I saw in several videos was taking the dough balls and tucking the dough from the top to the bottom. See &lt;a href=&quot;https://youtu.be/NPiA69p4gqE?t=170&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Food Wishes at 2:30&lt;/a&gt; for a visual!&lt;/li&gt;
+    &lt;li&gt;Flatten the pita dough balls. It should be super elastic, so you don’t even need a rolling pin (I didn’t!) -- just stretch it out in the air with your hands, like it’s a pizza. Stretch the piece until it’s ¼-½ inch thick. &lt;/li&gt;
+    &lt;li&gt;Heat a skillet with ½ tbsp of oil over medium heat. Drop a water droplet into the skillet, and once it starts to sizzle, you know it’s ready!&lt;/li&gt;
+    &lt;li&gt;Leave the flattened dough on the skillet for about 1 minute, before flipping it over to cook for another 1-2 minutes on the other side.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;How do you know when it’s ready?&lt;/strong&gt; You can just pull it off once the pita puffs up or both sides have nice toasty spots. Not all pitas will puff up, but there’s no need to worry!&lt;/li&gt;
+    &lt;li&gt;Eat it with &lt;em&gt;anything&lt;/em&gt;.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button id=&quot;showrecipe2&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe2()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;avocado-hummus&quot;&gt;Avocado Hummus:&lt;/h4&gt;
+
+&lt;div id=&quot;recipe3&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;2 medium sized avocados&lt;/li&gt;
+    &lt;li&gt;15-oz can chickpeas, drained**&lt;/li&gt;
+    &lt;li&gt;½ lemon (or ¾ tbsp vinegar)&lt;/li&gt;
+    &lt;li&gt;garlic oil &lt;strong&gt;with the garlic intact&lt;/strong&gt;: reserve 2-3 garlic cloves and 3 tbsp of oil&lt;/li&gt;
+    &lt;li&gt;salt + pepper to taste&lt;/li&gt;
+    &lt;li&gt;aquafaba, only as needed&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;** DO NOT drain the liquid down the sink! It’s aquafaba, so pour it into a bowl -- use aquafaba in &lt;a href=&quot;https://tasty.co/article/whitneyjefferson/aquafaba-the-magic-bean-liquid&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;recipes like these&lt;/a&gt;&lt;/p&gt;
+  
+  &lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;Dump all ingredients except the avocados in a food processor or blender. Blend for about 2 minutes, until all the chickpeas are completely broken down. &lt;/li&gt;
+    &lt;li&gt;Add avocados to the mixture, and blend until creamy. It should take no more than 2 minutes.&lt;/li&gt;
+    &lt;li&gt;Transfer to a bowl and serve immediately. If you do not plan on serving immediately, transfer and cover it in an airtight container. Squeezing lemon over it will preserve its green hue, but the hummus is still edible even if it darkens.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button id=&quot;showrecipe3&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe3()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;garlic-oil&quot;&gt;Garlic Oil&lt;/h4&gt;
+
+&lt;div id=&quot;recipe4&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;2-3 heads of garlic, cloves peeled.&lt;/li&gt;
+    &lt;li&gt;1 cup oil&lt;/li&gt;
+    &lt;li&gt;I used vegetable oil, but the oil doesn't necessarily need to be neutral. It's up to you if you want the garlic or the oil taste to have the greater presence. &lt;/li&gt;
+    &lt;li&gt;Oils with lower smoke points can work fine, because you cook the garlic at a low temp!&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;Cook the cloves of garlic in the oil for ~15 minutes. Stir occasionally.&lt;/li&gt;
+    &lt;li&gt;The garlic should only be &lt;em&gt;very lightly&lt;/em&gt; browned - not even golden brown. &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;button id=&quot;showrecipe4&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe4()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;I used a wooden cutting board to lay out all the components of this meal, but that is by no means necessary. I received this cutting board for “Secret Santa”, so I’m putting it to good use! I added &lt;a href=&quot;https://www.foodshouldtastegood.com/product/multigrain&quot; class=&quot;nounderline&quot; target=&quot;_blank&quot;&gt;Food Should Taste Good&lt;/a&gt; Multigrain Tortilla Chips to the platter, and those chips pair well with my avocado hummus or even our Eggs in Purgatory. My dad enjoyed the platter, which made me feel really proud of myself! As a “chef” (honestly calling myself a chef is a little insulting to chefs, but I digress), I appreciate a little validation from others. While my pita, eggs in purgatory, and hummus are nontraditional, they form a cohesive meal altogether.&lt;/p&gt;
+
+&lt;p&gt;Oh, and if you want to make it vegan, just substitute those eggs for some cooked tofu! Every other component is vegan.&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div class=&quot;singleimagecontainer&quot;&gt;
+    &lt;img src=&quot;/assets/images/recipes/platter/platter2.jpg&quot; height=&quot;250px&quot; class=&quot;image&quot; /&gt;
+  &lt;/div&gt;
+&lt;/p&gt;</content><author><name></name></author><category term="recipes" /><summary type="html">Humm-us where the heart is. I get a little carried away with the puns during recipe posts, so bear with me. My family had some pantry stuff we wanted to consume right away, so I came up with the idea to make a three-ish piece platter, with homemade pita, eggs in purgatory (kinda), and avocado hummus! These recipes are by no-means authentic – however, they are inspired by the meals I had in Tel Aviv, where the food is very veggie-centric and extraordinarily fresh. Here’s a photo: Shakshuka from Bino TLV Assortment of Sides* * I don’t know the exact names of all, but there’s couscous, cabbage slaw, and tomato-red onion salad. Okay, so maybe I didn’t hit the mark exactly, but I tried. The first recipe will be eggs in purgatory, akin to the North African shakshuka. Eggs in purgatory is called Uova in Purgatorio, but the name may vary depending on the region of Italy. The eggs are “souls” seeking purification in the red-hot tomato sauce of purgatory. I struggled to find a formal history on this dish on the internet. I was able to find a bit about shakshuka, although I couldn’t find any sources by a chef of Tunisian (Tunisia is said to be its place of origin) descent, so I didn’t want to include anything from an “untrustworthy” source. But a little tidbit I can include is that shakshuka is supposedly “an onomatopoeia for ‘all mixed up’”. Now, let’s eat! Eggs in Purgatory: *Adapted from Add A Pinch Ingredients 2 tomatoes (I used one large and one medium) 2 tsp garlic oil (olive oil works great too!) ¼ cup tomato/marinara sauce 4-5 eggs (depending on what you want the egg-to-sauce ratio to be) salt + pepper to taste red pepper flakes ¼ red or white onion (optional, if your tomato sauce doesn’t have a lot of onions) Directions Dice your tomatoes into ½ to ¾ inch thick pieces. Pour the oil and place your diced tomatoes and onions (if you want) into the pan. Cook your tomatoes over medium-low heat for about 20 minutes, stirring occasionally. Your tomatoes should release quite a bit of water. Fear not -- your tomato sauce probably has tomato paste, which will help thicken your base quite a bit. Add your tomato sauce to the “stewed” tomatoes. Continue cooking over medium-low heat for 4 minutes. Season with salt and pepper generously. Use a spatula or spoon to create little “wells” where the eggs can sit in. Crack the eggs into the well and cover the skillet. Cook the eggs for about 3-4 minutes, or until the egg whites are completely set. Once the egg yolks are cooked to your desired doneness, pull the skillet off the heat. The egg yolks will continue to cook as it’s off the heat, so pull it off a little bit before you want them to be done. Cover the skillet and cook until the whites of the eggs are set and the egg yolks are cooked to the desired level of doneness. Finish off with as many red pepper flakes as you’re comfortable with. ( + ) show me the recipe! Homemade Pita: *Adapted from The Mediterranean Dish Ingredients ½ cup water 1 tsp active dry yeast ½ tsp sugar 1 ½ cup all-purpose flour 1 tsp salt 3 ½ tbsp garlic oil (olive oil works great too!) Directions The Pita Sponge: Combine the yeast, sugar, ½ cup of water, and ¼ cup of flour in a large mixing bowl. Leave the mixture uncovered for 15 minutes in a warm place. It should be bubbly (but don’t worry if it’s not too bubbly -- see mine!) The One-Bowl Wonder: Add salt, 2 tbsp oil, and about 1 more cup of flour into the mixture. It should be quite sticky and not look like a perfect dough. Keep adding flour by the tablespoons, but keep the flour to a minimum. However much flour it takes to get the dough to stop sticking to your hands is the perfect amount. Knead the dough to collect the stray bits into the dough. Here’s what the dough may look like at this point. Keep kneading in the bowl or on a floured surface for about 5 minutes. Cover the bowl with a damp towel and let it rest for about 10 minutes. Keep kneading until the bowl is pretty clean. 1. 1. Pick up the dough and add oil into the bowl. Place the dough in the bowl and coat lightly in the oil. Cover the bowl with plastic wrap and place the bowl in a warm place for an hour (or until the dough doubles in size). Deflate the dough and then divide the dough into four equal pieces. Shape those four pieces into balls and let them rest for 10 minutes. Cover the dough balls with a damp towel. The technique I saw in several videos was taking the dough balls and tucking the dough from the top to the bottom. See Food Wishes at 2:30 for a visual! Flatten the pita dough balls. It should be super elastic, so you don’t even need a rolling pin (I didn’t!) -- just stretch it out in the air with your hands, like it’s a pizza. Stretch the piece until it’s ¼-½ inch thick. Heat a skillet with ½ tbsp of oil over medium heat. Drop a water droplet into the skillet, and once it starts to sizzle, you know it’s ready! Leave the flattened dough on the skillet for about 1 minute, before flipping it over to cook for another 1-2 minutes on the other side. How do you know when it’s ready? You can just pull it off once the pita puffs up or both sides have nice toasty spots. Not all pitas will puff up, but there’s no need to worry! Eat it with anything. ( + ) show me the recipe! Avocado Hummus: Ingredients 2 medium sized avocados 15-oz can chickpeas, drained** ½ lemon (or ¾ tbsp vinegar) garlic oil with the garlic intact: reserve 2-3 garlic cloves and 3 tbsp of oil salt + pepper to taste aquafaba, only as needed ** DO NOT drain the liquid down the sink! It’s aquafaba, so pour it into a bowl -- use aquafaba in recipes like these Directions Dump all ingredients except the avocados in a food processor or blender. Blend for about 2 minutes, until all the chickpeas are completely broken down. Add avocados to the mixture, and blend until creamy. It should take no more than 2 minutes. Transfer to a bowl and serve immediately. If you do not plan on serving immediately, transfer and cover it in an airtight container. Squeezing lemon over it will preserve its green hue, but the hummus is still edible even if it darkens. ( + ) show me the recipe! Garlic Oil Ingredients 2-3 heads of garlic, cloves peeled. 1 cup oil I used vegetable oil, but the oil doesn't necessarily need to be neutral. It's up to you if you want the garlic or the oil taste to have the greater presence. Oils with lower smoke points can work fine, because you cook the garlic at a low temp! Directions Cook the cloves of garlic in the oil for ~15 minutes. Stir occasionally. The garlic should only be very lightly browned - not even golden brown. ( + ) show me the recipe! I used a wooden cutting board to lay out all the components of this meal, but that is by no means necessary. I received this cutting board for “Secret Santa”, so I’m putting it to good use! I added Food Should Taste Good Multigrain Tortilla Chips to the platter, and those chips pair well with my avocado hummus or even our Eggs in Purgatory. My dad enjoyed the platter, which made me feel really proud of myself! As a “chef” (honestly calling myself a chef is a little insulting to chefs, but I digress), I appreciate a little validation from others. While my pita, eggs in purgatory, and hummus are nontraditional, they form a cohesive meal altogether. Oh, and if you want to make it vegan, just substitute those eggs for some cooked tofu! Every other component is vegan.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/recipes/platter/platter3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/recipes/platter/platter3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer in Asia</title><link href="http://localhost:4000/beyond/asia" rel="alternate" type="text/html" title="Summer in Asia" /><published>2021-01-20T00:00:00-05:00</published><updated>2021-01-20T00:00:00-05:00</updated><id>http://localhost:4000/beyond/asia</id><content type="html" xml:base="http://localhost:4000/beyond/asia">&lt;div class=&quot;flex-container&quot;&gt;
     &lt;div class=&quot;flex-item&quot;&gt;
         &lt;img src=&quot;/assets/images/beyond/china/heycha1.JPG&quot; height=&quot;250px&quot; class=&quot;image&quot; /&gt;
         &lt;div class=&quot;flexoverlay&quot;&gt;
@@ -26,7 +175,7 @@
 &lt;p&gt;This post will include mostly photos, but I’ll write about any foods that may need more of a description, connections to other cultures, or have a story I want to share. While I don’t have the exact restaurant names, keep these dishes on your list for the future!&lt;/p&gt;
 
 &lt;h2&gt;Dishes&lt;/h2&gt;
-&lt;div id=&quot;dishes&quot;&gt;
+&lt;div id=&quot;foods&quot;&gt;
   &lt;h5 id=&quot;guangzhou&quot;&gt;Guangzhou&lt;/h5&gt;
   &lt;p&gt;Some people say Cantonese food is the most boring of the &lt;a href=&quot;https://hakkasan.com/stories/eight-culinary-traditions-china/&quot; target=&quot;_blank&quot; class=&quot;nounderline&quot;&gt;Eight Chinese Cuisines&lt;/a&gt;, as it doesn’t pack the kick of Sichuan or Hunan cuisine, but the simplicity of the dishes is the most impressive part. You might be used to seeing Cantonese cuisine through &lt;em&gt;dim sum&lt;/em&gt; (to touch the heart) or &lt;em&gt;yum cha&lt;/em&gt; (to drink tea), which is typically drinking tea with smaller plates. Some popular dishes you might know of are rice rolls drowning in sweet soy sauce (a personal favorite of mine) and char siu (叉烧) bao (baked or steamed roast pork buns). &lt;/p&gt;
 
@@ -176,7 +325,7 @@
 &lt;p&gt;&lt;button id=&quot;showfoods&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleFoods()&quot;&gt;( + ) show me the food!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h2&gt;Activities&lt;/h2&gt;
-&lt;div id=&quot;activities&quot;&gt;
+&lt;div id=&quot;places&quot;&gt;
   &lt;h5 id=&quot;guangzhou&quot;&gt;Guangzhou&lt;/h5&gt;
   &lt;div class=&quot;flex-container&quot;&gt;
     &lt;div class=&quot;flex-item&quot;&gt;

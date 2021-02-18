@@ -5,6 +5,7 @@ categories: beyond
 description: Exploring Los Angeles one bite at a time with @CarissaEats! Okonomiyaki, Buzzfeed Worth It! Steak, Boba are a few of my favorites from this trip. 
 image: /assets/images/beyond/losangeles/laviews.JPG
 overlay: ~ Long Beach Views ~
+script: /assets/js/beyond.js
 ---
 <div class="singleimagecontainer">
     <img src="{{ page.image }}" height="250px" class="image">
@@ -26,7 +27,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
 ## The Destinations
 
 <h3>Foods:</h3>
-<div id="califoods">
+<div id="foods">
     <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
     Chinchikurin</a></h5>
     <div class="singleimagecontainer">
@@ -139,10 +140,10 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>          
 </div>
 
-<button id="showcalifoods" class="showmorephotosbutton" onclick="toggleCaliFoods()">( + ) show me the food!</button> 
+<button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button> 
 
 <h3>Places:</h3>
-<div id="caliplaces">
+<div id="places">
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
     <div class="flex-container">
         <div class="flex-item-3">
@@ -167,7 +168,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
 </div>
 
-<p><button id="showcaliplaces" class="showmorephotosbutton" onclick="toggleCaliPlaces()">( + ) show me where to go!</button></p> 
+<p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p> 
 
 For the rest of the time, we did some sightseeing, like seeing the Queen Mary Ship, a cruise ship that my dad and sister went on about 15 years ago, as well as visiting the Museum of Selfies, seeing Antonia's school, and exploring Pasadena and its surrounding areas. We definitely had a packed 3 days, where we enjoyed some of the best food and saw a few beautiful sights in L.A.. I cannot wait till my next time in L.A., because I clearly have lots more to see in what this huge city has to offer!
 

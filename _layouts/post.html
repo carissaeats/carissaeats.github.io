@@ -176,15 +176,9 @@
         &copy; 2021 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
         <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
     </footer>
-    {% if page.title == 'Seattle' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/seattlescript.js"></script>
-    {% elsif page.title == 'Los Angeles' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/caliscript.js"></script>  
-    {% elsif page.title == 'New Orleans' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/nolascript.js"></script>
-    {% elsif page.title == 'Summer in Asia' %}
-      <script type="text/javascript" src="{{site.baseurl}}/assets/js/asiascript.js"></script>        
-    {%- endif -%}
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/script.js"></script>
+    {% if page.script %}
+      <script type="text/javascript" src="{{ page.script }}"></script>
+    {%- endif -%}
   </body>
 </html>
