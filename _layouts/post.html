@@ -60,51 +60,38 @@
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
     <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    {% if page.directorytitle %}
-      {% if page.categories[0] == 'nyceats' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/nyceats.html" class="directory">NYC Eats</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>    
-        </div>
-      {% elsif page.categories[0] == 'jerseyeats' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/jerseyeats.html" class="directory">Jersey Eats</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>
-      {% elsif page.categories[0] == 'beyond' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>  
-      {% elsif page.categories[0] == 'recipes' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>
-      {% elsif page.categories[0] == 'stories' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/stories.html" class="directory">Stories</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.directorytitle }}</span>
-        </div>         
-      {%- endif -%}        
-    {% else %}
-      {% if page.categories[0] == 'nyceats' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/nyceats.html" class="directory">NYC Eats</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>    
-        </div>
-      {% elsif page.categories[0] == 'jerseyeats' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/jerseyeats.html" class="directory">Jersey Eats</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>
-      {% elsif page.categories[0] == 'beyond' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/beyond.html" class="directory">Beyond...</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>
-      {% elsif page.categories[0] == 'recipes' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/recipes.html" class="directory">Recipes</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>
-      {% elsif page.categories[0] == 'stories' %}
-        <div class="directory">
-          <a href="{{site.url}}" class="directory">Home</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><a href="/stories.html" class="directory">Stories</a><span style="color:grey;font-weight:normal">&nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;</span><span style="color:grey;font-weight:bold" class="directory">{{ page.title }}</span>
-        </div>         
-      {%- endif -%}
-    {%- endif -%}
+    <div class="directory">
+      <a href="{{site.url}}" class="directory">Home</a>
+      <span style="color:grey">
+          &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
+      </span>
+      {%- assign extension = ".html" -%}
+      <a href="{{ '/' | append: page.categories[0] | append: extension }}" class="directory">
+          {% if page.categories[0] == 'nyceats' %}
+            NYC Eats
+          {% elsif page.categories[0] == 'jerseyeats' %}
+            Jersey Eats
+          {% elsif page.categories[0] == 'beyond' %}
+            Beyond...
+          {% elsif page.categories[0] == 'recipes' %}
+            Recipes
+          {% elsif page.categories[0] == 'stories' %}
+            Stories
+          {%- endif -%}
+      </a>
+      <span style="color:grey">
+          &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
+      </span>
+      <span style="color:grey" class="directory">
+        <strong>
+          {% if page.directorytitle %}
+            {{ page.directorytitle }}
+          {% else %}
+            {{ page.title }}
+          {%- endif -%}
+        </strong>
+      </span>
+    </div>
     <p>
       <div class="blogposts_aboutme">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
