@@ -36,37 +36,35 @@
         <button class="dropbtn" onclick="toggleDrop()">WHERE TO EAT &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/jerseyeats.html">JERSEY&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/nyceats.html">NYC&nbspEATS</a></div>
-          <div class="dropcontent"><a href="/beyond.html">BEYOND...</a></div>
+          <div class="dropcontent"><a href="/jerseyeats">JERSEY&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/nyceats">NYC&nbspEATS</a></div>
+          <div class="dropcontent"><a href="/beyond">BEYOND...</a></div>
         </div>
       </div>
       <div style="display:inline" class="dropdown">
         <button class="dropbtn" onclick="toggleDrop()">EXTRAS! &darr;
         </button>
         <div class="dropdown-content" id="dropdown-content">
-          <div class="dropcontent"><a href="/recipes.html">RECIPES!</a></div>
-          <div class="dropcontent"><a href="/stories.html">STORIES</a></div>
+          <div class="dropcontent"><a href="/recipes">RECIPES!</a></div>
+          <div class="dropcontent"><a href="/stories">STORIES</a></div>
         </div>
       </div>
       <div class="more">
-        <a href="/jerseyeats.html">JERSEY&nbspEATS</a>      
-        <a href="/nyceats.html">NYC&nbspEATS</a>
-        <a href="/beyond.html">BEYOND...</a>
-        <a href="/recipes.html">RECIPES!</a>
-        <a href="/stories.html">STORIES</a>  
+        <a href="/jerseyeats">JERSEY&nbspEATS</a>      
+        <a href="/nyceats">NYC&nbspEATS</a>
+        <a href="/beyond">BEYOND...</a>
+        <a href="/recipes">RECIPES!</a>
+        <a href="/stories">STORIES</a>  
       </div>
-      <a href="/aboutme.html">ABOUT&nbspME</a>
+      <a href="/aboutme">ABOUT&nbspME</a>
     </div>
     <h1>Welcome to <a href="https://www.instagram.com/carissaeats/" target="_blank" class="nounderline">@CarissaEats</a>!</h1>
-    <button onclick="topFunction()" id="myBtn" title="Go to top">&uarr;</button>
-    <div class="directory">
-      <a href="{{site.url}}" class="directory">Home</a>
-      <span style="color:grey">
-          &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
-      </span>
-      {%- assign extension = ".html" -%}
-      <a href="{{ '/' | append: page.categories[0] | append: extension }}" class="directory">
+    <button id="myBtn" title="Go to top">&uarr;</button>
+    {% if page.categories[0] %}
+      <div class="directory">
+        <a href="{{site.url}}" class="nounderline">Home</a>
+        &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
+        <a href="{{ '/' | append: page.categories[0] }}" class="nounderline">
           {% if page.categories[0] == 'nyceats' %}
             NYC Eats
           {% elsif page.categories[0] == 'jerseyeats' %}
@@ -78,11 +76,8 @@
           {% elsif page.categories[0] == 'stories' %}
             Stories
           {%- endif -%}
-      </a>
-      <span style="color:grey">
-          &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
-      </span>
-      <span style="color:grey" class="directory">
+        </a>
+        &nbsp;&nbsp;&nbsp;<&nbsp;&nbsp;&nbsp;
         <strong>
           {% if page.directorytitle %}
             {{ page.directorytitle }}
@@ -90,8 +85,8 @@
             {{ page.title }}
           {%- endif -%}
         </strong>
-      </span>
-    </div>
+      </div>
+    {%- endif -%}
     <p>
       <div class="blogposts_aboutme">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

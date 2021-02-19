@@ -72,7 +72,7 @@ Now, let's eat!
   </div>
 </div>
 
-<button id="showrecipe1" class="showmorephotosbutton" onclick="toggleRecipe1()">( + ) show me the recipe!</button> 
+<button id="showrecipe1" class="showmorephotosbutton" onclick="toggleContent('recipe1', 'showrecipe1', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button>
 
 #### Homemade Pita:
 <div id="recipe2">
@@ -105,7 +105,7 @@ Now, let's eat!
   </ol>
 </div>
 
-<button id="showrecipe2" class="showmorephotosbutton" onclick="toggleRecipe2()">( + ) show me the recipe!</button> 
+<button id="showrecipe2" class="showmorephotosbutton" onclick="toggleContent('recipe2', 'showrecipe2', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button>
 
 #### Avocado Hummus:
 
@@ -130,7 +130,7 @@ Now, let's eat!
   </ol>
 </div>
 
-<button id="showrecipe3" class="showmorephotosbutton" onclick="toggleRecipe3()">( + ) show me the recipe!</button> 
+<button id="showrecipe3" class="showmorephotosbutton" onclick="toggleContent('recipe3', 'showrecipe3', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button>
 
 #### Garlic Oil
 
@@ -152,7 +152,7 @@ Now, let's eat!
   </ol>
 </div>
 
-<button id="showrecipe4" class="showmorephotosbutton" onclick="toggleRecipe4()">( + ) show me the recipe!</button> 
+<button id="showrecipe4" class="showmorephotosbutton" onclick="toggleContent('recipe4', 'showrecipe4', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button>
 
 I used a wooden cutting board to lay out all the components of this meal, but that is by no means necessary. I received this cutting board for "Secret Santa", so I'm putting it to good use! I added [Food Should Taste Good](https://www.foodshouldtastegood.com/product/multigrain){:class="nounderline" target="_blank"} Multigrain Tortilla Chips to the platter, and those chips pair well with my avocado hummus or even our Eggs in Purgatory. My dad enjoyed the platter, which made me feel really proud of myself! As a "chef" (honestly calling myself a chef is a little insulting to chefs, but I digress), I appreciate a little validation from others. While my pita, eggs in purgatory, and hummus are nontraditional, they form a cohesive meal altogether.
 

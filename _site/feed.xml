@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-17T21:58:25-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Who Wants A Pita Me? 🥙</title><link href="http://localhost:4000/recipes/pitaplatter" rel="alternate" type="text/html" title="Who Wants A Pita Me? 🥙" /><published>2021-02-17T00:00:00-05:00</published><updated>2021-02-17T00:00:00-05:00</updated><id>http://localhost:4000/recipes/pitaplatter</id><content type="html" xml:base="http://localhost:4000/recipes/pitaplatter">&lt;div class=&quot;singleimagecontainer&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-19T00:28:48-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CarissaEats</title><subtitle>A food and travel blog by @CarissaEats, where I share my favorite small businesses, easy recipes, and travel adventures.</subtitle><entry><title type="html">Who Wants A Pita Me? 🥙</title><link href="http://localhost:4000/recipes/pitaplatter" rel="alternate" type="text/html" title="Who Wants A Pita Me? 🥙" /><published>2021-02-17T00:00:00-05:00</published><updated>2021-02-17T00:00:00-05:00</updated><id>http://localhost:4000/recipes/pitaplatter</id><content type="html" xml:base="http://localhost:4000/recipes/pitaplatter">&lt;div class=&quot;singleimagecontainer&quot;&gt;
   &lt;img src=&quot;/assets/images/recipes/platter/platter3.jpg&quot; height=&quot;250px&quot; class=&quot;image&quot; /&gt;
 &lt;/div&gt;
 
@@ -65,7 +65,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showrecipe1&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe1()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showrecipe1&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('recipe1', 'showrecipe1', '( - ) sounds good, but...next!', '( + ) show me the recipe!')&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;homemade-pita&quot;&gt;Homemade Pita:&lt;/h4&gt;
 &lt;div id=&quot;recipe2&quot;&gt;
@@ -98,7 +98,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showrecipe2&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe2()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showrecipe2&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('recipe2', 'showrecipe2', '( - ) sounds good, but...next!', '( + ) show me the recipe!')&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;avocado-hummus&quot;&gt;Avocado Hummus:&lt;/h4&gt;
 
@@ -123,7 +123,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showrecipe3&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe3()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showrecipe3&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('recipe3', 'showrecipe3', '( - ) sounds good, but...next!', '( + ) show me the recipe!')&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;garlic-oil&quot;&gt;Garlic Oil&lt;/h4&gt;
 
@@ -145,7 +145,7 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showrecipe4&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleRecipe4()&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showrecipe4&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('recipe4', 'showrecipe4', '( - ) sounds good, but...next!', '( + ) show me the recipe!')&quot;&gt;( + ) show me the recipe!&lt;/button&gt;&lt;/p&gt;
 
 &lt;p&gt;I used a wooden cutting board to lay out all the components of this meal, but that is by no means necessary. I received this cutting board for “Secret Santa”, so I’m putting it to good use! I added &lt;a href=&quot;https://www.foodshouldtastegood.com/product/multigrain&quot; class=&quot;nounderline&quot; target=&quot;_blank&quot;&gt;Food Should Taste Good&lt;/a&gt; Multigrain Tortilla Chips to the platter, and those chips pair well with my avocado hummus or even our Eggs in Purgatory. My dad enjoyed the platter, which made me feel really proud of myself! As a “chef” (honestly calling myself a chef is a little insulting to chefs, but I digress), I appreciate a little validation from others. While my pita, eggs in purgatory, and hummus are nontraditional, they form a cohesive meal altogether.&lt;/p&gt;
 
@@ -322,7 +322,7 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showfoods&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleFoods()&quot;&gt;( + ) show me the food!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showfoods&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('foods', 'showfoods', '( - ) maybe later...', '( + ) show me the food!')&quot;&gt;( + ) show me the food!&lt;/button&gt;&lt;/p&gt;
 
 &lt;h2&gt;Activities&lt;/h2&gt;
 &lt;div id=&quot;places&quot;&gt;
@@ -417,7 +417,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;button id=&quot;showplaces&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;togglePlaces()&quot;&gt;( + ) show me where to go!&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button id=&quot;showplaces&quot; class=&quot;showmorephotosbutton&quot; onclick=&quot;toggleContent('places', 'showplaces', '( - ) maybe later...', '( + ) show me where to go!')&quot;&gt;( + ) show me where to go!&lt;/button&gt;&lt;/p&gt;
 
 &lt;p&gt;I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I’ve been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️&lt;/p&gt;
 

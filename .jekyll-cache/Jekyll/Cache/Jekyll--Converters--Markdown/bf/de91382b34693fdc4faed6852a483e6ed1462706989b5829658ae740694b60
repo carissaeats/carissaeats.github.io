@@ -1,4 +1,4 @@
-I"¼1<div class="flex-container">
+I"R2<div class="flex-container">
     <div class="flex-item">
         <img src="/assets/images/beyond/nola/bourbonst.JPG" height="250px" class="image" />
         <div class="flexoverlay">
@@ -95,7 +95,7 @@
     </p>                                
 </div>
 
-<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p>
+<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleContent('foods', 'showfoods', '( - ) maybe later...', '( + ) show me the food!')">( + ) show me the food!</button></p>
 
 <h3>Places:</h3>
 <div id="places">
@@ -149,7 +149,7 @@
     provided from the Saint Louis Cathedral official website. </h6>                                
 </div>
 
-<p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p>
+<p><button id="showplaces" class="showmorephotosbutton" onclick="toggleContent('places', 'showplaces', '( - ) maybe later...', '( + ) show me where to go!')">( + ) show me where to go!</button></p>
 
 <p>Being a self-proclaimed foodie, I have always wanted to visit New Orleans for its one-of-a-kind culture and uniquely diverse cuisine, and our road trip back to New Jersey allowed for it to be a perfect stop. My trip, while short, did not disappoint, as I got to eat my heart out and experience a small taste of what NOLA is like. Life here is like an exciting, all-day party, and Iâ€™d love to return someday!</p>
 :ET

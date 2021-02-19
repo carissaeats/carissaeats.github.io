@@ -1,4 +1,4 @@
-I"�,<div class="singleimagecontainer">
+I"'.<div class="singleimagecontainer">
   <img src="/assets/images/recipes/platter/platter3.jpg" height="250px" class="image" />
 </div>
 
@@ -65,7 +65,7 @@
   </div>
 </div>
 
-<p><button id="showrecipe1" class="showmorephotosbutton" onclick="toggleRecipe1()">( + ) show me the recipe!</button></p>
+<p><button id="showrecipe1" class="showmorephotosbutton" onclick="toggleContent('recipe1', 'showrecipe1', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button></p>
 
 <h4 id="homemade-pita">Homemade Pita:</h4>
 <div id="recipe2">
@@ -98,7 +98,7 @@
   </ol>
 </div>
 
-<p><button id="showrecipe2" class="showmorephotosbutton" onclick="toggleRecipe2()">( + ) show me the recipe!</button></p>
+<p><button id="showrecipe2" class="showmorephotosbutton" onclick="toggleContent('recipe2', 'showrecipe2', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button></p>
 
 <h4 id="avocado-hummus">Avocado Hummus:</h4>
 
@@ -123,7 +123,7 @@
   </ol>
 </div>
 
-<p><button id="showrecipe3" class="showmorephotosbutton" onclick="toggleRecipe3()">( + ) show me the recipe!</button></p>
+<p><button id="showrecipe3" class="showmorephotosbutton" onclick="toggleContent('recipe3', 'showrecipe3', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button></p>
 
 <h4 id="garlic-oil">Garlic Oil</h4>
 
@@ -145,7 +145,7 @@
   </ol>
 </div>
 
-<p><button id="showrecipe4" class="showmorephotosbutton" onclick="toggleRecipe4()">( + ) show me the recipe!</button></p>
+<p><button id="showrecipe4" class="showmorephotosbutton" onclick="toggleContent('recipe4', 'showrecipe4', '( - ) sounds good, but...next!', '( + ) show me the recipe!')">( + ) show me the recipe!</button></p>
 
 <p>I used a wooden cutting board to lay out all the components of this meal, but that is by no means necessary. I received this cutting board for “Secret Santa”, so I’m putting it to good use! I added <a href="https://www.foodshouldtastegood.com/product/multigrain" class="nounderline" target="_blank">Food Should Taste Good</a> Multigrain Tortilla Chips to the platter, and those chips pair well with my avocado hummus or even our Eggs in Purgatory. My dad enjoyed the platter, which made me feel really proud of myself! As a “chef” (honestly calling myself a chef is a little insulting to chefs, but I digress), I appreciate a little validation from others. While my pita, eggs in purgatory, and hummus are nontraditional, they form a cohesive meal altogether.</p>
 

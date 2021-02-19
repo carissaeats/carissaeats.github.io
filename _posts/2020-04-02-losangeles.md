@@ -140,7 +140,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>          
 </div>
 
-<button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button> 
+<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleContent('foods', 'showfoods', '( - ) maybe later...', '( + ) show me the food!')">( + ) show me the food!</button></p> 
 
 <h3>Places:</h3>
 <div id="places">
@@ -168,7 +168,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
 </div>
 
-<p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p> 
+<button id="showplaces" class="showmorephotosbutton" onclick="toggleContent('places', 'showplaces', '( - ) maybe later...', '( + ) show me where to go!')">( + ) show me where to go!</button> 
 
 For the rest of the time, we did some sightseeing, like seeing the Queen Mary Ship, a cruise ship that my dad and sister went on about 15 years ago, as well as visiting the Museum of Selfies, seeing Antonia's school, and exploring Pasadena and its surrounding areas. We definitely had a packed 3 days, where we enjoyed some of the best food and saw a few beautiful sights in L.A.. I cannot wait till my next time in L.A., because I clearly have lots more to see in what this huge city has to offer!
 

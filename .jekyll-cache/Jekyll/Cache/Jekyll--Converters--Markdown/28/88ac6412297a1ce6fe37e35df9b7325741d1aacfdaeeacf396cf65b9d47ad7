@@ -1,4 +1,4 @@
-I"kY<div class="flex-container">
+I"Z<div class="flex-container">
     <div class="flex-item">
         <img src="/assets/images/beyond/china/heycha1.JPG" height="250px" class="image" />
         <div class="flexoverlay">
@@ -165,7 +165,7 @@
 
 </div>
 
-<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleFoods()">( + ) show me the food!</button></p>
+<p><button id="showfoods" class="showmorephotosbutton" onclick="toggleContent('foods', 'showfoods', '( - ) maybe later...', '( + ) show me the food!')">( + ) show me the food!</button></p>
 
 <h2>Activities</h2>
 <div id="places">
@@ -260,7 +260,7 @@
   </div>
 </div>
 
-<p><button id="showplaces" class="showmorephotosbutton" onclick="togglePlaces()">( + ) show me where to go!</button></p>
+<p><button id="showplaces" class="showmorephotosbutton" onclick="toggleContent('places', 'showplaces', '( - ) maybe later...', '( + ) show me where to go!')">( + ) show me where to go!</button></p>
 
 <p>I hope this guide helped you live vicariously through my 2018 self. I thought a lot about how disconnected I felt with my Chinese heritage, but I’ve been on a journey to understand my roots ever since then. Thank you China, Singapore, Taiwan, Hong Kong, and Macau for an amazing, introspective summer. I am so grateful for food on the table and each of these experiences❤️</p>
 
