@@ -29,4 +29,4 @@ This first release of the BIPOC Recipe Series spotlights Black recipe creators. 
 
 ###### Supporting blogs doesn’t seem like it means much, but Black, Indigenous, and People of Color are underrepresented in creative spaces. Uplifting the BIPOC voices that do exist also creates more space for future creatives to leave their mark. BIPOC stories are beautiful, diverse, and meaningful -- remember that the BIPOC community isn’t a monolith and sub-communities face different experiences. 
 
-###### Sorry there are no blog photos included, to be copyright cautious!
+###### * To be copyright conscious, I didn't include any photos from their blogs. 
