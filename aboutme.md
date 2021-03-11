@@ -23,7 +23,7 @@ I started to be curious about my grandma’s kitchen endeavors around 7 years ol
 
 I learned that with every bite of food, there’s a story that comes with it. Even if you live halfway across the world from someone, it’s very likely that you've shared similar food experiences. With cooking comes diverse stories, and living in America has allowed me to build bridges between various cultures through the wide variety of food experiences available here.
 
-### [See some of the stories behind my favorite foods here.](/stories/favoritefoods){:class="nounderline"}
+#### [See some of the stories behind my favorite foods here.](/stories/favoritefoods){:class="nounderline"}
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 
