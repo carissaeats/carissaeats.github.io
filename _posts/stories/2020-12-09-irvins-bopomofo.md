@@ -15,7 +15,7 @@ image2: /assets/images/stories/irvins/irvins5.JPEG
   </div>
 </div>
 
-I’m honored and ecstatic to finally announce that I’m a partner for the exclusive launch of IRVINS Salted Egg Salmon Fish Skin chips!
+I’m honored and ecstatic to finally announce that I’m a partner for the exclusive launch of IRVINS Salted Egg Salmon Fish Skin chips in North America!
 
 [IRVINS Salted Egg](https://eatirvins.com/){:class="nounderline" target="_blank"} chips turned a signature *Salted Egg Crab* dish, which became a local River Valley phenomenon, into some #DangerouslyAddictive snacks. As they say on their website,
 
@@ -57,7 +57,7 @@ They are, indeed, #DANGEROUSLYADDICTIVE. I am not a huge fish skin person, but t
   </div>
 </div>
 
-They’re made with the follow ultra-fresh ingredients, straight from their website:
+They’re made with the following ultra-fresh ingredients, straight from their website:
 1. Salted duck egg yolk, a familiar ingredient commonly used in Asian dishes.
 1. Curry leaves, bringing out the fragrance in our snacks.
 1. Red chili pepper, giving our snacks a slight kick while enhancing the salted egg taste.
