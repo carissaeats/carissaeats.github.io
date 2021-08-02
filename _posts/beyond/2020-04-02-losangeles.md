@@ -12,13 +12,13 @@ script: /assets/js/beyond.js
     <div class="singleimageoverlay">{{ page.overlay }}</div>
 </div>
 
-WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I had always been interested in life on the West Coast. New York City is a very fast city - everyone is always on the move and in a rush. Los Angeles is what some might consider NYC's polar opposite. As die-hard New Yorkers say, if the only thing you can say about your city is that the weather is good, the city *probably* just isn't that good. SoCal is known for its warmer weather throughout the year, but there's so much more to this wonderful city than just the weather.  
+WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I've always been interested in life on the West Coast. New York City is a very fast city - everyone is always on the move and in a rush. Los Angeles is what some might consider NYC's polar opposite. As die-hard New Yorkers say, if the only thing you can say about your city is that the weather is good, the city *probably* just isn't that good. SoCal is known for its warmer weather throughout the year, but there's so much more to this wonderful city than just the weather.  
 
 L.A. goes at a slower pace than NYC, giving it a more relaxed feel. But, with both cities, there are great things and some not-so-fantastic things. NYC is a city made to be explored through public transportation and by foot, especially given Manhattan's smart grid design. You pretty much *need* a car to get around, which means the notorious L.A. traffic. However, my sister says the public transportation isn't as terrible as people say it is, but...NYC definitely wins in that one.
 
 Between the two, my winner is... actually L.A.!! Many will disagree, but L.A. is such an inviting, exciting city that has endless free activities to enjoy and a food scene that I <em>personally</em> love more. Don't get me wrong, NYC is an absolute food paradise, but I guess my taste buds are just happier in the L.A. sunshine ☀️. Also, my mom spent a few years in California when she first immigrated to the U.S., so maybe it's just in my blood? 
 
-So my older sister, Antonia, actually goes to college in the L.A. area, so for Thanksgiving 2018, my dad and I went to spend time with her. We were only able to explore L.A. for about three days, so we didn't get to see a whole lot, but that can be a good thing - L.A. keeps me coming back for more, and that means that I have something to look forward to the next time I return. 
+My older sister, Antonia, actually goes to college in the L.A. area, so for Thanksgiving 2018, my dad and I went to spend time with her. We were only able to explore L.A. for about three days, so we didn't get to see a whole lot, but that can be a good thing - L.A. keeps me coming back for more, and that means that I have something to look forward to the next time I return. 
 
 Check out the places I ate and visited during my Thanksgiving trip!
 

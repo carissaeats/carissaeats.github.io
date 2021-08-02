@@ -2,7 +2,7 @@
 layout: post
 categories: stories
 title: "Life Update"
-image: /assets/images/stories/favoritefoods/becplate.jpg
+image: /assets/images/stories/doufuhuavectorart.png
 overlay: Bacon, Scrambled Cheese Eggs, and Homemade Cheddar Bay Biscuit
 ---
 <div class="singleimagecontainer">

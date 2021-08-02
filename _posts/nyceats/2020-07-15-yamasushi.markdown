@@ -38,11 +38,11 @@ Another dish we've tried is the **spicy tuna crispy rice**. One of the most popu
     <img src="/assets/images/nyceats/yamasushi/crispyrice.jpg" height="150px" class="image">
 </div>
 
-I've been going to Yama for a few years now, and I really feel fully satisfied every time. Japanese food is something that can be so excited, and while I'm not sure that Yama is super authentic, I can confidently say that they serve very high-quality fish that is sliced a little differently than your typical sushi restaurant. Yama is a very relaxed setting, and the portions are well-priced for the amount. If you work in the city or are just in the mood for a casual sushi lunch with quality you know you can trust, Yama is your place!
+I've been going to Yama for a few years now, and I really feel fully satisfied every time. While I can't confirm Yama's authenticity, as I am not Japanese myself, I can confidently say that they serve very high-quality fish that is sliced a little differently than your typical sushi restaurant. Yama is a very relaxed setting, and the portions are well-priced for the amount. If you work in the city or are just in the mood for a casual sushi lunch with quality you know you can trust, Yama is your place!
 
 <div class="singleimagecontainer">
     <img src="/assets/images/nyceats/yamasushi/sashimilayout.JPG" height="150px" class="image">
     <div class="singleimageoverlay">
-    Sashimi + Dinner Bento
+        Sashimi + Dinner Bento
     </div>
 </div>

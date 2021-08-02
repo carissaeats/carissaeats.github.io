@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 ---
-Hey! My name is Carissa Liu, a 17 year-old Jersey girl, and welcome to my food, travel, and personal blog!
+Hey! My name is Carissa Liu (she/her), a Jersey girl who's now calling Orlando her new home. Welcome to my food, travel, and personal blog!
 
 <div class="flex-container">
   <div class="flex-item-3">
@@ -15,7 +15,7 @@ Hey! My name is Carissa Liu, a 17 year-old Jersey girl, and welcome to my food, 
   </div>
   <div class="flex-item-3">
       <img src="/assets/images/famphotos/waterfront.JPG" height="250px" class="image">
-      <div class="flexoverlay">~ Seattle Waterfront ~</div>
+      <div class="flexoverlay">Seattle Waterfront</div>
   </div>
 </div>
 
@@ -29,8 +29,10 @@ Food is one thing that can be transported from country to country, and because m
 
 I’ll be releasing interviews with food establishment owners, recipes for anyone to follow, stories attached to my favorite eats, and even foodie T.V. moments. My writing is super informal, so I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to enjoy food alongside me. To have healthy food on the table, let alone a positive relationship with food, is a privilege, and I do (and will) not take that for granted.
 
-My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or okonomiyaki in LA's Little Tokyo.
+My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or beignets in New Orleans.
 
 Because I'm building this blog from scratch, there will be weeks I just work on the design for it, but I plan for a new post (at least) every other Wednesday!
 
-*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia, but I'll include her food photography from time-to-time. Her food photos will be credited!*
+In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a spot spot in my heart (I always say, "be back soon" 💛), but I feel lucky to be adding TWO (!) new hubs of O-Town and L.A. to my blog. 
+
+*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia, but I'll include her food photography from time-to-time. Her food photos will always be credited!*
