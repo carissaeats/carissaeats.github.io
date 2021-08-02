@@ -31,8 +31,6 @@ I’ll be releasing interviews with food establishment owners, recipes for anyon
 
 My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or beignets in New Orleans.
 
-Because I'm building this blog from scratch, there will be weeks I just work on the design for it, but I plan for a new post (at least) every other Wednesday!
-
 In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a spot spot in my heart (I always say, "be back soon" 💛), but I feel lucky to be adding TWO (!) new hubs of O-Town and L.A. to my blog. 
 
 *Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia, but I'll include her food photography from time-to-time. Her food photos will always be credited!*
