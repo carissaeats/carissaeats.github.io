@@ -15,22 +15,9 @@ I get a little carried away with the puns during recipe posts, so bear with me.
 
 My family had some pantry stuff we wanted to consume right away, so I came up with the idea to make a three-ish piece platter, with homemade pita, eggs in purgatory (kinda), and avocado hummus!
 
-These recipes are by no-means authentic -- however, they are inspired by the meals I had in Tel Aviv, where the food is very veggie-centric and extraordinarily fresh. Here's a photo:
+These recipes are by no-means authentic -- however, they are inspired by the meals I had in Tel Aviv, where the food is very veggie-centric and extraordinarily fresh. 
 
-<div class="flex-container">
-  <div class="flex-item">
-    <img src="/assets/images/beyond/israel/shakshuka.JPG" height="150px" class="image">
-    <div class="flexoverlay">Shakshuka from Bino TLV</div>
-  </div>
-  <div class="flex-item">
-    <img src="/assets/images/beyond/israel/bino.jpg" height="150px" class="image">
-    <div class="flexoverlay">Assortment of Sides*</div>
-  </div>
-</div>
-
-###### * I don't know the exact names of all, but there's couscous, cabbage slaw, and tomato-red onion salad. 
-
-Okay, so maybe I didn't hit the mark exactly, but I tried. The first recipe will be **eggs in purgatory**, akin to the North African *shakshuka*. Eggs in purgatory is called Uova in Purgatorio, but [the name may vary depending on the region of Italy](https://www.savoringitaly.com/eggs-in-purgatory-uova-in-purgatorio/){:class="nounderline" target="_blank"}. The eggs are “souls” seeking purification in the red-hot tomato sauce of purgatory. I struggled to find a formal history on this dish on the internet. I was able to find a bit about shakshuka, although I couldn't find any sources by a chef of Tunisian (Tunisia is said to be [its place of origin](https://www.themediterraneandish.com/shakshuka-recipe/){:class="nounderline" target="_blank"}) descent, so I didn't want to include anything from an "untrustworthy" source. But a little tidbit I can include is that shakshuka is supposedly "[an onomatopoeia for 'all mixed up'](https://momentmag.com/talk-of-the-table-shakshuka/){:class="nounderline" target="_blank"}".
+The first recipe will be **eggs in purgatory**, akin to the North African *shakshuka*. Eggs in purgatory is called Uova in Purgatorio, but [the name may vary depending on the region of Italy](https://www.savoringitaly.com/eggs-in-purgatory-uova-in-purgatorio/){:class="nounderline" target="_blank"}. The eggs are “souls” seeking purification in the red-hot tomato sauce of purgatory. I struggled to find a formal history on this dish on the internet. I was able to find a bit about shakshuka, although I couldn't find any sources by a chef of Tunisian (Tunisia is said to be [its place of origin](https://www.themediterraneandish.com/shakshuka-recipe/){:class="nounderline" target="_blank"}) descent, so I didn't want to include anything from an "untrustworthy" source. But a little tidbit I can include is that shakshuka is supposedly "[an onomatopoeia for 'all mixed up'](https://momentmag.com/talk-of-the-table-shakshuka/){:class="nounderline" target="_blank"}".
 
 Now, let's eat!
 
