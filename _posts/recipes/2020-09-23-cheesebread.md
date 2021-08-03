@@ -6,7 +6,7 @@ description: Pão de queijo-inspired tapioca cheese bread recipe. These breads p
 image: /assets/images/recipes/cheesebread/cheesebread3.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
 </div>
 
 ###### Apologies for all the cringey cheese puns on the way...
@@ -25,11 +25,11 @@ They’ve been perfectly shaped by the muffin mold the past two times I’ve mad
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/recipes/cheesebread/cheesebread4.JPG" height="250px" class="image">
+        <img src="/assets/images/recipes/cheesebread/cheesebread4.JPG" class="image">
         <div class="flexoverlay">1st Time Cheese Breads (still really <em>goud-a</em>)</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/recipes/cheesebread/cheesebread1.jpg" height="250px" class="image">
+        <img src="/assets/images/recipes/cheesebread/cheesebread1.jpg" class="image">
         <div class="flexoverlay">After some ~character development~</div>
   </div>
 </div>
@@ -63,5 +63,5 @@ Now let's get on with the recipe and *cheese* the day!
 1. Serve with honey, jam, or marinara sauce.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" height="250px" class="image">
+    <img src="/assets/images/recipes/cheesebread/cheesebread2.jpg" class="image">
 </div>

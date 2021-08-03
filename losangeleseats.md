@@ -20,6 +20,6 @@ I couldn't feel more lucky to have the privilege to study at USC and the opportu
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/comingsoonvectorart.png" height="250px" class="image">
+      <img src="/assets/images/comingsoonvectorart.png" class="image">
   </div>
 </div>

@@ -5,7 +5,7 @@ title: "Life Update"
 image: /assets/images/stories/doufuhuavectorart.png
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">  
+    <img src="{{ page.image }}" class="image">  
 </div>
 
 Hey everyone! So I’ve been pretty MIA on here and on Instagram, so I just wanted to keep you all updated on where I’ve been. 

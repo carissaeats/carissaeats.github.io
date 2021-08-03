@@ -8,7 +8,7 @@ overlay: ~ Long Beach Views ~
 script: /assets/js/beyond.js
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
     <div class="singleimageoverlay">{{ page.overlay }}</div>
 </div>
 
@@ -31,7 +31,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     <h5><a href="https://www.chinchikurin-usa.com/menu/" target="_blank" class="nounderline" id="okonomiyaki">
     Chinchikurin</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" class="image">
         <div class="singleimageoverlay">
             GOAM - Green Onions and Mayo
         </div>
@@ -64,11 +64,11 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </h5>
     <div class="flex-container">
         <div class="flex-item">
-            <img src="/assets/images/beyond/losangeles/unclejohns.jpg" height="250px" class="image">
+            <img src="/assets/images/beyond/losangeles/unclejohns.jpg" class="image">
             <div class="flexoverlay">Steak + Eggs</div>
         </div>
         <div class="flex-item">
-            <img src="/assets/images/beyond/losangeles/spicyporkchop.JPG" height="250px" class="image">
+            <img src="/assets/images/beyond/losangeles/spicyporkchop.JPG" class="image">
             <div class="flexoverlay">Spicy Pork Chops + Chow Mein</div>
         </div>
     </div>    
@@ -89,7 +89,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     <h5><a href="http://www.mussoandfrankgrill.com/" target="_blank" class="nounderline">
     Musso & Frank Grill</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/mussoandfrank.jpg" height="250px" class="image">
+        <img src="/assets/images/beyond/losangeles/mussoandfrank.jpg" class="image">
         <div class="singleimageoverlay">
             Ribeyes, Mac & Cheese, Lamb Chops, Sauteed Onions
         </div>
@@ -100,7 +100,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     <h5><a href="https://www.theosawa.com/" target="_blank" class="nounderline">
     Osawa Pasadena</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/salmonlover.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/losangeles/salmonlover.JPG" class="image">
         <div class="singleimageoverlay">
             Salmon Lover Sushi Roll
         </div>
@@ -110,7 +110,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
     <h5><a href="https://www.aftersicecream.com/" target="_blank" class="nounderline">Afters Ice Cream</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/aftersicecream.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/losangeles/aftersicecream.JPG" class="image">
         <div class="singleimageoverlay">
             Triple Scoop!
         </div>
@@ -120,7 +120,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
     <h5><a href="https://www.onezo.us/" target="_blank" class="nounderline">OneZo</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/onezo.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/losangeles/onezo.JPG" class="image">
         <div class="singleimageoverlay">
             Brown Sugar Boba
         </div>
@@ -130,7 +130,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
     <h5><a href="https://www.factoryteabar.com/" target="_blank" class="nounderline">Factory Tea Bar</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/ftb.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/losangeles/ftb.JPG" class="image">
         <div class="singleimageoverlay">
             Strawberry Green Tea with Boba Pearls and Lychee Jelly (ft. Antonia)
         </div>
@@ -147,13 +147,13 @@ Check out the places I ate and visited during my Thanksgiving trip!
     <h5><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></h5>
     <div class="flex-container">
         <div class="flex-item-3">
-            <img src="/assets/images/beyond/losangeles/koreanfriendship.JPG" height="250px" class="image">
+            <img src="/assets/images/beyond/losangeles/koreanfriendship.JPG" class="image">
         </div>
         <div class="flex-item-3">
-            <img src="/assets/images/beyond/losangeles/kfbview.JPG" height="250px" class="image">
+            <img src="/assets/images/beyond/losangeles/kfbview.JPG" class="image">
         </div>
         <div class="flex-item-3">
-            <img src="/assets/images/beyond/losangeles/palmtreesunset.JPG" height="250px" class="image">
+            <img src="/assets/images/beyond/losangeles/palmtreesunset.JPG" class="image">
         </div>
     </div>    
     <p>
@@ -161,7 +161,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
     </p>
     <h5><a href="https://downtownla.com/" class="nounderline" target="_blank">Downtown L.A.</a></h5>
     <div class="singleimagecontainer">
-        <img src="/assets/images/beyond/losangeles/dtla.JPG" height="250px" class="image">
+        <img src="/assets/images/beyond/losangeles/dtla.JPG" class="image">
     </div>
     <p>
         This is really the high-rise, typical city part of L.A., where you can find art galleries, markets, Little Tokyo, Chinatown, and lots more. Because of our limited time there, we really just window-shopped, "people watched", walked through the Japanese Village Plaza, and checked out Little Tokyo. There are endless things to find in DTLA, as it has great wall art and lots of areas to do some light flea-market shopping + walking.        
@@ -173,7 +173,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
 For the rest of the time, we did some sightseeing, like seeing the Queen Mary Ship, a cruise ship that my dad and sister went on about 15 years ago, as well as visiting the Museum of Selfies, seeing Antonia's school, and exploring Pasadena and its surrounding areas. We definitely had a packed 3 days, where we enjoyed some of the best food and saw a few beautiful sights in L.A.. I cannot wait till my next time in L.A., because I clearly have lots more to see in what this huge city has to offer!
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/beyond/losangeles/queenmary.jpg" height="250px" class="image">
+    <img src="/assets/images/beyond/losangeles/queenmary.jpg" class="image">
     <div class="singleimageoverlay">
     At the Queen Mary Ship 🚢
     </div>

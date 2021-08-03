@@ -7,7 +7,7 @@ image: /assets/images/stories/favoritefoods/katsu.JPG
 overlay: Chicken Katsu from Mitsuwa
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
     <div class="singleimageoverlay">{{ page.overlay }}</div>    
 </div>
 
@@ -15,11 +15,11 @@ Food represents celebration, warmth, and unity to me. At its core, food brings p
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/beyond/china/gzcafe.JPG" height="150px" class="image">
+        <img src="/assets/images/beyond/china/gzcafe.JPG" class="image">
         <div class="flexoverlay">Beef Chow Fun + Char Siu Fan</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/stories/favoritefoods/triodumpling.jpg" height="150px" class="image">
+        <img src="/assets/images/stories/favoritefoods/triodumpling.jpg" class="image">
         <div class="flexoverlay">Shanghainese Trio</div>
   </div>
 </div>
@@ -29,7 +29,7 @@ Food represents celebration, warmth, and unity to me. At its core, food brings p
 The "Shanghainese Trio", the nickname I gave these three dishes, consists of *chong you bing*, or scallion pancakes, fried dumplings, and *sheng jian bao*, or pan-fried baos. I love these three dishes from Shanghai 21 (formerly Shanghai Asian Manor). I haven’t been there since it was known as the former, but their scallion pancakes are extremely crunchy and fluffy, and these baos and dumplings are stuffed with so much flavor. I can’t vouch for how these taste now, but regardless of if these dishes are made by my Grandma or at Shanghai 21, I will always keep these dishes on my favorites list.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" height="150px" class="image">
+    <img src="/assets/images/beyond/losangeles/okonomiyaki.JPG" class="image">
     <div class="singleimageoverlay">
         GOAM - Green Onions and Mayo
     </div>
@@ -39,11 +39,11 @@ I praised the glorious okonomiyaki on my [Los Angeles](/beyond/losangeles#okonom
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/beyond/china/cheesetea.jpg" height="150px" class="image">
+        <img src="/assets/images/beyond/china/cheesetea.jpg" class="image">
         <div class="flexoverlay">Mango Cheese Tea</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/beyond/hongkong/hkwaffle.jpg" height="150px" class="image">
+        <img src="/assets/images/beyond/hongkong/hkwaffle.jpg" class="image">
         <div class="flexoverlay">Gai Dan Jai</div>
   </div>
 </div>
@@ -53,7 +53,7 @@ Cheese tea, the drink phenomenon from China, is as interesting as it sounds. I h
 *Gai dan jai*, or egg waffles, are an absolute contender for favorite dessert (excluding boba or cheese tea). The egg whites folded into the batter differentiate gai dan jai from standard Belgian waffles, along with a little custard powder and tapioca starch that create a slight chewiness. I had my first traditional HK egg waffle from Lee Keung Kee North Point Egg Waffles in Tsim Sha Tsui, Hong Kong, and it definitely met my expectations. [Wowfulls](http://wowfulls.com/){:class="nounderline" target="_blank"} has changed the egg waffle game in NYC, as they make egg waffle sundaes and have created pizza egg waffles in the past, so I encourage you to catch them at any upcoming popups!
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/favoritefoods/tteokbokki.JPG" height="150px" class="image">
+    <img src="/assets/images/stories/favoritefoods/tteokbokki.JPG" class="image">
     <div class="singleimageoverlay">
         Cheese Tteokbokki
     </div>    
@@ -63,11 +63,11 @@ I don't have a specific memory attached to these rice cakes, other than that the
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/stories/favoritefoods/mightyquinns.jpg" height="250px" class="image">
+        <img src="/assets/images/stories/favoritefoods/mightyquinns.jpg" class="image">
         <div class="flexoverlay">Barbecue Burnt Ends + More</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/stories/favoritefoods/arthurssteak.JPG" height="250px" class="image">
+        <img src="/assets/images/stories/favoritefoods/arthurssteak.JPG" class="image">
         <div class="flexoverlay">Ribeye Steak + Caesar Salad</div>
   </div>
 </div>
@@ -75,7 +75,7 @@ I don't have a specific memory attached to these rice cakes, other than that the
 These ribs, burnt ends, and brisket are from [Mighty Quinn’s](https://www.mightyquinnsbbq.com/){:class="nounderline" target="_blank"}. I just love burnt ends, there’s not really another explanation 😂 The steak and salad are from [Arthur’s Steakhouse](https://arthurshoboken.com/){:class="nounderline" target="_blank"} in Hoboken. Before my dad made the full time switch to working from home (like over 14 years ago), he used to eat here for coworker meals and bring leftovers home for me and my sister. We became obsessed with their garlic bread, and eventually, got to eat in the restaurant. Arthur’s makes an incredible chicken caesar salad and “Our Steak”, a 24oz marbled Rib Eye, served with Arthur's Potatoes. This is another restaurant I remember eating at for years, so I can’t wait to return one day and bite into their sometimes burnt, nonetheless tasty, potatoes. 
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/favoritefoods/becbagel.jpg" height="250px" class="image">
+    <img src="/assets/images/stories/favoritefoods/becbagel.jpg" class="image">
     <div class="singleimageoverlay">
         B.E.C. Bagel
     </div>    
@@ -84,7 +84,7 @@ These ribs, burnt ends, and brisket are from [Mighty Quinn’s](https://www.migh
 This beautiful bacon, egg, and cheese bagel from Celebrity Bagels, a Tenafly staple, is one heck of special Sunday morning treat. I get mine with salt, pepper, and ketchup on an everything bagel, since I enjoy the variety of seasonings on top.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/favoritefoods/tofupudding.jpg" height="250px" class="image">
+    <img src="/assets/images/stories/favoritefoods/tofupudding.jpg" class="image">
     <div class="singleimageoverlay">
         Tofu Pudding
     </div>    
@@ -94,11 +94,11 @@ I really got into *dou fu hua*, or tofu pudding, this year, when my dad and I we
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/stories/favoritefoods/claypotrice.JPG" height="150px" class="image">
+        <img src="/assets/images/stories/favoritefoods/claypotrice.JPG" class="image">
         <div class="flexoverlay">Claypot Rice</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/stories/favoritefoods/cheesebakedrice.JPG" height="150px" class="image">
+        <img src="/assets/images/stories/favoritefoods/cheesebakedrice.JPG" class="image">
         <div class="flexoverlay">Cheese-Baked Rice</div>
   </div>
 </div>

@@ -7,7 +7,7 @@ image: /assets/images/jerseyeats/miso/misoteriyaki1.jpg
 overlay: Beef Teriyaki
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
     <div class="singleimageoverlay">{{ page.overlay }}</div>    
 </div>
 
@@ -20,7 +20,7 @@ Above, you can see their hand trimmed, char-broiled **beef teriyaki**, which fro
 I believe all the teriyaki dishes come with a small container of their teriyaki sauce, but I personally prefer the meat or "substance" (tofu, shrimp, salmon, etc.) of the dish by itself. Save that little sauce vessel for those huge portions of rice. 
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/miso/yakisoba.jpg" height="250px" class="image">
+    <img src="/assets/images/jerseyeats/miso/yakisoba.jpg" class="image">
     <div class="singleimageoverlay">Chicken Yakisoba</div>    
 </div>
 
@@ -28,11 +28,11 @@ Okay, vegetable galore in this noodle dish. The amount of veggies in their **chi
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/jerseyeats/miso/chickenkatsu.jpg" height="250px" class="image">
+        <img src="/assets/images/jerseyeats/miso/chickenkatsu.jpg" class="image">
         <div class="flexoverlay">Chicken Katsu</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/jerseyeats/miso/ribteriyaki.jpg" height="250px" class="image"> 
+        <img src="/assets/images/jerseyeats/miso/ribteriyaki.jpg" class="image"> 
         <div class="flexoverlay">Rib Teriyaki</div>  
   </div>
 </div>

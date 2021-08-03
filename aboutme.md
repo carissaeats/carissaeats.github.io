@@ -6,10 +6,10 @@ Hey! My name is Carissa Liu (she/her), a Jersey girl who's now calling Orlando h
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/famphotos/miramar.JPG" height="250px" class="image">
+      <img src="/assets/images/famphotos/miramar.JPG" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/famphotos/waterfront.JPG" height="250px" class="image">
+      <img src="/assets/images/famphotos/waterfront.JPG" class="image">
   </div>
 </div>
 

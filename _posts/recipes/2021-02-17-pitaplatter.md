@@ -6,7 +6,7 @@ image: /assets/images/recipes/platter/platter3.jpg
 script: /assets/js/recipe.js
 ---
 <div class="singleimagecontainer">
-  <img src="{{ page.image }}" height="250px" class="image">
+  <img src="{{ page.image }}" class="image">
 </div>
 
 *Humm*-us where the heart is.
@@ -55,7 +55,7 @@ Now, let's eat!
   </ol>
 
   <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/platter/platter1.jpg" height="150px" class="image">
+    <img src="/assets/images/recipes/platter/platter1.jpg" class="image">
   </div>
 </div>
 
@@ -147,6 +147,6 @@ Oh, and if you want to make it vegan, just substitute those eggs for some cooked
 
 <p>
   <div class="singleimagecontainer">
-    <img src="/assets/images/recipes/platter/platter2.jpg" height="250px" class="image">
+    <img src="/assets/images/recipes/platter/platter2.jpg" class="image">
   </div>
 </p>

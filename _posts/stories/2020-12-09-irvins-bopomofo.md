@@ -8,10 +8,10 @@ image2: /assets/images/stories/irvins/irvins5.JPEG
 ---
 <div class="flex-container">
   <div class="flex-item">
-      <img src="{{ page.image2 }}" height="250px" class="image">
+      <img src="{{ page.image2 }}" class="image">
   </div>
   <div class="flex-item">
-      <img src="{{ page.image }}" height="250px" class="image">
+      <img src="{{ page.image }}" class="image">
   </div>
 </div>
 
@@ -33,11 +33,11 @@ Now, back to the stuff about deez chips! You know the basic origin story of IRVI
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/antoniaphil.JPG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/antoniaphil.JPG" class="image">
       <div class="flexoverlay">Antonia and Phil @ BPMF</div>
   </div>
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/antoniaphildan.JPG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/antoniaphildan.JPG" class="image">
       <div class="flexoverlay">Antonia, Dan, and Phil</div>
   </div>
 </div>
@@ -50,10 +50,10 @@ They are, indeed, #DANGEROUSLYADDICTIVE. I am not a huge fish skin person, but t
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/irvins1.JPEG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/irvins1.JPEG" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/irvins4.JPEG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/irvins4.JPEG" class="image">
   </div>
 </div>
 
@@ -66,16 +66,16 @@ Some might be frightened by the idea of a fried fish skin, but PLEASE don’t kn
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/enjoyirvins.JPEG" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/enjoyirvins.JPEG" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/stories/irvins/irvins3.jpg" height="250px" class="image">
+      <img src="/assets/images/stories/irvins/irvins3.jpg" class="image">
   </div>
 </div>
 
 📣GO SUPPORT IRVINS AND BOPOMOFO📣
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/irvins/btsirvins.JPEG" height="250px" class="image">
+    <img src="/assets/images/stories/irvins/btsirvins.JPEG" class="image">
     <div class="singleimageoverlay">BTS of Photoshoot (ft. Cheese Puff Tiger)</div>    
 </div>

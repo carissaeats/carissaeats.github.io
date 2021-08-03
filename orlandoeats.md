@@ -13,6 +13,6 @@ So for those who are curious about life in Orlando or *are* interested in explor
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/comingsoonvectorart.png" height="250px" class="image">
+      <img src="/assets/images/comingsoonvectorart.png" class="image">
   </div>
 </div>

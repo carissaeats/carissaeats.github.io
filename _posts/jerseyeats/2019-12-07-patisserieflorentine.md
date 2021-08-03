@@ -6,7 +6,7 @@ description: Patisserie Florentine serves up one heck of a brunch, so here's som
 image: /assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg
 ---
 <div class="singleimagecontainer">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
 </div>
 
 **[Patisserie Florentine](https://www.patisserieflorentine.com/){:class="nounderline" target="_blank"}** (PF) is an extremely popular Bergen County breakfast, brunch, and lunch destination that serves up French-inspired dishes, baked goods, and freshly brewed coffee drinks.
@@ -18,7 +18,7 @@ The service is pretty uninvolved, yet the lively ambience, glass display of bake
 ##### Belgian Waffles
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/patisserie/waffles.JPG" height="150px" class="image">
+    <img src="/assets/images/jerseyeats/patisserie/waffles.JPG" class="image">
 </div>
 
 The portion for the price ($12.25) is a little small, nonetheless, this dish is fantastic. Waffles are great, but my favorite kind are liège-style, which are yeast-risen brioche waffles covered with pearl sugar bits. Liège waffles are so chewy, yet slightly crispy on the outside thanks to the pearl sugar studs. You can choose how you want your waffles to be topped - bananas + caramel sauce OR fresh berries + chocolate sauce. Shown above is the banana + caramel sauce combination, but they added blueberries anyways, probably due to excess. Their caramel sauce is SO INCREDIBLE!
@@ -26,7 +26,7 @@ The portion for the price ($12.25) is a little small, nonetheless, this dish is 
 ##### Croissant Oeufs Fromage
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" height="250px" class="image">
+    <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" class="image">
     <div class="singleimageoverlay">(Left) Belgian Waffles + (Right) Croissant Oeufs Fromage</div>  
 </div>
 
@@ -35,7 +35,7 @@ Toasted croissant slices, avocado puree, melted mozzarella, gravlax (cured salmo
 ##### Omelette Royale
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/patisserie/omelet.jpg" height="250px" class="image">
+    <img src="/assets/images/jerseyeats/patisserie/omelet.jpg" class="image">
     <div class="singleimageoverlay">Omelette stuffed with mushrooms, mozzarella, spinach, and onions</div>  
 </div>
 
@@ -44,7 +44,7 @@ It's not exactly a French rolled omelette, but it is folded vertically and stuff
 ##### Briochette (French Toast)
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/jerseyeats/patisserie/frenchtoast.JPG" height="150px" class="image">
+    <img src="/assets/images/jerseyeats/patisserie/frenchtoast.JPG" class="image">
 </div>
 
 This toast has a custardy filling that makes for the perfect bite. The star of this dish, though, is the vanilla anglaise, a dessert pouring custard sauce, which softens up the toast a little bit. Don't be shy to ask for extra anglaise!!
@@ -53,11 +53,11 @@ I've also tried some of their desserts, like the Fondant au Chocolat Noir and Ga
 
 <div class="flex-container">
   <div class="flex-item">
-        <img src="/assets/images/jerseyeats/patisserie/patisseriechoco.jpg" height="250px" class="image">
+        <img src="/assets/images/jerseyeats/patisserie/patisseriechoco.jpg" class="image">
         <div class="flexoverlay">Fondant au Chocolat Noir</div>
   </div>
   <div class="flex-item">
-        <img src="/assets/images/jerseyeats/patisserie/almandine.jpg" height="250px" class="image">
+        <img src="/assets/images/jerseyeats/patisserie/almandine.jpg" class="image">
         <div class="flexoverlay">Gateaux Almandine</div>
   </div>
 </div>

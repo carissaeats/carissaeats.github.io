@@ -8,10 +8,10 @@ image2: /assets/images/recipes/croissant/croissantportrait3.jpg
 ---
 <div class="flex-container">
   <div class="flex-item">
-    <img src="{{ page.image }}" height="250px" class="image">
+    <img src="{{ page.image }}" class="image">
   </div>
   <div class="flex-item">
-    <img src="{{ page.image2 }}" height="250px" class="image">
+    <img src="{{ page.image2 }}" class="image">
   </div>
 </div>
 
@@ -21,10 +21,10 @@ I made croissants from scratch for the first time! Ever since my sister, Antonia
 
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/assets/images/recipes/croissant/croissantfood/croissantsolo1.jpg" height="250px" class="image">
+    <img src="/assets/images/recipes/croissant/croissantfood/croissantsolo1.jpg" class="image">
   </div>
   <div class="flex-item">
-    <img src="/assets/images/recipes/croissant/croissantfood/blueberrycroissant.JPEG" height="250px" class="image">
+    <img src="/assets/images/recipes/croissant/croissantfood/blueberrycroissant.JPEG" class="image">
   </div>
 </div>
 
@@ -68,10 +68,10 @@ I made croissants from scratch for the first time! Ever since my sister, Antonia
 
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/assets/images/recipes/croissant/croissantfood/buttersheet.jpg" height="250px" class="image">
+    <img src="/assets/images/recipes/croissant/croissantfood/buttersheet.jpg" class="image">
   </div>
   <div class="flex-item">
-    <img src="/assets/images/recipes/croissant/croissantfood/readytobakecroissant.jpg" height="250px" class="image">
+    <img src="/assets/images/recipes/croissant/croissantfood/readytobakecroissant.jpg" class="image">
   </div>
 </div>
 
@@ -80,7 +80,7 @@ Yes, this is a loooonnnnngggggg process, but I can confidently say the end resul
 ## FINAL RESULTS!🤩
 
 <div class="singleimagecontainer">
-  <img src="/assets/images/recipes/croissant/croissantfood/croissant2.jpg" height="250px" class="image">
+  <img src="/assets/images/recipes/croissant/croissantfood/croissant2.jpg" class="image">
 </div>
 
 ###### They look like they have such a solid bottom, because we over egg-washed - no worries if this happens to you, as they're still awesome. 

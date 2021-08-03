@@ -5,7 +5,7 @@ categories: recipes
 image: /assets/images/recipes/spotlights/recipespotlights.jpg
 ---
 <div class="singleimagecontainer">
-  <img src="{{ page.image }}" height="250px" class="image">
+  <img src="{{ page.image }}" class="image">
 </div>
 
 Welcome to my new recipe series, where I’m highlighting BIPOC creatives in the food industry! 

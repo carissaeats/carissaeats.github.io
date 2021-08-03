@@ -6,7 +6,7 @@ description: What the annual Turkey Day means to me, how I used to celebrate, an
 image: /assets/images/stories/thanksgiving/pumpkinpie.jpg
 ---
 <div class="singleimagecontainer">
-  <img src="{{ page.image }}" height="250px" class="image">
+  <img src="{{ page.image }}" class="image">
 </div>
 
 Happy Turkey Day y’all! I wanted to say what I'm thankful for, recap how I celebrated for the past few years (and what I'm doing today), and share some Thanksgiving recipes from my favorite food bloggers.
@@ -26,7 +26,7 @@ For 2020, I have a lot to be grateful for. Yes, it’s been a rough year; I’ve
 1. This. blog. I have no idea what 2020 would be without this. Even if no one is reading this, I am incredibly lucky to use this platform as a way to share my stories behind food and the businesses I want to share. I’m not too caught up with the size of my audience, because I do this for myself and my passion for culinary adventures. Building this blog from scratch is my ultimate passion project: there’s always something to be done, whether it’s the inner framework, the CSS design, the stories. And I cherish every moment with it. 
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/thanksgiving/shackfuyupork.jpg" height="250px" class="image">
+    <img src="/assets/images/stories/thanksgiving/shackfuyupork.jpg" class="image">
     <div class="singleimageoverlay">
         Iberico Pork Pluma
     </div>
@@ -36,11 +36,11 @@ In 2016, my dad, Antonia, and I took our first trip in quite some time after we 
 
 <div class="flex-container">
   <div class="flex-item">
-    <img src="/assets/images/stories/thanksgiving/chickiesandpetes.jpg" height="250px" class="image">
+    <img src="/assets/images/stories/thanksgiving/chickiesandpetes.jpg" class="image">
     <div class="flexoverlay">Crab Fries from Chickie’s & Pete’s, Philly Airport (2018)</div>
   </div>
   <div class="flex-item">
-    <img src="/assets/images/stories/thanksgiving/becbagel2.JPG" height="150px" class="image">
+    <img src="/assets/images/stories/thanksgiving/becbagel2.JPG" class="image">
     <div class="flexoverlay">Bacon, Egg, Cheese Bagel from Celebrity Bagels (2019)</div>
   </div>
 </div>
@@ -62,7 +62,7 @@ To finish off, I want to share some Thanksgiving recipes from my favorite food b
   * These rolls *do* have cream cheese frosting, but heck, this was too cool of a recipe not to share! [Molly Yeh](https://mynameisyeh.com){:class="nounderline" target="_blank"} is a Jewish-Chinese musician turned cookbook author and farm girl. I’m sure she’s still a musician at her core, but I admire her most as an awesome food blogger with tons of narratives to share! She certainly draws inspiration from her experiences in all different walks of life, whether it be the city AND farm girl in her or her multiracial background.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/thanksgiving/bmbcheesecake3.jpg" height="250px" class="image">
+    <img src="/assets/images/stories/thanksgiving/bmbcheesecake3.jpg" class="image">
 </div>
 
 I'm also enjoying this Cranberry and Goat Cheese Cheesecake from [Black Magic Bakehouse](https://mynameisyeh.com/mynameisyeh/2018/8/overnight-cinnamon-rolls-with-tahini-cream-frosting){:class="nounderline" target="_blank"}. I may do a future post for it!
