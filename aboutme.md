@@ -6,10 +6,10 @@ Hey! My name is Carissa Liu (she/her), a Jersey girl who's now calling Orlando h
 
 <div class="flex-container">
   <div class="flex-item">
-      <img src="/assets/images/famphotos/miramar.JPG" class="image">
+      <img src="/assets/images/famphotos/lilchefmamaportrait.jpeg" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/famphotos/waterfront.JPG" class="image">
+      <img src="/assets/images/famphotos/carissa_portrait.jpg" class="image">
   </div>
 </div>
 
@@ -27,4 +27,4 @@ My **[beyond page](/beyond){:class="nounderline"}** will share some destinations
 
 In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a spot spot in my heart (I always say, "be back soon" 💛), but I feel lucky to be adding TWO (!) new hubs of O-Town and L.A. to my blog. 
 
-*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia (my sister, who's picture above), but I'll include her food photography from time-to-time. Her food photos will always be credited!*
+*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia (my sister, the one with the glasses in the picture above), but I'll include her food photography from time-to-time. Her food photos will always be credited!*
