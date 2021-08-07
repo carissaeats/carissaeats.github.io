@@ -1,1 +1,1 @@
-window.onload=function(){hide("foods","showfoods","( + ) show me the food!"),hide("places","showplaces","( + ) show me where to go!"),hide("fbphotos","showmorephotosfacebook","( + ) show more Facebook campus photos!")};
+window.onload=function(){hide("foods","showfoods","( + ) show me the food!"),hide("places","showplaces","( + ) show me where to go!")};

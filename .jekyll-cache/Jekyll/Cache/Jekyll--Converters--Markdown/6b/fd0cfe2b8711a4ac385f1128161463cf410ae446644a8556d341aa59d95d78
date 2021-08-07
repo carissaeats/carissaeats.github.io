@@ -1,0 +1,33 @@
+I"E<div class="flex-container">
+  <div class="flex-item-home">
+    <a href="/jerseyeats" class="nounderline">
+      <img src="/assets/images/jerseyeats/tsukemenvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/nyceats" class="nounderline">
+      <img src="/assets/images/nyceats/kopitiamkayatoastvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/beyond" class="nounderline">
+      <img src="/assets/images/beyond/friedmilkvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/recipes" class="nounderline">
+      <img src="/assets/images/recipes/dumplingsvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/stories" class="nounderline">
+      <img src="/assets/images/stories/favoritefoodsvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/aboutme" class="nounderline">
+      <img src="/assets/images/jerseyeats/duckkingvectorart.png" class="image" />
+    </a>
+  </div>  
+</div>
+:ET

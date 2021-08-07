@@ -14,21 +14,6 @@ title: HOME
     </a>
   </div>
   <div class="flex-item-home">
-    <a href="/beyond" class="nounderline">
-      <img src="/assets/images/beyond/friedmilkvectorart.png" class="image">
-    </a>
-  </div>
-  <div class="flex-item-home">
-    <a href="/recipes" class="nounderline">
-      <img src="/assets/images/recipes/dumplingsvectorart.png" class="image">
-    </a>
-  </div>
-  <div class="flex-item-home">
-    <a href="/stories" class="nounderline">
-      <img src="/assets/images/stories/favoritefoodsvectorart.png" class="image">
-    </a>
-  </div>
-  <div class="flex-item-home">
     <a href="/orlandoeats" class="nounderline">
       <img src="/assets/images/orlandoeats/sisigvectorart.png" class="image">
     </a>
@@ -37,6 +22,21 @@ title: HOME
     <a href="/losangeleseats" class="nounderline">
       <img src="/assets/images/beyond/losangeles/okonomiyakivectorart.png" class="image">
     </a>  
+  </div>  
+  <div class="flex-item-home">
+    <a href="/beyond" class="nounderline">
+      <img src="/assets/images/beyond/friedmilkvectorart.png" class="image">
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/stories" class="nounderline">
+      <img src="/assets/images/stories/favoritefoodsvectorart.png" class="image">
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/recipes" class="nounderline">
+      <img src="/assets/images/recipes/dumplingsvectorart.png" class="image">
+    </a>
   </div>
   <div class="flex-item-home">
     <a href="/aboutme" class="nounderline">
