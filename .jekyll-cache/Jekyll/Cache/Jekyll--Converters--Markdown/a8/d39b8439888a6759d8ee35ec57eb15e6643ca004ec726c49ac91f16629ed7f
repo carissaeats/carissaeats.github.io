@@ -1,4 +1,4 @@
-I"E<div class="flex-container">
+I"¼<div class="flex-container">
   <div class="flex-item-home">
     <a href="/jerseyeats" class="nounderline">
       <img src="/assets/images/jerseyeats/tsukemenvectorart.png" class="image" />
@@ -10,18 +10,28 @@
     </a>
   </div>
   <div class="flex-item-home">
+    <a href="/orlandoeats" class="nounderline">
+      <img src="/assets/images/orlandoeats/sisigvectorart.png" class="image" />
+    </a>
+  </div>
+  <div class="flex-item-home">
+    <a href="/losangeleseats" class="nounderline">
+      <img src="/assets/images/beyond/losangeles/okonomiyakivectorart.png" class="image" />
+    </a>  
+  </div>  
+  <div class="flex-item-home">
     <a href="/beyond" class="nounderline">
       <img src="/assets/images/beyond/friedmilkvectorart.png" class="image" />
     </a>
   </div>
   <div class="flex-item-home">
-    <a href="/recipes" class="nounderline">
-      <img src="/assets/images/recipes/dumplingsvectorart.png" class="image" />
+    <a href="/stories" class="nounderline">
+      <img src="/assets/images/stories/favoritefoodsvectorart.png" class="image" />
     </a>
   </div>
   <div class="flex-item-home">
-    <a href="/stories" class="nounderline">
-      <img src="/assets/images/stories/favoritefoodsvectorart.png" class="image" />
+    <a href="/recipes" class="nounderline">
+      <img src="/assets/images/recipes/dumplingsvectorart 2.png" class="image" />
     </a>
   </div>
   <div class="flex-item-home">

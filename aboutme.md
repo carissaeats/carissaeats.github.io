@@ -4,6 +4,8 @@ title: About Me
 ---
 Hey! My name is Carissa Liu (she/her), a Jersey girl who's now calling Orlando her new home. Welcome to my food, travel, and personal blog!
 
+I'm a serious dim sum, donut, and boba enthusiast, and most recently, I've been intrigued by the fermented tea drink, kombucha.  
+
 <div class="flex-container">
   <div class="flex-item">
       <img src="/assets/images/famphotos/lilchefmamaportrait.jpeg" class="image">
