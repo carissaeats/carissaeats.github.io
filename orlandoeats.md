@@ -11,8 +11,4 @@ My dad always planned to move out of NJ after I graduated high school, and now t
 
 So for those who are curious about life in Orlando or *are* interested in exploring past Disney, come back soon to see some of my favorite spots I've discovered so far!
 
-<div class="flex-container">
-  <div class="flex-item">
-      <img src="/assets/images/comingsoonvectorart.png" class="image">
-  </div>
-</div>
+<img src="/assets/images/comingsoonvectorart.png" class="image">

@@ -14,15 +14,15 @@ script: /assets/js/beyond.js
 
 WELCOME TO THE CITY OF ANGELS! Having lived in the same place my whole life on the East Coast, I've always been interested in life on the West Coast. New York City is a very fast city - everyone is always on the move and in a rush. Los Angeles is what some might consider NYC's polar opposite. As die-hard New Yorkers say, if the only thing you can say about your city is that the weather is good, the city *probably* just isn't that good. SoCal is known for its warmer weather throughout the year, but there's so much more to this wonderful city than just the weather.  
 
-L.A. goes at a slower pace than NYC, giving it a more relaxed feel. But, with both cities, there are great things and some not-so-fantastic things. NYC is a city made to be explored through public transportation and by foot, especially given Manhattan's smart grid design. You pretty much *need* a car to get around, which means the notorious L.A. traffic. However, my sister says the public transportation isn't as terrible as people say it is, but...NYC definitely wins in that one.
+LA goes at a slower pace than NYC, giving it a more relaxed feel. But, with both cities, there are great things and some not-so-fantastic things. NYC is a city made to be explored through public transportation and by foot, especially given Manhattan's smart grid design. You pretty much *need* a car to get around, which means the notorious LA traffic. However, my sister says the public transportation isn't as terrible as people say it is, but...NYC definitely wins in that one.
 
-Between the two, my winner is... actually L.A.!! Many will disagree, but L.A. is such an inviting, exciting city that has endless free activities to enjoy and a food scene that I <em>personally</em> love more. Don't get me wrong, NYC is an absolute food paradise, but I guess my taste buds are just happier in the L.A. sunshine ☀️. Also, my mom spent a few years in California when she first immigrated to the U.S., so maybe it's just in my blood? 
+Between the two, my winner is... actually LA!! Many will disagree, but LA is such an inviting, exciting city that has endless free activities to enjoy and a food scene that I <em>personally</em> love more. Don't get me wrong, NYC is an absolute food paradise, but I guess my taste buds are just happier in the LA sunshine ☀️. Also, my mom spent a few years in California when she first immigrated to the U.S., so maybe it's just in my blood? 
 
-My older sister, Antonia, actually goes to college in the L.A. area, so for Thanksgiving 2018, my dad and I went to spend time with her. We were only able to explore L.A. for about three days, so we didn't get to see a whole lot, but that can be a good thing - L.A. keeps me coming back for more, and that means that I have something to look forward to the next time I return. 
+My older sister, Antonia, actually goes to college in the LA area, so for Thanksgiving 2018, my dad and I went to spend time with her. We were only able to explore LA for about three days, so we didn't get to see a whole lot, but that can be a good thing - LA keeps me coming back for more, and that means that I have something to look forward to the next time I return. 
 
 Check out the places I ate and visited during my Thanksgiving trip!
 
-###### We went all over L.A. metro area, including San Gabriel Valley, Long Beach, Hollywood, Little Tokyo, and more, so it'll definitely be a drive around!
+###### We went all over LA metro area, including San Gabriel Valley, Long Beach, Hollywood, Little Tokyo, and more, so it'll definitely be a drive around!
 
 ## The Destinations
 
@@ -126,7 +126,7 @@ Check out the places I ate and visited during my Thanksgiving trip!
         </div>
     </div>
     <p>
-        Something remarkable to me is how bubble tea shops in L.A. are not just the regular global franchises, like Kung Fu Tea, Gong Cha, CoCo, etc., but rather smaller localized chains or mom and pop shops. On the East Coast, bubble tea shops are almost purely these chains, with very few small businesses completely specializing in bubble tea. <strong><a href="https://www.onezo.us/" target="_blank" class="nounderline">OneZo</a></strong> has expanded more, even opening up a location in Manhattan, but OneZo is unique as it creates its boba pearls from scratch, meaning there are no additives or artificial flavorings. They're able to control the product from start to finish, which makes you feel a little bit better about drinking bubble tea. They claim to be the world's first bubble tea brand to serve made-in-house fresh boba, which is certainly difficult to find. I got the brown sugar boba milk, which had perfectly chewy tapioca pearls coated in a sticky brown sugar mixture. This place has many locations throughout California and is slowly making its way throughout the U.S.. OneZo is an absolute MUST-TRY!
+        Something remarkable to me is how bubble tea shops in LA are not just the regular global franchises, like Kung Fu Tea, Gong Cha, CoCo, etc., but rather smaller localized chains or mom and pop shops. On the East Coast, bubble tea shops are almost purely these chains, with very few small businesses completely specializing in bubble tea. <strong><a href="https://www.onezo.us/" target="_blank" class="nounderline">OneZo</a></strong> has expanded more, even opening up a location in Manhattan, but OneZo is unique as it creates its boba pearls from scratch, meaning there are no additives or artificial flavorings. They're able to control the product from start to finish, which makes you feel a little bit better about drinking bubble tea. They claim to be the world's first bubble tea brand to serve made-in-house fresh boba, which is certainly difficult to find. I got the brown sugar boba milk, which had perfectly chewy tapioca pearls coated in a sticky brown sugar mixture. This place has many locations throughout California and is slowly making its way throughout the U.S.. OneZo is an absolute MUST-TRY!
     </p>
     <h5><a href="https://www.factoryteabar.com/" target="_blank" class="nounderline">Factory Tea Bar</a></h5>
     <div class="singleimagecontainer">
@@ -157,20 +157,20 @@ Check out the places I ate and visited during my Thanksgiving trip!
         </div>
     </div>    
     <p>
-        The <strong><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></strong> is a bell and pavilion located in San Pedro, next to Long Beach. The bell was donated by the Republic of Korea in 1976 to signify the strong friendship between the U.S. and Korea, as well as to honor the Korean War Veterans. The patterns of the bell are modeled after the Bronze Bell of King Songdok that was built in 771 A.D. and is still on display today. The pavilion was stunning, as you are able to go up close and see the intricate design of the bell. It is set with a background view of Long Beach, and you are even able to see Los Angeles from afar. It is a little bit of a drive from Downtown L.A. but it is a must-see in my opinion!         
+        The <strong><a href="https://sanpedro.com/san-pedro-area-points-interest/korean-bell-friendship/" class="nounderline" target="_blank">Korean Friendship Bell</a></strong> is a bell and pavilion located in San Pedro, next to Long Beach. The bell was donated by the Republic of Korea in 1976 to signify the strong friendship between the U.S. and Korea, as well as to honor the Korean War Veterans. The patterns of the bell are modeled after the Bronze Bell of King Songdok that was built in 771 A.D. and is still on display today. The pavilion was stunning, as you are able to go up close and see the intricate design of the bell. It is set with a background view of Long Beach, and you are even able to see Los Angeles from afar. It is a little bit of a drive from Downtown LA but it is a must-see in my opinion!         
     </p>
-    <h5><a href="https://downtownla.com/" class="nounderline" target="_blank">Downtown L.A.</a></h5>
+    <h5><a href="https://downtownla.com/" class="nounderline" target="_blank">Downtown LA</a></h5>
     <div class="singleimagecontainer">
         <img src="/assets/images/beyond/losangeles/dtla.JPG" class="image">
     </div>
     <p>
-        This is really the high-rise, typical city part of L.A., where you can find art galleries, markets, Little Tokyo, Chinatown, and lots more. Because of our limited time there, we really just window-shopped, "people watched", walked through the Japanese Village Plaza, and checked out Little Tokyo. There are endless things to find in DTLA, as it has great wall art and lots of areas to do some light flea-market shopping + walking.        
+        This is really the high-rise, typical city part of LA, where you can find art galleries, markets, Little Tokyo, Chinatown, and lots more. Because of our limited time there, we really just window-shopped, "people watched", walked through the Japanese Village Plaza, and checked out Little Tokyo. There are endless things to find in DTLA, as it has great wall art and lots of areas to do some light flea-market shopping + walking.        
     </p>
 </div>
 
 <button id="showplaces" class="showmorephotosbutton" onclick="toggleContent('places', 'showplaces', '( - ) maybe later...', '( + ) show me where to go!')">( + ) show me where to go!</button> 
 
-For the rest of the time, we did some sightseeing, like seeing the Queen Mary Ship, a cruise ship that my dad and sister went on about 15 years ago, as well as visiting the Museum of Selfies, seeing Antonia's school, and exploring Pasadena and its surrounding areas. We definitely had a packed 3 days, where we enjoyed some of the best food and saw a few beautiful sights in L.A.. I cannot wait till my next time in L.A., because I clearly have lots more to see in what this huge city has to offer!
+For the rest of the time, we did some sightseeing, like seeing the Queen Mary Ship, a cruise ship that my dad and sister went on about 15 years ago, as well as visiting the Museum of Selfies, seeing Antonia's school, and exploring Pasadena and its surrounding areas. We definitely had a packed 3 days, where we enjoyed some of the best food and saw a few beautiful sights in LA. I cannot wait till my next time in LA, because I clearly have lots more to see in what this huge city has to offer!
 
 <div class="singleimagecontainer">
     <img src="/assets/images/beyond/losangeles/queenmary.jpg" class="image">

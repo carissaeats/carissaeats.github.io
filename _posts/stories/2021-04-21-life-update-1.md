@@ -2,7 +2,7 @@
 layout: post
 categories: stories
 title: "Life Update"
-image: /assets/images/stories/doufuhuavectorart.png
+image: /assets/images/vectorart/tofupuddingvectorart.svg
 ---
 <div class="singleimagecontainer">
     <img src="{{ page.image }}" class="image">  

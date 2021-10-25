@@ -2,9 +2,9 @@
 layout: post
 title: About Me
 ---
-Hey! My name is Carissa Liu (she/her), a Jersey girl who's now calling Orlando her new home. Welcome to my food, travel, and personal blog!
+Hey! My name is Carissa Liu (She/Her), a Jersey girl who's now calling Orlando her new home. Welcome to my food, travel, and personal blog!
 
-###### Personal Food Fact: I'm a serious dim sum, doughnut, and boba enthusiast, and most recently, I've been intrigued by the fermented tea drink, kombucha.  
+###### Some of my favorite foods are dim sum, boba, doughnuts, and waffles (not necessarily all in that order)!
 
 <div class="flex-container">
   <div class="flex-item">
@@ -19,7 +19,7 @@ I started being curious about my grandma’s kitchen endeavors at around 7 years
 
 I learned that there’s a story that accompanies every bite of food. Even if you live halfway across the world from someone, it’s very likely that you've shared similar food experiences. With cooking comes diverse stories, and living in America has allowed me to build bridges between various cultures through the wide variety of food experiences available here.
 
-###### [See some of the stories behind my favorite foods here.](/stories/favoritefoods){:class="nounderline"}
+[See some of the stories behind my favorite foods here.](/stories/favoritefoods){:class="nounderline"}
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 
@@ -27,6 +27,6 @@ I’ll be releasing interviews with food establishment owners, recipes for peopl
 
 My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taiwanese night markets or beignets in New Orleans.
 
-In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a spot spot in my heart (I always say, "be back soon" 💛), but I feel lucky to be adding O-Town and LA as new hubs of my blog.
+In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a special spot in my heart, but I feel lucky to be adding Orlando and LA as new hubs for my blog.
 
 *Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia (my sister, the one with the glasses in the picture above), but I'll include her food photography from time-to-time. Her food photos will always be credited!*
