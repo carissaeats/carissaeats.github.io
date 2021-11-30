@@ -9,6 +9,8 @@
         NYC Eats |
       {% elsif page.categories[0] == 'jerseyeats' %}
         Jersey Eats |
+      {% elsif page.categories[0] == 'jerseyeats' %}
+        Orlando Eats |
       {% elsif page.categories[0] == 'beyond' %}
         Beyond... |
       {% elsif page.categories[0] == 'recipes' %}
@@ -83,6 +85,8 @@
             NYC Eats
           {% elsif page.categories[0] == 'jerseyeats' %}
             Jersey Eats
+          {% elsif page.categories[0] == 'orlandoeats' %}
+            Orlando Eats  
           {% elsif page.categories[0] == 'beyond' %}
             Beyond...
           {% elsif page.categories[0] == 'recipes' %}
@@ -133,6 +137,8 @@
                     NYC Eats
                   {% elsif page.previous.categories[0] == 'jerseyeats' %}
                     Jersey Eats
+                  {% elsif page.next.categories[0] == 'orlandoeats' %}
+                    Orlando Eats
                   {% elsif page.previous.categories[0] == 'beyond' %}
                     Beyond...
                   {% elsif page.previous.categories[0] == 'recipes' %}
@@ -156,6 +162,8 @@
                     NYC Eats
                   {% elsif page.next.categories[0] == 'jerseyeats' %}
                     Jersey Eats
+                  {% elsif page.next.categories[0] == 'orlandoeats' %}
+                    Orlando Eats
                   {% elsif page.next.categories[0] == 'beyond' %}
                     Beyond...
                   {% elsif page.next.categories[0] == 'recipes' %}
@@ -172,8 +180,10 @@
       </div>
     </p>
     <footer>
-        &copy; 2021 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
-        <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>    
+      &copy; 2021 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
+      <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>
+      <a href="https://www.facebook.com/carissaeats" class="fa fa-facebook" target=“_blank”></a>
+      <a href="https://www.pinterest.com/carissaeats" class="fa fa-pinterest" target=“_blank”></a>
     </footer>
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/script.js"></script>
     {% if page.script %}

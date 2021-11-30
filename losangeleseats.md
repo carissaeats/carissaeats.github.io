@@ -14,7 +14,7 @@ I have no clue where the next few years will take me, but I do know what I want 
 1. Expanding my palate
 1. Discovering how different fusion cuisines came to be
 1. Connecting with small businesses
-1. Being able to empathize with a more diverse group of people
+1. Empathizing with more diverse groups of people
 
 Can't wait to see you soon, LA!
 

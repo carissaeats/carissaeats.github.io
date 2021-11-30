@@ -5,10 +5,8 @@ description: More than Disney World. When you go past the Disney areas, head to 
 ---
 Beyond the glitz and glam of Disney World, Orlando is home to a thriving Viet cuisine scene in the Mills 50 ("Little Vietnam"), frequent food truck festivals in Thornton Park, weekly farmers markets across the Orlando metro area, and many restaurants dedicated to beautiful fusion cuisines (did someone say [sweet plantain sushi](https://www.instagram.com/maguro.pr/){:class="nounderline" target="_blank"}?!)
 
-My dad always planned to move out of NJ after I graduated high school, and now that the time has come, Orlando is my new home! I quite like it here -- the sunshine, the food, the palm trees, the "perennial vacation" vibes. And with the start of my college plans being five-ish months away, I really have time to settle into this new home and city. It's amazing that I get to open 2 new chapters in Orlando and soon, [LA](/losangeleseats){:class="nounderline"}, after closing a bittersweet chapter in Jersey. 
+My dad always planned to move out of NJ after I graduated high school, and now that the time has come, Orlando is my new home! I quite like it here -- the sunshine, the food, the palm trees, the "perennial vacation" vibes. And with the start of my college plans being some time away, I really have time to settle into this new home and city. It's amazing that I get to open 2 new chapters in Orlando and soon, [LA](/losangeleseats){:class="nounderline"}, after closing a bittersweet chapter in Jersey. 
 
 20 million people visit Disney every year, but most visitors never see past the lifesize costumes and the nightly firework displays. And who can blame them (us? I feel like I'm stuck in between a visitor and a resident); why would you need to?! It's hard not to leave with a huge smile (and sore feet) after a day there. Disney and Orlando are practically synonymous with each other, but living here is teaching me to separate and appreciate the distinctiveness of the two. 
 
 So for those who are curious about life in Orlando or *are* interested in exploring past Disney, come back soon to see some of my favorite spots I've discovered so far!
-
-<img src="/assets/images/comingsoonvectorart.png" class="image">

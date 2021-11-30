@@ -15,7 +15,7 @@ Ever since discovering this spot a few years back, it has become a favorite of m
 
 The service is pretty uninvolved, yet the lively ambience, glass display of bakery items, simple wooden decor, and natural sunlight somehow make up for it. I've just barely scratched the surface of their extensive menu...but I've never left a meal from PF unsatisfied, so I'm ecstatic to share a few of the dishes I've enjoyed below.
 
-##### Belgian Waffles
+#### Belgian Waffles
 
 <div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/waffles.JPG" class="image">
@@ -23,7 +23,7 @@ The service is pretty uninvolved, yet the lively ambience, glass display of bake
 
 The portion for the price ($12.25) is a little small, nonetheless, this dish is fantastic. Waffles are great, but my favorite kind are liège-style, which are yeast-risen brioche waffles covered with pearl sugar bits. Liège waffles are so chewy, yet slightly crispy on the outside thanks to the pearl sugar studs. You can choose how you want your waffles to be topped - bananas + caramel sauce OR fresh berries + chocolate sauce. Shown above is the banana + caramel sauce combination, but they added blueberries anyways, probably due to excess. Their caramel sauce is SO INCREDIBLE!
 
-##### Croissant Oeufs Fromage
+#### Croissant Oeufs Fromage
 
 <div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/patisserie.jpg" class="image">
@@ -32,7 +32,7 @@ The portion for the price ($12.25) is a little small, nonetheless, this dish is 
 
 Toasted croissant slices, avocado puree, melted mozzarella, gravlax (cured salmon), all topped off with two sunny side up eggs! Think of it like an elevated avocado toast with lox's cousin, gravlax. The mozzarella cheese seems like an odd combo, with it being fish and cheese, but it all works so well together. One of the more underrated items at PF is the side salad that comes with many of the savory dishes. The dressing meshes so well with the mixed greens, and it makes for a great palate cleanser between bites.
 
-##### Omelette Royale
+#### Omelette Royale
 
 <div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/omelet.jpg" class="image">
@@ -41,7 +41,7 @@ Toasted croissant slices, avocado puree, melted mozzarella, gravlax (cured salmo
 
 It's not exactly a French rolled omelette, but it is folded vertically and stuffed with your choice of toppings. The omelette is accompanied by pommes florentine (roasted potatoes), that crispy Israeli side salad, and a brioche roll with marmalade and garlic butter. This dish is arguably the biggest bang for your buck - $11.75 for this omelette that can barely fit on the plate AND served with a generous portion of sides! Here's a tip: spread some of that garlic butter for the roll onto the potatoes & omelette!
 
-##### Briochette (French Toast)
+#### Briochette (French Toast)
 
 <div class="singleimagecontainer">
     <img src="/assets/images/jerseyeats/patisserie/frenchtoast.JPG" class="image">

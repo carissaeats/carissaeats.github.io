@@ -62,7 +62,7 @@ To finish off, I want to share some Thanksgiving recipes from my favorite food b
   * These rolls *do* have cream cheese frosting, but heck, this was too cool of a recipe not to share! [Molly Yeh](https://mynameisyeh.com){:class="nounderline" target="_blank"} is a Jewish-Chinese musician turned cookbook author and farm girl. I’m sure she’s still a musician at her core, but I admire her most as an awesome food blogger with tons of narratives to share! She certainly draws inspiration from her experiences in all different walks of life, whether it be the city AND farm girl in her or her multiracial background.
 
 <div class="singleimagecontainer">
-    <img src="/assets/images/stories/thanksgiving/bmbcheesecake3.jpg" class="image">
+    <img src="/assets/images/stories/thanksgiving/bmbcheesecake.jpg" class="image">
 </div>
 
 I'm also enjoying this Cranberry and Goat Cheese Cheesecake from [Black Magic Bakehouse](https://mynameisyeh.com/mynameisyeh/2018/8/overnight-cinnamon-rolls-with-tahini-cream-frosting){:class="nounderline" target="_blank"}. I may do a future post for it!
