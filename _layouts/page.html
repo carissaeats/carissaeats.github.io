@@ -87,7 +87,8 @@
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 <div class="excerpt">
                   <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
-                  {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+                  <!-- {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }} -->
+                  {{ post.description }}
                 </div>
               </div>
             </div>
