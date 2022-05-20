@@ -15,7 +15,7 @@ title: HOME
   </div>
   <div class="flex-item-home">
     <a href="/orlandoeats" class="nounderline">
-      <img src="/assets/images/vectorart/tofusisigvectorart.svg" class="image">
+      <img src="/assets/images/vectorart/uncledendogsvectorart.svg" class="image">
     </a>
   </div>
   <div class="flex-item-home">

@@ -2,7 +2,7 @@
 layout: post
 title: "Patisserie Florentine"
 categories: jerseyeats
-description: Patisserie Florentine serves up one heck of a brunch, so here's some of my recommendations!
+description: Patisserie Florentine serves up French-inspired breakfast/brunch classics, baked goods, and freshly-brewed coffee drinks. As someone who frequented this brunch hot-spot for many years, here's a round-up of my favorite dishes there!
 image: /assets/images/jerseyeats/patisserie/frenchtoastcrop.jpg
 ---
 <div class="singleimagecontainer">

@@ -2,16 +2,16 @@
 layout: post
 title: About Me
 ---
-Hey! My name is Carissa Liu (She/Her), a Jersey girl who's now calling Orlando her new home. Welcome to my food, travel, and personal blog!
+Hey! My name is Carissa Liu (She/Her), a Jersey girl who's now calling Los Angeles and Orlando her new homes. Welcome to my food, travel, and personal blog!
 
-###### I love dim sum, boba, doughnuts, fried seafood, salad, Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, and waffles (not necessarily all in that order) 😋
+###### I love dim sum, boba, doughnuts, fried seafood, salads, Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, and waffles (not necessarily all in that order) 😋
 
 <div class="flex-container">
   <div class="flex-item">
       <img src="/assets/images/portraits/carissa-portrait.JPG" class="image">
   </div>
   <div class="flex-item">
-      <img src="/assets/images/portraits/dole-whip-portrait.JPG" class="image">
+      <img src="/assets/images/portraits/carissa-waffle.JPG" class="image">
   </div>
 </div>
 
@@ -27,6 +27,6 @@ I’ll be releasing interviews with food establishment owners, recipes for peopl
 
 My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taipei night markets or beignets in New Orleans.
 
-In just a few months, I'll be heading out to [Los Angeles](/losangeleseats){:class="nounderline"} for college. Jersey will forever have a special spot in my heart, but I feel lucky to be adding Orlando and LA as new hubs for my blog.
+Jersey will forever hold a special spot in my heart, but getting to explore the culinary scenes of two new and magical cities is something I'm incredibly excited about.
 
-*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are taken by Antonia (my sister, the one with the glasses in the picture above), but I'll include her food photography from time-to-time. Her food photos will always be credited!*
+*Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are mostly taken by my sister, Antonia, but I'll include her food photography from time-to-time. Her food photos will always be credited!*

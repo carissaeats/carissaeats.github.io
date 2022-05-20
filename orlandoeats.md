@@ -10,3 +10,5 @@ My dad always planned to move out of NJ after I graduated high school, and now t
 20 million people visit Disney every year, but most visitors never see past the lifesize costumes and the nightly firework displays. And who can blame them (us? I feel like I'm both a visitor and a resident!); why would you need to?! It's hard not to leave with a huge smile (and sore feet) after a day there. Disney and Orlando are practically synonymous with each other, but living here is teaching me to separate and appreciate the distinctiveness of the two. 
 
 So for those who are curious about life in Orlando or *are* interested in exploring past Disney, come back soon to see some of my favorite spots I've discovered so far!
+
+<img src="/assets/images/comingsoonvectorart.png" class="image">
