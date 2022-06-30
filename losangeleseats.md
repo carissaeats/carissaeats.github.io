@@ -18,4 +18,5 @@ I have no clue where the next few years will take me, but I do know what I want 
 
 Come back soon to catch some of my fun adventures over the last few months 😊 I love you, LA!
 
-<img src="/assets/images/comingsoonvectorart.png" class="image">
+<br>
+<img src="/assets/images/laeats/prdmacaubun.svg" class="image">

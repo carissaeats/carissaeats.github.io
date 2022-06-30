@@ -21,42 +21,42 @@
     <div class="flex-container">
       <div class="flex-item-nav">
         <a href="/jerseyeats" class="nounderline">
-          <img src="/assets/images/vectorart/tsukemenvectorart.svg" class="image">
+          <img src="/assets/images/vectorart/njvectorart.svg" class="image">
         </a>
       </div>
       <div class="flex-item-nav">
         <a href="/nyceats" class="nounderline">
-          <img src="/assets/images/vectorart/kayavectorart.svg" class="image">
+          <img src="/assets/images/vectorart/nycvectorart.svg" class="image">
         </a>
       </div>
       <div class="flex-item-nav">
         <a href="/orlandoeats" class="nounderline">
-          <img src="/assets/images/vectorart/uncledendogsvectorart.svg" class="image">
+          <img src="/assets/images/vectorart/orlandovectorart.svg" class="image">
+        </a>
+      </div>
+      <div class="flex-item-nav">
+        <a href="/beyond" class="nounderline">
+          <img src="/assets/images/vectorart/beyondvectorart.svg" class="image">
         </a>
       </div>
       <div class="flex-item-nav">
         <a href="/losangeleseats" class="nounderline">
-          <img src="/assets/images/vectorart/okonomiyakivectorart.svg" class="image">
+          <img src="/assets/images/vectorart/lavectorart.svg" class="image">
         </a>  
       </div>
       <div class="flex-item-nav">
-        <a href="/beyond" class="nounderline">
-          <img src="/assets/images/vectorart/friedmilkvectorart.svg" class="image">
-        </a>
-      </div>
-      <div class="flex-item-nav">
         <a href="/stories" class="nounderline">
-          <img src="/assets/images/vectorart/favoritesweetsvectorart.svg" class="image">
+          <img src="/assets/images/vectorart/storiesvectorart.svg" class="image">
         </a>
       </div>      
       <div class="flex-item-nav">
         <a href="/recipes" class="nounderline">
-          <img src="/assets/images/vectorart/dumplingsvectorart.svg" class="image">
+          <img src="/assets/images/vectorart/recipesvectorart.svg" class="image">
         </a>
       </div>
       <div class="flex-item-nav">
         <a href="/aboutme" class="nounderline">
-          <img src="/assets/images/vectorart/pekingduckvectorart.svg" class="image">
+          <img src="/assets/images/vectorart/aboutmevectorart.svg" class="image">
         </a>
       </div>
     </div>
@@ -69,35 +69,30 @@
       {%- if site.posts.size > 0 -%}
         {%- for post in site.categories[category] -%}
           {% assign content = post.content | strip_newlines %}
-          <h2 style="display:inline;">
-            <a class="nounderline" href="{{ post.url | relative_url }}">                     
-              {{ post.title | escape }}
-            </a>
-          </h2>
-          <p>
-            <div class="flex-container">
-              <div class="flex-item">
-                <a href="{{ post.url | relative_url }}">
-                  <img src="{{ post.image }}" class="image">
-                </a>
-              </div>
-              <div class="flex-item">
-                {%- assign overlay = post.overlay -%}
-                {%- assign overlay2 = post.overlay2 -%}
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <div class="excerpt">
-                  <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
-                  {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
-                </div>
-              </div>
-            </div>
-          </p>
-          <br>
+          <div class="page">
+            <h2>
+              <a class="nounderline" href="{{ post.url | relative_url }}">                     
+                {{ post.title | escape }}
+              </a>
+            </h2>
+            <p>
+              <a href="{{ post.url | relative_url }}">
+                <img src="{{ post.image }}" class="image">
+              </a>
+              <br>
+              {%- assign overlay = post.overlay -%}
+              {%- assign overlay2 = post.overlay2 -%}
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
+                {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+            </p>
+          </div>
         {%- endfor -%}
       {%- endif -%}
     </div>
+    <br>
     <footer>
-        &copy; 2021 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
+        &copy; 2022 by <a href="https://www.instagram.com/carissaeats/" class="nounderline" target=“_blank”>@CarissaEats</a>
         <a href="https://www.instagram.com/carissaeats/" class="fa fa-instagram" target=“_blank”></a>
         <a href="https://www.facebook.com/carissaeats" class="fa fa-facebook" target=“_blank”></a>
         <a href="https://www.pinterest.com/carissaeats" class="fa fa-pinterest" target=“_blank”></a>

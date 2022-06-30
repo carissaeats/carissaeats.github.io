@@ -4,7 +4,7 @@ title: About Me
 ---
 Hey! My name is Carissa Liu (She/Her), a Jersey girl who's now calling Los Angeles and Orlando her new homes. Welcome to my food, travel, and personal blog!
 
-###### I love dim sum, boba, doughnuts, fried seafood, salads, Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, and waffles (not necessarily all in that order) 😋
+###### I love dim sum, boba, doughnuts, fried seafood, bagel sandwiches, salads, Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, and waffles (not necessarily all in that order) 😋
 
 <div class="flex-container">
   <div class="flex-item">
@@ -23,7 +23,7 @@ I learned that there’s a story that accompanies every bite of food. Even if yo
 
 Food is one thing that can be transported from country to country, and because my grandma was able to bring her cooking from China, I have been able to enjoy her cooking and learn more about my own heritage by living with her.
 
-I’ll be releasing interviews with food establishment owners, recipes for people of all skill levels to follow, stories attached to my favorite eats, and even foodie T.V. moments. My writing is super informal, so I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to casually enjoy food alongside me. To have healthy food on the table, let alone a positive relationship with food, is a privilege, and I do (and will) not take that for granted.
+I’ll be releasing interviews with food establishment owners, recipes for people of all skill levels to follow, stories attached to my favorite eats, and even foodie TV moments. My writing is super informal, so I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to casually enjoy food alongside me. To have healthy food on the table, let alone a positive relationship with food, is a privilege, and I do (and will) not take that for granted.
 
 My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taipei night markets or beignets in New Orleans.
 
