@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
     <title>{{ page.title }} |
-      {% elsif page.categories[0] == 'jerseyeats' %}
+      {% if page.categories[0] == 'jerseyeats' %}
         Jersey Eats |
-      {% if page.categories[0] == 'nyceats' %}
+      {% elsif page.categories[0] == 'nyceats' %}
         NYC Eats |
       {% elsif page.categories[0] == 'losangeleseats' %}
         LA Eats |  
