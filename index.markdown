@@ -14,15 +14,15 @@ title: HOME
     </a>
   </div>
   <div class="flex-item-home">
-    <a href="/orlandoeats" class="nounderline">
-      <img src="/assets/images/vectorart/orlandovectorart.svg" class="image">
-    </a>
-  </div>
-  <div class="flex-item-home">
     <a href="/losangeleseats" class="nounderline">
       <img src="/assets/images/vectorart/lavectorart.svg" class="image">
     </a>  
   </div>  
+  <div class="flex-item-home">
+    <a href="/orlandoeats" class="nounderline">
+      <img src="/assets/images/vectorart/orlandovectorart.svg" class="image">
+    </a>
+  </div>
   <div class="flex-item-home">
     <a href="/beyond" class="nounderline">
       <img src="/assets/images/vectorart/beyondvectorart.svg" class="image">

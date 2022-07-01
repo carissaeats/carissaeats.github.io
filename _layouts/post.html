@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
     <title>{{ page.title }} |
-      {% if page.categories[0] == 'nyceats' %}
-        NYC Eats |
       {% elsif page.categories[0] == 'jerseyeats' %}
         Jersey Eats |
-      {% elsif page.categories[0] == 'jerseyeats' %}
+      {% if page.categories[0] == 'nyceats' %}
+        NYC Eats |
+      {% elsif page.categories[0] == 'losangeleseats' %}
+        LA Eats |  
+      {% elsif page.categories[0] == 'orlandoeats' %}
         Orlando Eats |
       {% elsif page.categories[0] == 'beyond' %}
         Beyond... |
@@ -44,14 +46,14 @@
         </a>
       </div>
       <div class="flex-item-nav">
-        <a href="/orlandoeats" class="nounderline">
-          <img src="/assets/images/vectorart/orlandovectorart.svg" class="image">
-        </a>
-      </div>
-      <div class="flex-item-nav">
         <a href="/losangeleseats" class="nounderline">
           <img src="/assets/images/vectorart/lavectorart.svg" class="image">
         </a>  
+      </div>
+      <div class="flex-item-nav">
+        <a href="/orlandoeats" class="nounderline">
+          <img src="/assets/images/vectorart/orlandovectorart.svg" class="image">
+        </a>
       </div>
       <div class="flex-item-nav">
         <a href="/beyond" class="nounderline">
@@ -86,7 +88,9 @@
           {% elsif page.categories[0] == 'jerseyeats' %}
             Jersey Eats
           {% elsif page.categories[0] == 'orlandoeats' %}
-            Orlando Eats  
+            Orlando Eats 
+          {% elsif page.categories[0] == 'losangeleseats' %}
+            LA Eats  
           {% elsif page.categories[0] == 'beyond' %}
             Beyond...
           {% elsif page.categories[0] == 'recipes' %}
@@ -137,8 +141,10 @@
                     NYC Eats
                   {% elsif page.previous.categories[0] == 'jerseyeats' %}
                     Jersey Eats
-                  {% elsif page.next.categories[0] == 'orlandoeats' %}
+                  {% elsif page.previous.categories[0] == 'orlandoeats' %}
                     Orlando Eats
+                  {% elsif page.previous.categories[0] == 'losangeleseats' %}
+                    LA Eats
                   {% elsif page.previous.categories[0] == 'beyond' %}
                     Beyond...
                   {% elsif page.previous.categories[0] == 'recipes' %}
@@ -164,6 +170,8 @@
                     Jersey Eats
                   {% elsif page.next.categories[0] == 'orlandoeats' %}
                     Orlando Eats
+                  {% elsif page.next.categories[0] == 'losangeleseats' %}
+                    LA Eats
                   {% elsif page.next.categories[0] == 'beyond' %}
                     Beyond...
                   {% elsif page.next.categories[0] == 'recipes' %}
