@@ -6,21 +6,21 @@
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160 }}{% endif %}" />
     <title>{{ page.title }} |
       {% if page.categories[0] == 'jerseyeats' %}
-        Jersey Eats |
+        Jersey Eats
       {% elsif page.categories[0] == 'nyceats' %}
-        NYC Eats |
+        NYC Eats
       {% elsif page.categories[0] == 'losangeleseats' %}
-        LA Eats |  
+        LA Eats
       {% elsif page.categories[0] == 'orlandoeats' %}
-        Orlando Eats |
+        Orlando Eats
       {% elsif page.categories[0] == 'beyond' %}
-        Beyond... |
+        Beyond...
       {% elsif page.categories[0] == 'recipes' %}
-        Recipes |
+        Recipes
       {% elsif page.categories[0] == 'stories' %}
-        Stories |
+        Stories
       {%- endif -%}
-      &nbsp;@CarissaEats
+      | @CarissaEats
     </title>
     <link rel="stylesheet" href="{{site.baseurl}}/assets/main.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
@@ -88,9 +88,9 @@
           {% elsif page.categories[0] == 'jerseyeats' %}
             Jersey Eats
           {% elsif page.categories[0] == 'orlandoeats' %}
-            Orlando Eats 
+            Orlando Eats
           {% elsif page.categories[0] == 'losangeleseats' %}
-            LA Eats  
+            LA Eats
           {% elsif page.categories[0] == 'beyond' %}
             Beyond...
           {% elsif page.categories[0] == 'recipes' %}
