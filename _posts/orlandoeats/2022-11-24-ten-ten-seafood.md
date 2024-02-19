@@ -30,7 +30,7 @@ Let's get to it!
 #### Har Cheung Fun 虾肠粉
 
 <div class="singleimagecontainer">
-    <img class="image" src="/assets/images/orlandoeats/ten-ten/cheung-fun.jpg">
+  <img class="image" src="/assets/images/orlandoeats/ten-ten/cheung-fun.jpg">
 </div>
 
 It's so simple, but it will always be a favorite. This har cheung fun, or shrimp rice noodle roll, is one of the most popular dim sum dishes, and for a good reason. Rice noodle rolls can be filled with anything, whether it's beef, char siu, or *youtiao* (Chinese donut). Plus, once they're topped with the sweet soy sauce, it's hard to beat the simple, yet perfect match of rice rolls and sweet soy sauce. Regular soy sauce won't do, yet to this day, I still don't know exactly what kind of soy sauce dim sum restaurants use. 
@@ -40,18 +40,18 @@ Ten Ten's rice noodle rolls are well-executed, as the batter is always well-mixe
 #### Bean Curd Rolls 腐皮卷
 
 <div class="singleimagecontainer">
-    <img class="image" src="/assets/images/orlandoeats/ten-ten/bean-curd-rolls.jpeg">
+  <img class="image" src="/assets/images/orlandoeats/ten-ten/bean-curd-rolls.jpeg">
 </div>
 
-These tofu skin rolls have mixed reviews in the Liu family. Personally, these weren't always my favorite, but my sister loves them. However, I now really like these too. These are deep-fried, which puffs up/activates some layers and gives it the flavor of fried food. However, they are then steamed, which makes these rolls soft and slightly chewy.
+Tofu skin rolls have mixed reviews in the Liu family. Personally, these weren't always my favorite, but my sister loves them. However, I now also really like this dish now. The tofu skin rolls are deep-fried, which puffs up/activates some layers and gives it the flavor of fried food. However, they are then steamed, which makes these rolls soft and slightly chewy.
 
 #### Cantonese-style Seafood
 
 <div class="singleimagecontainer">
-    <img class="image" src="/assets/images/orlandoeats/ten-ten/ten-ten-seafood-plates.jpeg">
-    <div class="singleimageoverlay">
-        Front: Bei Fung Tong Seafood; Back: Ginger Scallion Lobster
-    </div>
+  <img class="image" src="/assets/images/orlandoeats/ten-ten/ten-ten-seafood-plates.jpeg">
+  <div class="singleimageoverlay">
+      Front: Bei Fung Tong Seafood; Back: Ginger Scallion Lobster
+  </div>
 </div>
 
 When I say there's no other preparations of seafood I love more than these two, I mean it!
