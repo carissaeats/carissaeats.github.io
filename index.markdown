@@ -34,10 +34,10 @@ title: HOME
     </a>
   </div>
   <div class="flex-item-home">
-    <a href="/aboutme" class="nounderline">
+    <a href="/recipes" class="nounderline">
       <img src="/assets/images/vectorart/recipesvectorart.svg" class="image">
     </a>
-  </div>  
+  </div>
   <div class="flex-item-home">
     <a href="/aboutme" class="nounderline">
       <img src="/assets/images/vectorart/aboutmevectorart.svg" class="image">
