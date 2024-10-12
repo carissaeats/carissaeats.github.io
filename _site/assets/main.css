@@ -7,7 +7,7 @@
         text-align: center;
         font-family: "Libre Baskerville", serif;
         margin: 1.5% 3% 3% 3%;
-        font-size: 110%;
+        font-size: 21px;
         color: #000;
     }
     h1,
@@ -22,14 +22,14 @@
         font-size: 250%;
     }
     h2 {
-        font-size: 225%;
+        font-size: 235%;
     }
     h3 {
         color: #191970;
-        font-size: 200%;
+        font-size: 220%;
     }
     h4 {
-        font-size: 160%;
+        font-size: 180%;
     }
     h5 {
         font-size: 140%;
@@ -220,8 +220,6 @@
     .excerpt {
         font-size: 80%;
     }
-}
-@media only screen and (max-width: 900px) {
     .singleimagecontainer {
         width: 100%;
     }
@@ -251,6 +249,7 @@
         padding: 0%;
     }
 }
+
 @media only screen and (max-width: 800px) {
     h1 {
         font-size: 7vw;

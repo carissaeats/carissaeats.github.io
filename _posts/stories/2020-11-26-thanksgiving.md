@@ -58,13 +58,13 @@ To finish off, I want to share some Thanksgiving recipes from my favorite food b
 	* [Half Baked Harvest](https://www.halfbakedharvest.com/){:class="nounderline" target="_blank"} *feels* exactly the way it should sound. It’s warm, comforting, and feels like home. 
 1. [Sweet Potato Pie Dutch Baby](https://www.halfbakedharvest.com/sweet-potato-pie-dutch-baby/){:class="nounderline" target="_blank"}
   * Another [Half Baked Harvest](https://www.halfbakedharvest.com/){:class="nounderline" target="_blank"} one. A homey pie favorite turned into a pancake - can’t get better than that.
-1. [Cinnamon Rolls with Tahini Cream Frosting and Pistachio Rose Dukkah](https://mynameisyeh.com/mynameisyeh/2018/8/overnight-cinnamon-rolls-with-tahini-cream-frosting){:class="nounderline" target="_blank"} 
+1. [Cinnamon Rolls with Tahini Cream Frosting and Pistachio Rose Dukkah](https://mynameisyeh.com/blog/2018/8/overnight-cinnamon-rolls-with-tahini-cream-frosting){:class="nounderline" target="_blank"} 
   * These rolls *do* have cream cheese frosting, but heck, this was too cool of a recipe not to share! [Molly Yeh](https://mynameisyeh.com){:class="nounderline" target="_blank"} is a Jewish-Chinese musician turned cookbook author and farm girl. I’m sure she’s still a musician at her core, but I admire her most as an awesome food blogger with tons of narratives to share! She certainly draws inspiration from her experiences in all different walks of life, whether it be the city AND farm girl in her or her multiracial background.
 
 <div class="singleimagecontainer">
     <img src="/assets/images/stories/thanksgiving/bmbcheesecake.jpg" class="image">
 </div>
 
-I'm also enjoying this Cranberry and Goat Cheese Cheesecake from [Black Magic Bakehouse](https://mynameisyeh.com/mynameisyeh/2018/8/overnight-cinnamon-rolls-with-tahini-cream-frosting){:class="nounderline" target="_blank"}. I may do a future post for it!
+I'm also enjoying this Cranberry and Goat Cheese Cheesecake from [Black Magic Bakehouse](https://www.blackmagicbakehouse.com/){:class="nounderline" target="_blank"}. I may do a future post for it!
 
 ENJOY YOUR TURKEY DAY Y’ALL! 🦃 (turkey isn’t on everyone’s table, but the point isn’t any different 🥔) Stay safe, and I’m sending all my positivity your way!!!

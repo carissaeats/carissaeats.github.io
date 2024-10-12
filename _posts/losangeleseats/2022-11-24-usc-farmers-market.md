@@ -2,7 +2,7 @@
 layout: post
 title: Trojan Farmers Market
 categories: losangeleseats
-description: Ten Ten Seafood and Grill is a Cantonese restaurant in the Golden Sparkling Plaza. They make incredible egg tarts and serve great dim sum and seafood. 
+description: Trojan Farmers Market brings together local vendors serving up fresh produce, hot dishes cooked to order, and even jewelry.
 image: /assets/images/laeats/trojan-farmers-market/scallop-dynamite-1.jpg
 overlay: Scallop Dynamite
 ---
