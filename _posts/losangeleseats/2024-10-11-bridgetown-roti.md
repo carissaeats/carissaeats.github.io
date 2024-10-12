@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridgetown Roti
+title: A Love Letter to Bridgetown Roti
 categories: losangeleseats
 description: Bridgetown Roti is a meal that feels made just for you, yet will appeal so far to the masses!
 image: /assets/images/laeats/bridgetownroti/bridgetown-roti-spread-2.jpeg
