@@ -25,8 +25,6 @@ Food is one thing that can be transported from country to country, and because m
 
 I’ll be releasing interviews with food establishment owners, recipes for people of all skill levels to follow, stories attached to my favorite eats, and even foodie TV moments. My writing is super informal, so I hope [@CarissaEats]({{site.url}}){:class="nounderline"} allows my viewers to casually enjoy food alongside me. To have healthy food on the table, let alone a positive relationship with food, is a privilege, and I do, and will, not take that for granted.
 
-My **[beyond page](/beyond){:class="nounderline"}** will share some destinations I’ve been blessed to explore (with food as the highlight), whether it's eating fried quail eggs in Taipei night markets or beignets in New Orleans.
-
-Jersey will forever hold a special spot in my heart, but getting to explore the culinary scenes of two new and magical cities is something I'm incredibly excited about.
+Jersey will forever hold a special spot in my heart, but getting to explore the culinary scenes of two new cities and to meet new food enthusiasts is something I'm incredibly excited about.
 
 *Photos on this blog are taken by me. Please do not repost my photos without my permission. My portraits are mostly taken by my sister, Antonia, but I'll include her food photography from time-to-time. Her food photos will always be credited!*
