@@ -123,3 +123,5 @@ If you remember back to Bridgetown Roti’s values, joy stood at number one. Joy
 </div>
 
 This was the loveliest letter to enjoy, Rashida. Thank you, and I hope my letter *to you* shows how special you are to this one college student. From Carissa to Bridgetown Roti, much love!
+
+###### This piece was written for my food studies writing class.

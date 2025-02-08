@@ -1,6 +1,6 @@
 ---
 layout: home
-title: HOME
+title: "HOME"
 ---
 <div class="flex-container">
   <div class="flex-item-home">

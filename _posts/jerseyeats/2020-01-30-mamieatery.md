@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "I'm Gonna Stand Banh YOU!"
-directorytitle: "Ma Mì Eatery"
+title: "Ma Mì Eatery"
 categories: jerseyeats
-description: I'm gonna stand "banh" you! Ma Mì Eatery puts a fire spin on some of your favorite South East Asian dishes. See my favorites...
+description: I'm gonna stand "banh" you! Ma Mì Eatery puts a fire spin on some of your favorite Southeast Asian dishes. See my favorites...
 image: /assets/images/jerseyeats/mami/mamicrop.jpg
 ---
 <div class="singleimagecontainer">
