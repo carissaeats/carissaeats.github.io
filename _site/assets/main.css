@@ -1,1 +1,334 @@
-@media only screen and (max-width:100000px){html{scroll-behavior:smooth}body{background-color:#d1f3c5;text-align:center;font-family:"Libre Baskerville",serif;margin:1.5% 3% 3% 3%;font-size:21px;color:#000}h1,h2,h3,h4,h5{font-family:futura-pt,sans-serif;font-weight:550}h1{font-size:250%}h2{font-size:235%}h3{color:#191970;font-size:220%}h4{font-size:180%}h5{font-size:140%}h6{font-size:70%}.directory{font-family:futura-pt,sans-serif;font-weight:700;color:#745cf3;text-align:left}.nounderline{color:#82d1fb}footer{background-color:#36454f;color:#fff;padding:2%}.blogposts_aboutme{text-align:left;padding:0 5%}.image{display:block;width:100%;height:auto}.flex-container{display:flex;flex-wrap:wrap}.flex-item,.flex-item-3,.flex-item-home,.flex-item-nav{padding:.25%}.flex-item{flex:33%}.flex-item-3{flex:25%}.flex-item-home{flex:20%}.flex-item-nav{flex:11%}.flexoverlay{flex-wrap:wrap;background:rgb(0 0 0 / .2);color:#fff;font-size:100%;font-family:Spartan,sans-serif;font-weight:700;padding:2.5%;text-align:center}.page{padding-left:10%;padding-right:10%}.singleimagecontainer{position:relative;width:50%;margin-left:0;text-align:center}.singleimageoverlay{position:absolute;bottom:0;background:rgb(0 0 0 / .5);width:95%;transition:0.5s ease;opacity:0;color:#fff;font-size:80%;font-family:Spartan,sans-serif;font-weight:700;padding:2.5%;text-align:center;margin:0 auto}.singleimagecontainer:hover .singleimageoverlay{opacity:1}.fa{padding:.5vw;width:18px;text-align:center;border-radius:50%;color:#fff}.fa:hover{opacity:.7}.fa-instagram{background:#c13584}.fa-facebook{background-color:#125688}.fa-pinterest{background-color:#e60023}.showmorephotosbutton{font-family:Spartan,sans-serif;font-weight:700;font-size:90%;color:#fff;padding:2%;background:0;border:solid;cursor:pointer}#myBtn{position:fixed;bottom:50px;right:20px;z-index:99;font-size:100%;border:none;background-color:navy;color:#fff;cursor:pointer;border-radius:50%;width:50px;height:50px;text-align:center}#myBtn:hover{background-color:#555}.post-nav{display:flex;font-size:90%}.post-nav div{flex:1 1 0%}.post-nav-next{text-align:right}.bottomnav{font-style:italic;font-size:60%}.excerpt{padding-left:2.5%;font-size:100%}a:link{text-decoration:none}.lt{color:#000;padding:1%}.animated{animation-duration:2.5s;animation-fill-mode:both;animation-iteration-count:10}@keyframes bounce{0%,100%,20%,50%,80%{transform:translateY(0)}40%{transform:translateY(-30px)}60%{transform:translateY(-15px)}}.bounce{animation-name:bounce}}@media only screen and (max-width:1100px){.excerpt{font-size:80%}.singleimagecontainer{width:100%}.singleimageoverlay{opacity:1;font-size:75%}.excerpt{font-size:75%}.post-meta{font-size:2vw}.flex-item,.flex-item-3{flex:100%;padding-bottom:2%}.flex-item-home{flex:100%;padding:3% 5%}.flex-item-nav{flex:20%}.page{padding:0%}}@media only screen and (max-width:800px){h1{font-size:7vw}h2{font-size:6vw}h3{font-size:5vw}h4{font-size:4vw}h5{font-size:3vw}.blogposts_aboutme{font-size:70%}.excerpt{padding:2.5% 0 0 0;font-size:120%}}@media only screen and (max-width:700px){#myBtn{font-size:90%;width:40px;height:40px;right:10px}.directory{font-size:3vw}.post-nav{font-size:65%}.bottomnav{font-size:45%}}@media only screen and (max-width:500px){.blogposts_aboutme{font-size:60%}}@media only screen and (max-width:477px){footer{font-size:70%}#myBtn{font-size:70%;width:30px;height:30px}}@media only screen and (max-width:390px){.singleimageoverlay{font-size:45%}footer{font-size:50%}}@media only screen and (max-width:333px){footer{font-size:50%}}
+@media only screen and (max-width:100000px) {
+    html {
+        scroll-behavior: smooth
+    }
+    body {
+        background-color: #d1f3c5;
+        text-align: center;
+        font-family: "Libre Baskerville", serif;
+        margin: 1.5% 3% 3% 3%;
+        font-size: 21px;
+        color: #000
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+        font-family: futura-pt, sans-serif;
+        font-weight: 550
+    }
+    h1 {
+        font-size: 250%
+    }
+    h2 {
+        font-size: 235%
+    }
+    h3 {
+        color: #191970;
+        font-size: 220%
+    }
+    h4 {
+        font-size: 180%
+    }
+    h5 {
+        font-size: 140%
+    }
+    h6 {
+        font-size: 70%
+    }
+    .directory {
+        font-family: futura-pt, sans-serif;
+        font-weight: 700;
+        color: #745cf3;
+        text-align: left
+    }
+    .nounderline {
+        color: #82d1fb
+    }
+    footer {
+        background-color: #36454f;
+        color: #fff;
+        padding: 2%
+    }
+    .blogposts_aboutme {
+        text-align: left;
+        padding: 0 5%
+    }
+    .image {
+        display: block;
+        width: 100%;
+        height: auto
+    }
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap
+    }
+    .flex-item,
+    .flex-item-3,
+    .flex-item-home,
+    .flex-item-nav {
+        padding: .25%
+    }
+    .text-photo {
+        padding: 1% 2% 1% 0%
+    }
+    .flex-item {
+        flex: 33%
+    }
+    .flex-item-3 {
+        flex: 25%
+    }
+    .flex-item-home {
+        flex: 20%
+    }
+    .flex-item-nav {
+        flex: 11%
+    }
+    .flexoverlay {
+        flex-wrap: wrap;
+        background: rgb(0 0 0 / .2);
+        color: #fff;
+        font-size: 100%;
+        font-family: Spartan, sans-serif;
+        font-weight: 700;
+        padding: 2.5%;
+        text-align: center
+    }
+    .page {
+        padding-left: 10%;
+        padding-right: 10%
+    }
+    .singleimagecontainer {
+        position: relative;
+        width: 50%;
+        margin-left: 0;
+        text-align: center
+    }
+    .singleimageoverlay {
+        position: absolute;
+        bottom: 0;
+        background: rgb(0 0 0 / .5);
+        width: 95%;
+        transition: 0.5s ease;
+        opacity: 0;
+        color: #fff;
+        font-size: 80%;
+        font-family: Spartan, sans-serif;
+        font-weight: 700;
+        padding: 2.5%;
+        text-align: center;
+        margin: 0 auto
+    }
+    .singleimagecontainer:hover .singleimageoverlay {
+        opacity: 1
+    }
+    .fa {
+        padding: .5vw;
+        width: 18px;
+        text-align: center;
+        border-radius: 50%;
+        color: #fff
+    }
+    .fa:hover {
+        opacity: .7
+    }
+    .fa-instagram {
+        background: #c13584
+    }
+    .fa-facebook {
+        background-color: #125688
+    }
+    .fa-pinterest {
+        background-color: #e60023
+    }
+    .showmorephotosbutton {
+        font-family: Spartan, sans-serif;
+        font-weight: 700;
+        font-size: 90%;
+        color: #fff;
+        padding: 2%;
+        background: 0;
+        border: solid;
+        cursor: pointer
+    }
+    #myBtn {
+        position: fixed;
+        bottom: 50px;
+        right: 20px;
+        z-index: 99;
+        font-size: 100%;
+        border: none;
+        background-color: navy;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        text-align: center
+    }
+    #myBtn:hover {
+        background-color: #555
+    }
+    .post-nav {
+        display: flex;
+        font-size: 90%
+    }
+    .post-nav div {
+        flex: 1 1 0%
+    }
+    .post-nav-next {
+        text-align: right
+    }
+    .bottomnav {
+        font-style: italic;
+        font-size: 60%
+    }
+    .excerpt {
+        padding-left: 2.5%;
+        font-size: 100%
+    }
+    a:link {
+        text-decoration: none
+    }
+    .lt {
+        color: #000;
+        padding: 1%
+    }
+    .animated {
+        animation-duration: 2.5s;
+        animation-fill-mode: both;
+        animation-iteration-count: 10
+    }
+    @keyframes bounce {
+        0%,
+        100%,
+        20%,
+        50%,
+        80% {
+            transform: translateY(0)
+        }
+        40% {
+            transform: translateY(-30px)
+        }
+        60% {
+            transform: translateY(-15px)
+        }
+    }
+    .bounce {
+        animation-name: bounce
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    .excerpt {
+        font-size: 80%
+    }
+    .singleimagecontainer {
+        width: 100%
+    }
+    .singleimageoverlay {
+        opacity: 1;
+        font-size: 75%
+    }
+    .excerpt {
+        font-size: 75%
+    }
+    .post-meta {
+        font-size: 2vw
+    }
+    .text-photo {
+        padding: 0%;
+    }
+    .flex-item,
+    .flex-item-3,
+    .text-photo {
+        flex: 100%;
+        padding-bottom: 2%
+    }
+    .flex-item-home {
+        flex: 100%;
+        padding: 3% 5%
+    }
+    .flex-item-nav {
+        flex: 20%
+    }
+    .page {
+        padding: 0%
+    }
+}
+
+@media only screen and (max-width:800px) {
+    h1 {
+        font-size: 7vw
+    }
+    h2 {
+        font-size: 6vw
+    }
+    h3 {
+        font-size: 5vw
+    }
+    h4 {
+        font-size: 4vw
+    }
+    h5 {
+        font-size: 3vw
+    }
+    .blogposts_aboutme {
+        font-size: 70%
+    }
+    .excerpt {
+        padding: 2.5% 0 0 0;
+        font-size: 120%
+    }
+}
+
+@media only screen and (max-width:700px) {
+    #myBtn {
+        font-size: 90%;
+        width: 40px;
+        height: 40px;
+        right: 10px
+    }
+    .directory {
+        font-size: 3vw
+    }
+    .post-nav {
+        font-size: 65%
+    }
+    .bottomnav {
+        font-size: 45%
+    }
+}
+
+@media only screen and (max-width:500px) {
+    .blogposts_aboutme {
+        font-size: 60%
+    }
+}
+
+@media only screen and (max-width:477px) {
+    footer {
+        font-size: 70%
+    }
+    #myBtn {
+        font-size: 70%;
+        width: 30px;
+        height: 30px
+    }
+}
+
+@media only screen and (max-width:390px) {
+    .singleimageoverlay {
+        font-size: 45%
+    }
+    footer {
+        font-size: 50%
+    }
+}
+
+@media only screen and (max-width:333px) {
+    footer {
+        font-size: 50%
+    }
+}
