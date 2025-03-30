@@ -4,7 +4,7 @@ title: "About Me"
 ---
 Hey! My name is Carissa Liu (She/Her/Hers), a Jersey girl who's now calling Los Angeles and Orlando her new homes. Welcome to my food, travel, and personal blog!
 
-###### I am a serious dim sum enthusiast first. But I also love doughnuts, fried seafood, bagel sandwiches, halloumi citrus salads (very specific), Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, and waffles — not necessarily all in that order 😋
+###### I am a serious dim sum enthusiast first. But I also love doughnuts, fried seafood, bagel sandwiches, halloumi citrus salads (very specific), Korean corn dogs, banana 🍌 + strawberry 🍓 ice cream, okonomiyaki, and waffles — not necessarily all in that order 😋
 
 <div class="flex-container">
   <div class="flex-item text-photo">
