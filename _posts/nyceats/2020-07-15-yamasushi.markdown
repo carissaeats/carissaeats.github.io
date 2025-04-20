@@ -32,7 +32,7 @@ The dinner boxes work a little differently, as you don't get as much control on 
     </div>
 </div>
 
-Another dish we've tried is the **spicy tuna crispy rice**. One of the most popular dishes in American-Japanese restaurants, Yama makes it look incredibly fancy. This dish is just a fried sushi rice "platform" topped with spicy tuna and more mayo/chives. It's pretty simple, but it's a dish that combines crunch with some light spice. I think it's a great introduction to those who've never had raw fish!
+Another dish we've tried is the **spicy tuna crispy rice**. One of the most popular dishes in American-Japanese restaurants, Yama makes it look incredibly fancy. This dish is just a fried sushi rice "platform" topped with spicy tuna and more mayo/chives. It's pretty simple, but it's a dish that combines crunch with some light spice. I think it's a great introduction for those who've never had raw fish!
 
 <div class="singleimagecontainer">
     <img src="/assets/images/nyceats/yamasushi/crispyrice.jpg" class="image">
