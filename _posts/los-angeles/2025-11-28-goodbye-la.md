@@ -30,4 +30,4 @@ And the end eventually did come. To be frank – senior year took the biggest t
 
 So I came into March refreshed and ready to make the most of my last months in LA, and I can now confidently say that these last five months of my life have been largely wonderful. Despite a few hiccups along the way, I made some of the best memories of my life thus far and graduated! I got to explore the foodie city of my dreams, see sights I've always wanted to, and had opportunities I could only ever dream of. And I think 17-year-old me who made the decision to pack my bags across the country would be proud of how things turned out 😊
 
-It's probably not hard to guess where I am now, but if you want the long update, head here!
+It's probably not hard to guess where I am now, but if you want the long update, [head here](/gainesville-and-more-florida/life-update)!

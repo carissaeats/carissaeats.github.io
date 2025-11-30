@@ -63,6 +63,10 @@
     <h1>{{ page.title | escape }}</h1>
     <div class="blogposts_aboutme">
       {{ content }}
+
+      <h6>
+        Please click on the post title, image, or where it says to continue reading in order to read the full post 🔖
+      </h6>
     
       {% assign category = page.name | remove: ".md" %}
     
@@ -84,7 +88,10 @@
               {%- assign overlay2 = post.overlay2 -%}
               {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 <strong>{{ post.date | date: date_format }}&nbsp;—</strong>
-                {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 58 }}
+                {{ post.content | strip_html | remove: overlay | remove: overlay2 | truncatewords: 50 }}
+                <a href="{{ post.url | relative_url }}">
+                  click here to continue reading ⭐️
+                </a>
             </p>
           </div>
         {%- endfor -%}
