@@ -97,7 +97,7 @@ To me, honey walnut shrimp is the emblem of Chinese American food to me. Even as
   </div>
 </div>
 
-Porto’s, my love! Luckily, living in Florida now, there isn’t necessarily a shortage of Cuban bakeries. However, Porto’s is HER. Through every bake sale on Trousdale and every incentive to get me to attend a club meeting, I have only grown to love Porto’s more and more. And it’s so easy to see why everyone loves it. Even after 40 years, Porto’s remains affordable – many of their baked goods run under $2 each, and their sandwiches still remain in single digit prices. The medianoche is my perfect sandwich – Cubanos are already great for me, but when you replace the crusty Cuban bread with a slightly sweet, eggy, ultra soft bread (that’s toasted!), it’s the perfect savory sandwich which a lovely kick of mustard and sour note from the pickles. 
+Porto’s, my love! Luckily, living in Florida now, there isn’t necessarily a shortage of Cuban bakeries. However, Porto’s is HER. Through every bake sale on Trousdale and every incentive to get me to attend a club meeting, I have only grown to love Porto’s more and more. And it’s so easy to see why everyone loves it. Even after 40 years, Porto’s remains affordable – many of their baked goods run under $2 each, and their sandwiches still remain in single digit prices. The medianoche is my perfect sandwich – Cubanos are already great for me, but when you replace the crusty Cuban bread with a slightly sweet, eggy, ultra soft bread (that’s toasted!), it’s the perfect savory sandwich with a lovely kick of mustard and sour note from the pickles. 
 
 #### 11. Seafood Kalguksu, *[Hangari Kalguksu](http://hangarikalguksu.com){:class="nounderline" target="_blank"}*
 
@@ -119,7 +119,7 @@ Hangari is certainly not the only place to do kalguksu, but they’re masters at
 
 I’ve never walked out of here with anything less than a very hearty afternoon snack for the next day – and it brings the same joy even a day later.
 
-#### 10. Moo Ping, *[](){:class="nounderline" target="_blank"}Luv2Eat Thai Bistro*
+#### 10. Moo Ping, *[Luv2Eat Thai Bistro](https://luv2eatthaibistro.com){:class="nounderline" target="_blank"}*
 
 🍚 **Dish Description**: Popular dish. Gluten free. (During busy hour could take at least 30 mins). The most famous Thai street food, grilled marinated pork on skewers.
 
